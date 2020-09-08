@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Fallfish Tenkara`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Isaac Tait`,
+      summary: `who now lives in San Diego but dreams of returning one day to Japan.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Exploring Japan One River At A Time`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Isaac_Tait_83`,
     },
   },
   plugins: [
