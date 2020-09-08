@@ -13,6 +13,14 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-postcss`,
+        options: {
+          postCssPlugins: [
+            require('tailwindcss')
+          ]
+        }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
