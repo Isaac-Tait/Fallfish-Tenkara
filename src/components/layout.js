@@ -14,43 +14,26 @@ const Layout = ({ location, title, children }) => {
           ...scale(1.5),
           marginBottom: rhythm(1.5),
           marginTop: 0,
-        }}
+        }} 
       >
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-        >
+        <Link to={`/`}>
           {title}
         </Link>
       </h1>
     )
   } else {
     header = (
-      <h3 class="text-5xl font-mono font-bold">
+      <p class="text-5xl font-mono font-bold">
         <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
           to={`/`}
         >
           {title}
         </Link>
-      </h3>
+      </p>
     )
   }
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-      }}
-    >
+    <div class="flex flex-col">
       <header>{header}</header>
       <main>{children}</main>
       <footer>

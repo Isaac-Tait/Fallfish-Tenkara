@@ -8,6 +8,7 @@ description: "Skiing and fishing in one day"
 
 ![Yozuku River](https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Yozukugawa+Brief/Fishing_Yozuku-River_Tenkara_Mountains_Tanazawa.jpg)
 
+
 <p class="mb-2 mt-2">Lake Tanzawa has three main tributaries. To the west is Yozukukawa. To the north is Nakagawa. The eastern tributary doesn't appear to have a name (at least according to the maps and literature I could dig up). The days were short and we only had a few hours so we headed west towards Yozukukawa. On the drive to Yozukawa we saw a monkey, sitting beside the road. It wasn't safe to stop and take photos but I was excited to see my first monkey in Japan. It was a bitterly cold and windy day. It was Cameron's first time trying out Tenkara. He has an extensive background in "traditional" fly fishing so I gave him a few quick pointers and set him loose on a promising looking pool. I tied on a new Kebari I was trying from Tenkara USA and hit the water. The wind made it hard to cast and to keep the fly in the water. Getting a good drift was next to impossible, so we headed down closer to the lake where the wind seemed to be less unrelenting. The water was deep and in hindsight I probably should have tied on a bead head midge to get down deeper but my hands were frozen and I wasn't thinking straight. After an hour of playing around we headed back to the car.</p>
 
 ![Fall Colors](https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Yozukugawa+Brief/Lake-Tanazawa_Yozukugawa_Tenkara_Fall-Colors.jpg)
