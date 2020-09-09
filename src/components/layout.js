@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import Navigation from "../components/navigation.js"
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -34,6 +35,7 @@ const Layout = ({ location, title, children }) => {
   }
   return (
     <div class="flex flex-col">
+      <Navigation />
       <header>{header}</header>
       <main>{children}</main>
       <footer>

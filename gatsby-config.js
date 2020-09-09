@@ -7,10 +7,58 @@ module.exports = {
     },
     description: `Exploring Japan One River At A Time`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteTitle: 'Information',
+
     social: {
       twitter: `Isaac_Tait_83`,
     },
-  },
+    linkOne: 'Learning Japanese',
+    linkTwo: 'Tenkara Fishing Stores',
+    linkThree: 'Keiryu Fishing Season',
+    linkFour: 'Japanese Fishing License',
+    linkFive: 'Toll Roads',
+    linkSix: 'Links',
+    linkSeven: 'About',
+    linkEight: 'Tenkara 101',
+  menuLinks: [
+    {
+      name: "home",
+      link: "/"
+    },
+    {
+      name: "Learning Japanese",
+      link: "/learning-japanese",
+    },
+    {
+      name: "Tenkara Fishing Stores",
+      link: "/tenkara-fishing-stores",
+    },
+    {
+      name: "Keiryu Fishing Season",
+      link: "/keiryu-fishing-season",
+    },
+    {
+      name: "Japanese Fishing License",
+      link: "/japanese-fishing-license",
+    },
+    {
+      name: "Toll Roads",
+      link: "/toll-roads",
+    },
+    {
+      name: "Links",
+      link: "/links",
+    },
+    {
+      name: "About",
+      link: "/about"
+    },
+    {
+      name: "Tenkara 101",
+      link: "/tenkara-101"
+    },
+  ],
+},
   plugins: [
     {
       resolve: `gatsby-plugin-postcss`,
