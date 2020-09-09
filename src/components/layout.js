@@ -29,12 +29,7 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <h3
-        style={{
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-        }}
-      >
+      <h3 class="text-5xl font-mono font-bold">
         <Link
           style={{
             boxShadow: `none`,
@@ -59,9 +54,9 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © 2014 - {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a href="https://www.gatsbyjs.org">Gatsby</a> and <a href="https://tailwindcss.com">TailwindCSS</a> 
       </footer>
     </div>
   )
