@@ -4,15 +4,15 @@ import { Link, graphql } from "gatsby";
 import Layout from "../components/layout"
 
 const Navigation = () => { 
-    siteTitle = data.site.siteMetaData.title
-    linkOne = data.site.siteMetaData.linkOne
-    linkTwo = data.site.siteMetaData.linkTwo
-    linkThree = data.site.siteMetaData.linkThree
-    linkFour = data.site.siteMetaData.linkFour
-    linkFive = data.site.siteMetaData.linkFive
-    linkSix = data.site.siteMetaData.linkSix
-    linkSeven = data.site.siteMetaData.linkSeven
-    linkEight = data.site.siteMetaData.linkEight
+    siteTitle = data.siteMetaData.title
+    linkOne = data.siteMetaData.linkOne
+    linkTwo = data.siteMetaData.linkTwo
+    linkThree = data.siteMetaData.linkThree
+    linkFour = data.siteMetaData.linkFour
+    linkFive = data.siteMetaData.linkFive
+    linkSix = data.siteMetaData.linkSix
+    linkSeven = data.siteMetaData.linkSeven
+    linkEight = data.siteMetaData.linkEight
 
     return (
         <Layout location={location} title={siteTitle}>

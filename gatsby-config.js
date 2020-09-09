@@ -8,7 +8,6 @@ module.exports = {
     description: `Exploring Japan One River At A Time`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     siteTitle: 'Information',
-
     social: {
       twitter: `Isaac_Tait_83`,
     },
