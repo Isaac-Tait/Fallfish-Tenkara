@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import Navigation from "../components/navigation.js"
+import Image from "gatsby-image"
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -10,27 +11,19 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
-      <h1
-        style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
-          marginTop: 0,
-        }} 
-      >
+      <div class="text-5xl font-serif font-bold">
         <Link to={`/`}>
           {title}
         </Link>
-      </h1>
+      </div>
     )
   } else {
     header = (
-      <p class="text-5xl font-mono font-bold">
-        <Link
-          to={`/`}
-        >
+      <div class="text-5xl font-serif font-bold">
+        <Link to={`/`}>
           {title}
         </Link>
-      </p>
+      </div>
     )
   }
   return (
