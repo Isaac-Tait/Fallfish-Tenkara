@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.mountaintopcoding.com">
-    <img alt="Another mountainTopCoding Project"/>
+    <img src="../content/assets/FfT_Logo.png" alt="Another mountainTopCoding Project"/>
   </a>
 </p>
 <h1 align="center">
