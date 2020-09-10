@@ -1,9 +1,9 @@
 import React from "react"
-import { Link, useStaticQuery } from "gatsby"
+import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation.js"
 import Image from "gatsby-image"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
