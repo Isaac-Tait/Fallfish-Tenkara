@@ -48,11 +48,13 @@ const Layout = ({ location, title, children }) => {
       <Navigation />
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
-        © 2014 - {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a> and <a href="https://tailwindcss.com">TailwindCSS</a> 
-      </footer>
+      <div class="bg-gray-500">
+        <footer>
+          © 2014 - {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.org">Gatsby</a> and <a href="https://tailwindcss.com">TailwindCSS</a> 
+        </footer>
+      </div>
     </div>
   )
 }
