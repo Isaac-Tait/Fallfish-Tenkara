@@ -13,12 +13,12 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
-      <Bio />
+      {/*<Bio />*/} 
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <article key={node.fields.slug}>
-            <header>
+            <header class="ml-20">
               <p class="font-bold underline">
                 <Link 
                   style={{ 
@@ -34,8 +34,8 @@ const BlogIndex = ({ data, location }) => {
               <small class="italic">{node.frontmatter.date}</small>
             </header>
             <hr />
-            <section class="ml-4 text-gray-600 mb-2">
-              <p
+            <section class="ml-20 text-gray-600 mb-2">
+              <p 
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
                 }}

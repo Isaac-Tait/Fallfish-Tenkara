@@ -35,7 +35,7 @@ const {
         } = data.site.siteMetadata
 
     return (
-        <div class="lg:flex lg:items-center lg:justify-between">
+        <div class="bg-red-700 lg:flex lg:items-center lg:justify-between">
             <span class="lg:text-xl lg:font-bold lg:text-gray-600">
                 <Link to="/learning-japanese">{linkOne}</Link>
             </span>
