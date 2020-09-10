@@ -1,5 +1,6 @@
 ---
 title: A Day on Ogusugawa
+description: In search of a trout stream near my home...
 date: "2015-01-22T12:55:37.121Z"
 ---
 <div class="w-8/12 max-w-5xl mx-auto m-8 p-8">
