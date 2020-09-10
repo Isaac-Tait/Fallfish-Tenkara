@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, useStaticQuery } from "gatsby"
 import Navigation from "../components/navigation.js"
 import Image from "gatsby-image"
 
@@ -9,21 +9,38 @@ const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
+  const data = useStaticQuery(graphql`
+    query LogoQuery {
+      logo: file(absolutePath: { regex: "/FfT_Logo.png/"}) {
+        childImageSharp {
+          fixed(width: 535, height: 145) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
+    }
+  `)
+
   if (location.pathname === rootPath) {
     header = (
-      <div class="text-5xl font-serif font-bold">
-        <Link to={`/`}>
-          {title}
-        </Link>
-      </div>
+      <Image
+        fixed={data.logo.childImageSharp.fixed}
+        alt="Fallfish Tenkara"
+        
+      />
     )
   } else {
     header = (
-      <div class="text-5xl font-serif font-bold">
         <Link to={`/`}>
-          {title}
+            <Image
+            fixed={data.logo.childImageSharp.fixed}
+            alt="Fallfish Tenkara"
+            // imgStyle={{
+            //   minWidth: 500,
+            //   paddingLeft: `2px`,
+            // }}
+          />
         </Link>
-      </div>
     )
   }
   return (
