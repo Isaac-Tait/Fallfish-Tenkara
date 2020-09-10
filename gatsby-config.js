@@ -81,6 +81,13 @@ module.exports = {
         name: `assets`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/content/assets`
+      }
+    },
     // If this is not commented out then the pages will appear in the blog list on the home page
     // { 
     //   resolve: `gatsby-source-filesystem`,

@@ -1,4 +1,5 @@
 import React from "react"
+
 import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation.js"
 import Image from "gatsby-image"
