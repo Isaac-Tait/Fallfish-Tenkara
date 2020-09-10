@@ -3,8 +3,6 @@ import { Link, useStaticQuery } from "gatsby"
 import Navigation from "../components/navigation.js"
 import Image from "gatsby-image"
 
-import { rhythm, scale } from "../utils/typography"
-
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
@@ -47,8 +45,9 @@ const Layout = ({ location, title, children }) => {
     <div class="flex flex-col">
       <Navigation />
       <header>{header}</header>
+      <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
-      <div class="bg-gray-500">
+      <div class="bg-red-500 w-1/2">
         <footer>
           © 2014 - {new Date().getFullYear()}, Built with
           {` `}
