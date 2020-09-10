@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Slider from "../components/slider"
 import { rhythm } from "../utils/typography"
 
 const BlogIndex = ({ data, location }) => {
@@ -33,7 +32,6 @@ const BlogIndex = ({ data, location }) => {
               </p>
               <small class="italic">{node.frontmatter.date}</small>
             </header>
-            <Slider />
             <hr />
             <section class="ml-20 text-gray-600 mb-2">
               <p 

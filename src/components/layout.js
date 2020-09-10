@@ -2,6 +2,7 @@ import React from "react"
 
 import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation.js"
+import Slider from "../components/slider"
 import Image from "gatsby-image"
 
 const Layout = ({ location, children }) => {
@@ -46,6 +47,7 @@ const Layout = ({ location, children }) => {
     <div class="flex flex-col">
       <Navigation />
       <header>{header}</header>
+      <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
       <div class="bg-red-500 w-1/2">
