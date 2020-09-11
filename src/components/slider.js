@@ -44,8 +44,8 @@ function Slider() {
                 />
             </div>
             <div>
-                <button onClick={() => handlePrevious()}>Previous</button>
-                <button onClick={() => handleNext()}>Next</button>
+                <button class="m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handlePrevious()}>Previous</button>
+                <button class="m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handleNext()}>Next</button>
             </div>
         </div>
     )
