@@ -1,6 +1,6 @@
 ---
 title: Tenkara Stores in the Kanto Plain
-date: "2017-08-02T12:30:00.121Z"
+date: "2014-08-02"
 ---
 <p class="">Tenkara Fishing Stores</p>
 

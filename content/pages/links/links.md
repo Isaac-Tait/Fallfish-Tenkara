@@ -1,6 +1,6 @@
 ---
 title: A few helpful links
-date: "2017-08-02T12:30:00.121Z"
+date: "2014-08-02"
 ---
 <p class="">A locals website with all sorts of info on fish and rivers within Japan</p>
 

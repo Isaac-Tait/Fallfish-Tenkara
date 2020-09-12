@@ -88,14 +88,14 @@ module.exports = {
         path: `${__dirname}/content/assets`
       }
     },
-    // If this is not commented out then the pages will appear in the blog list on the home page
-    // { 
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `${__dirname}/content/pages`,
-    //     name: `pages`,
-    //   },
-    // },
+    //If this is not commented out then the pages will appear in the blog list on the home page
+    { 
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/pages`,
+        name: `pages`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {

@@ -50,7 +50,7 @@ const {
             </button>
 
             <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:m-2 lg:text-lg lg:font-bold lg:text-white">
-                <Link to="/learning-japanese">{linkOne}</Link>
+                <Link to="../pages/learning-japanese">{linkOne}</Link>
             </span>
             <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
                 <Link to="/tenkara-fishing-store">{linkTwo}</Link>

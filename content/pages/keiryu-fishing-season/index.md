@@ -1,6 +1,6 @@
 ---
 title: Keiryu Fishing Season
-date: "2017-08-02T12:30:00.121Z"
+date: "2014-08-02"
 ---
 <p class="">Most Japanese keiryu and genryu (mountain streams) are closed (aka no fishing) from October 1st until the end of February. The closure coincide with spawning season and also help to protect the fisheries while there isn’t an abundant food supply. Occasionally certain regions closure schedule varies though – for example:</p>
 
