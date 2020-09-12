@@ -13,8 +13,8 @@ const Layout = ({ location, children }) => {
     query LogoQuery {
       logo: file(absolutePath: { regex: "/FfT_Logo.png/"}) {
         childImageSharp {
-          fixed(width: 535, height: 145) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 550) {
+            ...GatsbyImageSharpFluid
           }
         }
       }
@@ -23,17 +23,19 @@ const Layout = ({ location, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
-      <Image
-        fixed={data.logo.childImageSharp.fixed}
-        alt="Fallfish Tenkara"
-        
-      />
+      <div class="mb-2 pt-2 pl-1 bg-gray-400 w-1/2">
+        <Image
+          fixed={data.logo.childImageSharp.fluid}
+          alt="Fallfish Tenkara"
+        />
+      </div>
+      
     )
   } else {
     header = (
         <Link to={`/`}>
             <Image
-            fixed={data.logo.childImageSharp.fixed}
+            fixed={data.logo.childImageSharp.fluid}
             alt="Fallfish Tenkara"
             // imgStyle={{
             //   minWidth: 500,
