@@ -26,35 +26,35 @@ module.exports = {
         },
         {
           name: "Learning Japanese",
-          link: "/learning-japanese",
+          link: "pages/learning-japanese",
         },
         {
           name: "Tenkara Fishing Stores",
-          link: "/tenkara-fishing-stores",
+          link: "pages/tenkara-fishing-stores",
         },
         {
           name: "Keiryu Fishing Season",
-          link: "/keiryu-fishing-season",
+          link: "pages/keiryu-fishing-season",
         },
         {
           name: "Japanese Fishing License",
-          link: "/japanese-fishing-license",
+          link: "pages/japanese-fishing-license",
         },
         {
           name: "Toll Roads",
-          link: "/toll-roads",
+          link: "pages/toll-roads",
         },
         {
           name: "Links",
-          link: "/links",
+          link: "pages/links",
         },
         {
           name: "About",
-          link: "/about"
+          link: "pages/about"
         },
         {
           name: "Tenkara 101",
-          link: "/tenkara-101"
+          link: "pages/tenkara-101"
         },
     ],
   },

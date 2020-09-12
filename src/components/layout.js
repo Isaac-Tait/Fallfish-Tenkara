@@ -50,7 +50,7 @@ const Layout = ({ location, children }) => {
   }
   return (
     <div class="flex flex-col">
-      
+      <Navigation />
       <header>{header}</header>
       <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>

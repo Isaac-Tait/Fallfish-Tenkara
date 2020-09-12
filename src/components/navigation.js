@@ -1,33 +1,8 @@
-import React, {Component} from "react"
+
+import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby";
-import { render } from "react-dom";
-// import { render } from "react-dom";
 
-class Navigation extends Component {
-    constructor() {
-        super()
-        this.setState = {
-            dropdownOpen: false
-        }
-    }
-}
-
-toggle()
-    this.setState(prevState => ({
-        dropdownButton: !prevState.dropdownOpen
-    }))
-        
-const { 
-    linkOne,
-    linkTwo,
-    linkThree,
-    linkFour,
-    linkFive,
-    linkSix,
-    linkSeven,
-    linkEight,
-    } = data.site.siteMetadata
-
+export default () => {
 const data = useStaticQuery(graphql`
     query {
         site{
@@ -47,49 +22,77 @@ const data = useStaticQuery(graphql`
             }
         }
     }
-`)
+`);
 
-    render() 
-        return (
-            <div class="bg-red-500 mb-2 lg:flex lg:items-center lg:justify-between">
-                <button isOpen={this.state.dropdownOpen} toggle={this.toggle} class="block">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path 
-                            d="M4 6H20M4 12H20M4 18H20" 
-                            stroke="#ffffff" 
-                            stroke-width="2" 
-                            stroke-linecap="round" 
-                            stroke-linejoin="round"
-                        />
-                    </svg>
-                </button>
-    
+const { 
+        linkOne,
+        linkTwo,
+        linkThree,
+        linkFour,
+        linkFive,
+        linkSix,
+        linkSeven,
+        linkEight,
+        } = data.site.siteMetadata
+
+const [anchorEl, setAnchorEl] = React.useState(null);
+
+const handleClick = (event) => {
+    setAnchorEl(event.currentTarget);
+    };
+      
+const handleClose = () => {
+    setAnchorEl(null);
+    };
+
+    return (
+        <div class="bg-red-500 mb-2 lg:flex lg:items-center lg:justify-between">
+            <button class="block" onClick={handleClick}>
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path 
+                        fill-rule="evenodd" 
+                        clip-rule="evenodd" 
+                        d="M3 5C3 4.44772 3.44772 4 4 4H16C16.5523 4 17 4.44772 17 5C17 5.55228 16.5523 6 16 6H4C3.44772 6 3 5.55228 3 5Z" 
+                        fill="#ffffff"
+                    />
+                    <path 
+                        fill-rule="evenodd" 
+                        clip-rule="evenodd" 
+                        d="M3 10C3 9.44772 3.44772 9 4 9H16C16.5523 9 17 9.44772 17 10C17 10.5523 16.5523 11 16 11H4C3.44772 11 3 10.5523 3 10Z" 
+                        fill="#ffffff"
+                    />
+                    <path 
+                        fill-rule="evenodd" 
+                        clip-rule="evenodd" 
+                        d="M3 15C3 14.4477 3.44772 14 4 14H16C16.5523 14 17 14.4477 17 15C17 15.5523 16.5523 16 16 16H4C3.44772 16 3 15.5523 3 15Z" 
+                        fill="#ffffff"
+                    />
+                </svg>
+            </button>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:m-2 lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/learning-japanese">{linkOne}</Link>
+                    <Link onClick={handleClose} to="/learning-japanese">{linkOne}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/tenkara-fishing-store">{linkTwo}</Link>
+                    <Link onClick={handleClose} to="/tenkara-fishing-store">{linkTwo}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/keiryu-fishing-season">{linkThree}</Link>
+                    <Link onClick={handleClose} to="/keiryu-fishing-season">{linkThree}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/japanese-fishing-license">{linkFour}</Link>
+                    <Link onClick={handleClose} to="/japanese-fishing-license">{linkFour}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/toll-roads">{linkFive}</Link>
+                    <Link onClick={handleClose} to="/toll-roads">{linkFive}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/links">{linkSix}</Link>
+                    <Link onClick={handleClose} to="/links">{linkSix}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/about">{linkSeven}</Link>
+                    <Link onClick={handleClose} to="/about">{linkSeven}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:mr-2 lg:text-lg lg:font-bold lg:text-white">
-                    <Link to="/pages/tenkara-101">{linkEight}</Link>
+                    <Link onClick={handleClose} to="/tenkara-101">{linkEight}</Link>
                 </span>
-            </div>  
-        )
-
-export default Navigation
-        
+        </div>  
+    );
+};
