@@ -2,8 +2,6 @@
 title: The Intricacies of the Japanese Language
 date: "2014-08-02"
 ---
-<p class="">Learning Japanese</p>
-
 <p class="">I launched this page in conjunction with my third article for Tenkara Angler “Conversing In Japanese” to help those on the journey of learning Japanese. I have been studying the Japanese language since the Fall of 2015.</p>
 
 <p class="">Without further ado I have compiled this list of helpful resources for those learning Japanese. If you have any questions or would like to add a resource to the list please do not hesitate to contact me.</p>

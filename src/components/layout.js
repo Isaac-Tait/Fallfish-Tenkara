@@ -1,6 +1,6 @@
 import React from "react"
-
 import { Link, useStaticQuery, graphql } from "gatsby"
+
 import Navigation from "../components/navigation.js"
 import Slider from "../components/slider"
 import Image from "gatsby-image"
@@ -10,41 +10,47 @@ const Layout = ({ location, children }) => {
   let header
 
   const data = useStaticQuery(graphql`
-    query LogoQuery {
-      logo: file(absolutePath: { regex: "/FfT_Logo.png/"}) {
+    query {
+      mobileLogo: file(
+        relativePath: { eq: "FfT_Logo_Mobile.png"}
+        ) {
+          childImageSharp {
+            fluid(maxWidth: 550, quality: 100) {
+              ...GatsbyImageSharpFluid_tracedSVG
+            }
+          }
+        }
+      desktopLogo: file(
+        relativePath: { eq: "FfT_Logo_Desktop.png"}
+      ) {
         childImageSharp {
-          fixed(width: 550) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 550, quality: 100) {
+            ...GatsbyImageSharpFluid_tracedSVG
           }
         }
       }
     }
   `)
 
+  const source =[
+    data.mobileLogo.childImageSharp.fluid,
+    {
+      ...data.desktopLogo.childImageSharp.fluid,
+      media: `(min-width: 625px)`,
+    }
+  ]
+
   if (location.pathname === rootPath) {
     header = (
       <div class="mb-2 pt-2 pl-1 bg-gray-400 w-1/2">
-        <Image
-          fixed={data.logo.childImageSharp.fixed}
-          alt="Fallfish Tenkara"
-          imgStyle={{
-
-          }}
-        />
+        <Image fluid={source} alt="Fallfish Tenkara" />
       </div>
       
     )
   } else {
     header = (
         <Link to={`/`}>
-            <Image
-            fixed={data.logo.childImageSharp.fixed}
-            alt="Fallfish Tenkara"
-            // imgStyle={{
-            //   minWidth: 500,
-            //   paddingLeft: `2px`,
-            // }}
-          />
+            <Image fluid={source} alt="Fallfish Tenkara" />
         </Link>
     )
   }
@@ -71,7 +77,7 @@ const Layout = ({ location, children }) => {
             target="_blank"  
             rel="noopener noreferrer" 
           > TailwindCSS</a> 
-          <span class="ml-20"> --- Another 
+          <span class=""> --- Another 
           <a 
             href="https://www.mountaintopcoding.com"
             class="hover:text-white"

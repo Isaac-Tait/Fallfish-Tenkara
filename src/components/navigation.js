@@ -47,7 +47,7 @@ const handleClose = () => {
 
     return (
         <div class="bg-red-500 mb-2 lg:flex lg:items-center lg:justify-between">
-            <button class="block" onClick={handleClick}>
+            <button class="lg:hidden block" onClick={handleClick}>
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path 
                         fill-rule="evenodd" 
