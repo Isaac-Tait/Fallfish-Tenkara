@@ -8,13 +8,9 @@ date: "2015-03-20"
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Catch-Release_Japan_Tokyo_Tenkara_Oshino-Creek.JPG" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Close-Up_Rainbow-Trout_Tenkara.JPG" />
-
 <p class="mt-2 mb-2">Oshino is a spring fed creek which makes it perfect habitat for year round trout fishing. Opening day for the creek is March 15th, but since this place can be elbow to elbow on holiday weekends my buddy and I decided to go on the 16th, which was a Monday.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Deep-Pool_Japan_Oshino-Creek_Tenkara.JPG" />
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Incoming-Storm_Oshino-Creek.JPG" />
 
 <p class="mt-2 mb-2">The drive to Oshino is fairly quick because you take toll roads almost all the way there. The tolls are not too expensive either - round trip was about 4400 yen. When we arrived in Oshino it was apparent that old man winter was still hanging around. There were patches of snow dotting the farm fields, and the trees and grass were still sporting their winter coloring.</p>
 
@@ -26,8 +22,6 @@ date: "2015-03-20"
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Natural-Pool_Oshino-Creek.JPG" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Oshino-Creek_Japan_Mount-Fuji-Region_Flyfishing-Mecca.JPG" />
-
 <p class="mt-2 mb-2">We wandered down the path admiring the multitude of fish in the stream. There were Amago, Iwana, Rainbow and Brook Trout. They were staying pretty deep due to the cold water and wintery conditions. So, I tied on a bead head midge and caught a beautiful rainbow within a few minutes. It was a great start to what would turn out to be a wonderful day.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Oshino_Creek_Japan_Tenkara.JPG" />
@@ -38,11 +32,7 @@ date: "2015-03-20"
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Rainbow-Trout_Oshino-Creek_Mount-Fuji.JPG" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Brook-Trout.jpg" />
-
 <p class="mt-2 mb-2">So, we packed up and headed down. On the way Cameron spotted a nice pool and while I was fiddling with my line he caught several beauties including the biggest one of the day - a gorgeous Brook Trout. I had never seen a Brook Trout up close. It was truly a beautiful fish. Our friendly self-appointed "guide" from Chiba found us and told us that the fishing was superb down by the bridge and offered to show us the way. We followed him downstream while he explained the various areas and pointed out famous pools. While there were numerous anglers on the river, it never felt crowded. In fact as the day progressed and I continued downstream I saw fewer and fewer people.</p>
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Oshino-Creek_Tenkara.jpg" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rainbow-Trout_Oshino-Creek_Tenkara.jpg" />
 
@@ -53,8 +43,3 @@ date: "2015-03-20"
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rainbow-Trout_Tenkara_Oshino-Creek_Japan.JPG" />
 
 <p class="mt-2">After a few hours my rain jacket gave up (it is getting pretty old) and with the impending sunset the temps were dropping rapidly so we decided to call it a day. Once we got on the Tomei Expressway we stopped at the Ashigara rest stop and gorged ourselves on some great Japanese cuisine. It was a great day of fishing, we brought to hand nine fish and had twice that on our lines. I will certainly be headed back to experience the magic of Oshino Creek again.</p>
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rivers-Edge_Flyfishing-Shop_Guide-Service.jpg" />
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Snake_Oshino-Creek_Mount_Fuji.jpg" />
-</div>
