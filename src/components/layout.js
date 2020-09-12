@@ -12,7 +12,7 @@ const Layout = ({ location, children }) => {
   const data = useStaticQuery(graphql`
     query {
       mobileLogo: file(
-        relativePath: { eq: "FfT_Logo_Mobile.png"}
+        relativePath: { eq: "/content/assets/FfT_Logo_Mobile.png"}
         ) {
           childImageSharp {
             fluid(maxWidth: 550, quality: 100) {
@@ -21,7 +21,7 @@ const Layout = ({ location, children }) => {
           }
         }
       desktopLogo: file(
-        relativePath: { eq: "FfT_Logo_Desktop.png"}
+        relativePath: { eq: "/content/assets/FfT_Logo_Desktop.png"}
       ) {
         childImageSharp {
           fluid(maxWidth: 550, quality: 100) {
@@ -32,25 +32,25 @@ const Layout = ({ location, children }) => {
     }
   `)
 
-  const source =[
+  const sources = [
     data.mobileLogo.childImageSharp.fluid,
     {
       ...data.desktopLogo.childImageSharp.fluid,
       media: `(min-width: 625px)`,
-    }
+    },
   ]
 
   if (location.pathname === rootPath) {
     header = (
       <div class="mb-2 pt-2 pl-1 bg-gray-400 w-1/2">
-        <Image fluid={source} alt="Fallfish Tenkara" />
+        <Image fluid={sources} alt="Fallfish Tenkara" />
       </div>
       
     )
   } else {
     header = (
         <Link to={`/`}>
-            <Image fluid={source} alt="Fallfish Tenkara" />
+            <Image fluid={sources} alt="Fallfish Tenkara" />
         </Link>
     )
   }
@@ -61,7 +61,7 @@ const Layout = ({ location, children }) => {
       <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
-      <div class="bg-red-500 flex">
+      <div class="bg-red-500 flex flex-1">
         <footer class="">
           © 2014 - {new Date().getFullYear()}, Built with
           {` `}
