@@ -13,8 +13,8 @@ const Layout = ({ location, children }) => {
     query LogoQuery {
       logo: file(absolutePath: { regex: "/FfT_Logo.png/"}) {
         childImageSharp {
-          fluid(maxWidth: 550) {
-            ...GatsbyImageSharpFluid
+          fixed(width: 550) {
+            ...GatsbyImageSharpFixed
           }
         }
       }
@@ -25,8 +25,11 @@ const Layout = ({ location, children }) => {
     header = (
       <div class="mb-2 pt-2 pl-1 bg-gray-400 w-1/2">
         <Image
-          fixed={data.logo.childImageSharp.fluid}
+          fixed={data.logo.childImageSharp.fixed}
           alt="Fallfish Tenkara"
+          imgStyle={{
+
+          }}
         />
       </div>
       
@@ -35,7 +38,7 @@ const Layout = ({ location, children }) => {
     header = (
         <Link to={`/`}>
             <Image
-            fixed={data.logo.childImageSharp.fluid}
+            fixed={data.logo.childImageSharp.fixed}
             alt="Fallfish Tenkara"
             // imgStyle={{
             //   minWidth: 500,
@@ -47,7 +50,7 @@ const Layout = ({ location, children }) => {
   }
   return (
     <div class="flex flex-col">
-      <Navigation />
+      
       <header>{header}</header>
       <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>
