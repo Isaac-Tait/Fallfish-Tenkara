@@ -12,7 +12,7 @@ const Layout = ({ location, children }) => {
   const data = useStaticQuery(graphql`
     query {
       mobileLogo: file(
-        relativePath: { eq: "./content/assets/logos/FfT_Logo_Mobile.png"}
+        relativePath: {eq:"./FfT_Logo_Mobile.png"}
         ) {
           childImageSharp {
             fluid(maxWidth: 550, quality: 100) {
@@ -21,7 +21,7 @@ const Layout = ({ location, children }) => {
           }
         }
       desktopLogo: file(
-        relativePath: { eq: "./content/assets/logos/FfT_Logo_Desktop.png"}
+        relativePath: {eq:"./FfT_Logo_Desktop.png"}
       ) {
         childImageSharp {
           fluid(maxWidth: 550, quality: 100) {
