@@ -17,7 +17,7 @@ function Slider() {
                           id
                           name
                           childImageSharp {
-                            fluid(maxWidth: 1000) {
+                            fluid(maxWidth: 900, maxHeight: 255, quality: 100) {
                                 ...GatsbyImageSharpFluid
                             }
                         }
