@@ -50,29 +50,11 @@ const Layout = ({ location, children }) => {
       <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
-      <div class="bg-red-500">
+      <div class="bg-red-500 w-1/2">
         <footer>
           © 2014 - {new Date().getFullYear()}, Built with
           {` `}
-          <a 
-            href="https://www.gatsbyjs.org"
-            class="hover:text-white"
-            target="_blank"  
-            rel="noopener noreferrer" 
-          > Gatsby</a> and 
-          <a 
-            href="https://tailwindcss.com"
-            class="hover:text-white"
-            target="_blank"  
-            rel="noopener noreferrer" 
-          > TailwindCSS</a> 
-          <span class="ml-20"> --- Another 
-          <a 
-            href="https://www.mountaintopcoding.com"
-            class="hover:text-white"
-            target="_blank"  
-            rel="noopener noreferrer" 
-          > mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project</span>
+          <a href="https://www.gatsbyjs.org">Gatsby</a> and <a href="https://tailwindcss.com">TailwindCSS</a> 
         </footer>
       </div>
     </div>
