@@ -50,8 +50,8 @@ const Layout = ({ location, children }) => {
       <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
-      <div class="bg-red-500">
-        <footer>
+      <div class="bg-red-500 flex">
+        <footer class="">
           © 2014 - {new Date().getFullYear()}, Built with
           {` `}
           <a 
