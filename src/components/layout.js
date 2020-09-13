@@ -11,7 +11,7 @@ const Layout = ({ location, children }) => {
 
   const data = useStaticQuery(graphql`
     query LogoQuery {
-      logo: file(absolutePath: { regex: "/FfT_Logo.png/"}) {
+      logo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
         childImageSharp {
           fixed(width: 535, height: 145) {
             ...GatsbyImageSharpFixed
