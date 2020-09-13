@@ -15,6 +15,7 @@ const data = useStaticQuery(graphql`
                 linkSix
                 linkSeven
                 linkEight
+                linkNine
                     menuLinks {
                         link
                         name
@@ -33,21 +34,12 @@ const {
         linkSix,
         linkSeven,
         linkEight,
+        linkNine,
         } = data.site.siteMetadata
-
-const [anchorEl, setAnchorEl] = React.useState(null);
-
-const handleClick = (event) => {
-    setAnchorEl(event.currentTarget);
-    };
-      
-const handleClose = () => {
-    setAnchorEl(null);
-    };
 
     return (
         <div class="bg-red-500 mb-2 lg:flex lg:items-center lg:justify-between">
-            <button class="lg:hidden block" onClick={handleClick}>
+            <button class="lg:hidden block">
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path 
                         fill-rule="evenodd" 
@@ -70,28 +62,31 @@ const handleClose = () => {
                 </svg>
             </button>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:m-2 lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/learning-japanese">{linkOne}</Link>
+                    <Link to="/learning-japanese">{linkOne}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/tenkara-fishing-store">{linkTwo}</Link>
+                    <Link to="/tenkara-fishing-store">{linkTwo}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/keiryu-fishing-season">{linkThree}</Link>
+                    <Link to="/keiryu-fishing-season">{linkThree}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/japanese-fishing-license">{linkFour}</Link>
+                    <Link to="/japanese-fishing-license">{linkFour}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/toll-roads">{linkFive}</Link>
+                    <Link to="/toll-roads">{linkFive}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/links">{linkSix}</Link>
+                    <Link to="/links">{linkSix}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/about">{linkSeven}</Link>
+                    <Link to="/about">{linkSeven}</Link>
                 </span>
                 <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:mr-2 lg:text-lg lg:font-bold lg:text-white">
-                    <Link onClick={handleClose} to="/tenkara-101">{linkEight}</Link>
+                    <Link to="/tenkara-101">{linkEight}</Link>
+                </span>
+                <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:mr-2 lg:text-lg lg:font-bold lg:text-white">
+                    <Link to="/search">{linkNine}</Link>
                 </span>
         </div>  
     );

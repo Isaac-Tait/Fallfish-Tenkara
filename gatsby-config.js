@@ -18,6 +18,7 @@ module.exports = {
     linkSix: 'Links',
     linkSeven: 'About',
     linkEight: 'Tenkara 101',
+    linkNine: 'Search',
 
       menuLinks: [
         {
@@ -55,6 +56,10 @@ module.exports = {
         {
           name: "Tenkara 101",
           link: "pages/tenkara-101"
+        },
+        {
+          name: "Search",
+          link: "pages/search",
         },
     ],
   },

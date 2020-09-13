@@ -4,7 +4,6 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation.js"
 import Slider from "../components/slider"
 import Image from "gatsby-image"
-import Search from "../pages/search.js"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -27,19 +26,14 @@ const Layout = ({ location, children }) => {
       <Image
         fixed={data.logo.childImageSharp.fixed}
         alt="Fallfish Tenkara"
-        
       />
     )
   } else {
     header = (
         <Link to={`/`}>
-            <Image
+          <Image
             fixed={data.logo.childImageSharp.fixed}
             alt="Fallfish Tenkara"
-            // imgStyle={{
-            //   minWidth: 500,
-            //   paddingLeft: `2px`,
-            // }}
           />
         </Link>
     )
