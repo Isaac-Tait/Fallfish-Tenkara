@@ -1,5 +1,6 @@
 ---
 title: Biography
+description: A little more about the author
 date: "2014-08-02"
 ---
 

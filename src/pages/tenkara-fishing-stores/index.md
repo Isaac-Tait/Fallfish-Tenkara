@@ -1,5 +1,6 @@
 ---
 title: Tenkara Stores in the Kanto Plain
+description: Where to buy tenkara gear in the greater Tokyo region
 date: "2014-08-02"
 ---
 <p class="">Tenkara Fishing Stores</p>

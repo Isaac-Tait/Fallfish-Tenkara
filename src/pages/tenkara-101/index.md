@@ -1,5 +1,6 @@
 ---
 title: "What Is Tenkara?"
+description: The title pretty much says it all.
 date: "2014-08-02"
 ---
 

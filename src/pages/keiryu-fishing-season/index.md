@@ -1,5 +1,6 @@
 ---
 title: Keiryu Fishing Season
+description: When can you go tenkara fishing in Japan?
 date: "2014-08-02"
 ---
 <p class="">Most Japanese keiryu and genryu (mountain streams) are closed (aka no fishing) from October 1st until the end of February. The closure coincide with spawning season and also help to protect the fisheries while there isn’t an abundant food supply. Occasionally certain regions closure schedule varies though – for example:</p>

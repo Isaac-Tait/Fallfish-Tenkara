@@ -1,6 +1,6 @@
 ---
 title: Tenkara action on the Doshi River (道志川)
-description:
+description: Spending the day on the lovely Doshi River 
 date: "2015-04-19"
 ---
 <div class="w-8/12 max-w-5xl mx-auto m-8 p-8">

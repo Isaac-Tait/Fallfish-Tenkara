@@ -1,5 +1,6 @@
 ---
 title: A few helpful links
+description: Got some time to kill and want to learn a little about Japan?
 date: "2014-08-02"
 ---
 <p class="">A locals website with all sorts of info on fish and rivers within Japan</p>

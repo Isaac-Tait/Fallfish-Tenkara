@@ -1,5 +1,6 @@
 ---
 title: The Intricacies of the Japanese Language
+description: Konichiwa or Ohayo?
 date: "2014-08-02"
 ---
 <p class="">I launched this page in conjunction with my third article for Tenkara Angler “Conversing In Japanese” to help those on the journey of learning Japanese. I have been studying the Japanese language since the Fall of 2015.</p>

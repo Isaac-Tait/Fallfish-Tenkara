@@ -4,6 +4,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation.js"
 import Slider from "../components/slider"
 import Image from "gatsby-image"
+import Search from "../pages/search.js"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
