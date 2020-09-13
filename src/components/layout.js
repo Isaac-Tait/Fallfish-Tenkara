@@ -1,6 +1,6 @@
 import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
 
+import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation.js"
 import Slider from "../components/slider"
 import Image from "gatsby-image"
@@ -10,47 +10,36 @@ const Layout = ({ location, children }) => {
   let header
 
   const data = useStaticQuery(graphql`
-    query {
-      mobileLogo: file(
-        relativePath: {eq:"./FfT_Logo_Mobile.png"}
-        ) {
-          childImageSharp {
-            fluid(maxWidth: 550, quality: 100) {
-              ...GatsbyImageSharpFluid_tracedSVG
-            }
-          }
-        }
-      desktopLogo: file(
-        relativePath: {eq:"./FfT_Logo_Desktop.png"}
-      ) {
+    query LogoQuery {
+      logo: file(absolutePath: { regex: "/FfT_Logo.png/"}) {
         childImageSharp {
-          fluid(maxWidth: 550, quality: 100) {
-            ...GatsbyImageSharpFluid_tracedSVG
+          fixed(width: 535, height: 145) {
+            ...GatsbyImageSharpFixed
           }
         }
       }
     }
   `)
 
-  const sources = [
-    data.mobileLogo.childImageSharp.fluid,
-    {
-      ...data.desktopLogo.childImageSharp.fluid,
-      media: `(min-width: 625px)`,
-    },
-  ]
-
   if (location.pathname === rootPath) {
     header = (
-      <div class="mb-2 pt-2 pl-1 bg-gray-400 w-1/2">
-        <Image fluid={sources} alt="Fallfish Tenkara" />
-      </div>
-      
+      <Image
+        fixed={data.logo.childImageSharp.fixed}
+        alt="Fallfish Tenkara"
+        
+      />
     )
   } else {
     header = (
         <Link to={`/`}>
-            <Image fluid={sources} alt="Fallfish Tenkara" />
+            <Image
+            fixed={data.logo.childImageSharp.fixed}
+            alt="Fallfish Tenkara"
+            // imgStyle={{
+            //   minWidth: 500,
+            //   paddingLeft: `2px`,
+            // }}
+          />
         </Link>
     )
   }
@@ -61,8 +50,8 @@ const Layout = ({ location, children }) => {
       <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
-      <div class="bg-red-500 flex flex-1">
-        <footer class="">
+      <div class="bg-red-500">
+        <footer>
           © 2014 - {new Date().getFullYear()}, Built with
           {` `}
           <a 
@@ -77,7 +66,7 @@ const Layout = ({ location, children }) => {
             target="_blank"  
             rel="noopener noreferrer" 
           > TailwindCSS</a> 
-          <span class=""> --- Another 
+          <span class="ml-20"> --- Another 
           <a 
             href="https://www.mountaintopcoding.com"
             class="hover:text-white"
