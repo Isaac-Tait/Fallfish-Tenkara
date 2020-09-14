@@ -1,26 +1,46 @@
 import React from "react"
-import { useStaticQuery, Link, graphql } from "gatsby";
+import { Link, graphql, useStaticQuery } from "gatsby";
 
-class Navigation extends React.Component {
-    constructor() {
-        super()
-        this.state = {
-            isExpanded: false
+export default () => {
+    const data = useStaticQuery(graphql`
+    query {
+        site{
+            siteMetadata {
+                title
+                menuLinks {
+                    name
+                    link
+                }
+                linkOne
+                linkTwo
+                linkThree
+                linkFour
+                linkFive
+                linkSix
+                linkSeven
+                linkEight
+                linkNine
+                    menuLinks {
+                        link
+                        name
+                    }
+            }
         }
     }
+`)
+        const linkOne = data.site.siteMetadata.linkOne 
+        const linkTwo = data.site.siteMetadata.linkTwo
+        const linkThree = data.site.siteMetadata.linkThree
+        const linkFour = data.site.siteMetadata.linkFour
+        const linkFive = data.site.siteMetadata.linkFive
+        const linkSix = data.site.siteMetadata.linkSix
+        const linkSeven = data.site.siteMetadata.linkSeven
+        const linkEight = data.site.siteMetadata.linkEight
+        const linkNine = data.site.siteMetadata.linkNine
 
-    handleToggle(e){
-        e.preventDefault()
-        this.setState({
-            isExpanded: !this.state.isExpanded
-        })
-    }
-
-    render() {
-        const {isExpanded} = this.state
         return (
             <div class="bg-red-500 mb-2 lg:flex lg:items-center lg:justify-between">
-                <div isExpanded={this.state.isExpanded ? hidden : block}>
+                <div>
                     <span class="sm:mt-1 sm:px-2 sm:block sm:text-white sm:hover:text-black lg:m-2 lg:text-lg lg:font-bold lg:text-white">
                         <Link to="/pages/learning-japanese">{linkOne}</Link>
                     </span>
@@ -50,7 +70,7 @@ class Navigation extends React.Component {
                     </span>
                 </div>
 
-                <button onClick={(e) => this.handleToggle(e)} type="button" class="">
+                <button type="button" class="">
                     <svg class="h-6 w-6 fill-current" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                         <path 
                             fill-rule="evenodd" 
@@ -74,41 +94,4 @@ class Navigation extends React.Component {
                 </button>
             </div>  
        )
-    }
 };
-
-export default Navigation
-
-const { 
-    linkOne,
-    linkTwo,
-    linkThree,
-    linkFour,
-    linkFive,
-    linkSix,
-    linkSeven,
-    linkEight,
-    linkNine,
-    } = data.site.siteMetadata
-
-const data = useStaticQuery(graphql`
-    query {
-        site{
-            siteMetadata {
-                linkOne
-                linkTwo
-                linkThree
-                linkFour
-                linkFive
-                linkSix
-                linkSeven
-                linkEight
-                linkNine
-                    menuLinks {
-                        link
-                        name
-                    }
-            }
-        }
-    }
-`)

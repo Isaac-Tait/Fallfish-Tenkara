@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -19,16 +18,7 @@ const BlogIndex = ({ data, location }) => {
           <article key={node.fields.slug}>
             <header class="ml-20">
               <p class="font-bold underline">
-                <Link 
-                  style={{ 
-                    boxShadow: `none`,
-                    marginTop: rhythm(1),
-                    marginBottom: 0
-                  }} 
-                  to={node.fields.slug}
-                >
-                  {title}
-                </Link>
+                <Link to={node.fields.slug}>{title}</Link>
               </p>
               <small class="italic">{node.frontmatter.date}</small>
             </header>
