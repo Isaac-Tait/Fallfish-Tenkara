@@ -93,13 +93,6 @@ module.exports = {
         path: `${__dirname}/content/assets`
       }
     },
-    { 
-       resolve: `gatsby-source-filesystem`,
-       options: {
-         name: `logos`,
-         path: `${__dirname}/content/assets/logos`,
-       },
-    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
