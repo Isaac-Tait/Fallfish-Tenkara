@@ -9,24 +9,16 @@ const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
-  const logos = [
-    data.mobileLogo.childImageSharp.fluid,
-    {
-      ...data.desktopLogo.childImageSharp.fluid,
-      media: `(min-width: 500px)`
-    }
-  ]
-
   const data = useStaticQuery(graphql`
     query {
-      mobileLogo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
+      desktopLogo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
         childImageSharp {
-          fluid(maxWidth: 500, quality: 100) {
+          fluid(maxWidth: 500, quality: 50) {
             ...GatsbyImageSharpFluid_tracedSVG
           }
         }
       }
-      desktopLogo: file(
+      mobileLogo: file(
         absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
       ) {
         childImageSharp {
@@ -36,12 +28,20 @@ const Layout = ({ location, children }) => {
         }
       }
     }
-  `)
+`)
+
+const logos = [
+  data.mobileLogo.childImageSharp.fluid,
+  {
+    ...data.desktopLogo.childImageSharp.fluid,
+    media: `(min-width: 768px)`
+  }
+]
 
   if (location.pathname === rootPath) {
     header = (
       <Image
-        fluid={logos}
+        fluid={logos}        
         alt="Fallfish Tenkara"
       />
     )
@@ -58,7 +58,7 @@ const Layout = ({ location, children }) => {
   return (
     <div class="flex flex-col">
       <Navigation />
-      <header>{header}</header>
+      <header class="w-2/3 mb-2 ml-2">{header}</header>
       <Slider />
       <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
