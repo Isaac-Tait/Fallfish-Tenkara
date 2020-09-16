@@ -42,28 +42,28 @@ export default () => {
             <div class="bg-red-500 mb-2 lg:flex lg:items-center lg:justify-between">
                 <div>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/pages/learning-japanese">{linkOne}</Link>
+                        <Link to="/learning-japanese">{linkOne}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/pages/tenkara-fishing-store">{linkTwo}</Link>
+                        <Link to="/tenkara-fishing-store">{linkTwo}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/pages/keiryu-fishing-season">{linkThree}</Link>
+                        <Link to="/keiryu-fishing-season">{linkThree}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/pages/japanese-fishing-license">{linkFour}</Link>
+                        <Link to="/japanese-fishing-license">{linkFour}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/pages/toll-roads">{linkFive}</Link>
+                        <Link to="/toll-roads">{linkFive}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/pages/links">{linkSix}</Link>
+                        <Link to="/links">{linkSix}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/pages/about">{linkSeven}</Link>
+                        <Link to="/about">{linkSeven}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="pages/tenkara-101">{linkEight}</Link>
+                        <Link to="/tenkara-101">{linkEight}</Link>
                     </span>
                     <span class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
                         <Link to="/search">{linkNine}</Link>
