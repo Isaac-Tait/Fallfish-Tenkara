@@ -9,12 +9,29 @@ const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
+  const logos = [
+    data.mobileLogo.childImageSharp.fluid,
+    {
+      ...data.desktopLogo.childImageSharp.fluid,
+      media: `(min-width: 500px)`
+    }
+  ]
+
   const data = useStaticQuery(graphql`
-    query LogoQuery {
-      logo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
+    query {
+      mobileLogo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
         childImageSharp {
-          fixed(width: 535, height: 145) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 500, quality: 100) {
+            ...GatsbyImageSharpFluid_tracedSVG
+          }
+        }
+      }
+      desktopLogo: file(
+        absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
+      ) {
+        childImageSharp {
+          fluid(maxWidth: 250, quality: 100) {
+            ...GatsbyImageSharpFluid_tracedSVG
           }
         }
       }
@@ -24,7 +41,7 @@ const Layout = ({ location, children }) => {
   if (location.pathname === rootPath) {
     header = (
       <Image
-        fixed={data.logo.childImageSharp.fixed}
+        fluid={logos}
         alt="Fallfish Tenkara"
       />
     )
@@ -32,7 +49,7 @@ const Layout = ({ location, children }) => {
     header = (
         <Link to={`/`}>
           <Image
-            fixed={data.logo.childImageSharp.fixed}
+            fluid={logos}
             alt="Fallfish Tenkara"
           />
         </Link>
