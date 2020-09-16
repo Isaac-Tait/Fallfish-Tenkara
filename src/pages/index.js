@@ -17,7 +17,7 @@ const BlogIndex = ({ data, location }) => {
         return (
           <article key={node.fields.slug}>
             <header class="ml-20">
-              <p class="font-bold underline">
+              <p class="font-bold">
                 <Link to={node.fields.slug}>{title}</Link>
               </p>
               <small class="italic">{node.frontmatter.date}</small>
