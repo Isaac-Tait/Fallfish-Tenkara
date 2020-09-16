@@ -63,7 +63,7 @@ const logos = [
       <p class="text-3xl font-extrabold">Blog Posts</p>
       <main>{children}</main>
       <div class="bg-red-500">
-        <footer class="flex items-center justify-between">
+        <footer class="flex items-center justify-between text-xs md:text-base">
           <div class="ml-2">
             © 2014 - {new Date().getFullYear()}, Built with
             {` `}

@@ -36,7 +36,7 @@ function Slider() {
 
     return (
         <div>
-            <div>
+            <div class="m-2 shadow-xl">
                 <Image 
                     fluid={node.childImageSharp.fluid}
                     key={node.id}

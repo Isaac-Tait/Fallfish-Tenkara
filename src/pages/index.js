@@ -16,14 +16,14 @@ const BlogIndex = ({ data, location }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <article key={node.fields.slug}>
-            <header class="ml-20">
+            <header class="ml-16 mr-2">
               <p class="font-bold text-xl text-gray-800">
                 <Link to={node.fields.slug}>{title}</Link>
               </p>
               <small class="italic text-lg text-gray-700 tracking-wide">{node.frontmatter.date}</small>
             </header>
             <hr />
-            <section class="ml-20 text-gray-700 mb-2 tracking-wide">
+            <section class="ml-16 text-gray-700 mb-2 tracking-wide">
               <p 
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
