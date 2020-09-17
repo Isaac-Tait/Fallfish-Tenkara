@@ -40,29 +40,39 @@ const logos = [
 
   if (location.pathname === rootPath) {
     header = (
-      <Image
-        fluid={logos}        
-        alt="Fallfish Tenkara"
-      />
+      <div class="ml-2">
+        <Image
+          fluid={logos}        
+          alt="Fallfish Tenkara"
+        />
+      </div>
     )
   } else {
     header = (
+      <div class="ml-2">
         <Link to={`/`}>
           <Image
             fluid={logos}
             alt="Fallfish Tenkara"
           />
         </Link>
+      </div>
+        
     )
   }
   return (
     <div class="flex flex-col">
       <Navigation />
       <header class="w-2/3">{header}</header>
-      <Slider />
+      
+      <div>
+        <Slider />
+      </div>
+      
       <div class="bg-gray-200 mb-4 w-full md:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
         <main>{children}</main>
       </div>
+
       <div class="bg-red-500">
         <footer class="flex items-center justify-between text-xs md:text-base">
           <div class="ml-2">
@@ -81,6 +91,7 @@ const logos = [
               rel="noopener noreferrer" 
             > TailwindCSS</a>
           </div>
+
           <div>
             <span class="ml-20 mr-2"> Another 
               <a 
