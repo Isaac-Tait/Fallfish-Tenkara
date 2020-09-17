@@ -1,7 +1,7 @@
 import React from "react"
 
 import { Link, useStaticQuery, graphql } from "gatsby"
-import Navigation from "../components/navigation.js"
+import Navigation from "../components/navigation"
 import Slider from "../components/slider"
 import Image from "gatsby-image"
 
