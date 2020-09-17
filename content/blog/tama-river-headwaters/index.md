@@ -3,8 +3,8 @@ title: The Headwaters of the Tama River
 description: Exploring the upper reaches of the grandiose Tamagawa
 date: 2015-04-21
 ---
-<div class="w-8/12 max-w-5xl mx-auto m-8 p-8">
-<p class="mb-2"><strong>Day 2 Part I - Exploring the Headwaters of the Tama River</strong></p>
+<div class="text-lg m-2">
+<p class="mb-2 font-semibold">Day 2 Part I - Exploring the Headwaters of the Tama River</p>
 <p class="mb-2 mt-2">The sun woke me up right around 5:30am. I contemplated going back to sleep but the sound of the Tama River flowing past our campsite beckoned me like a siren song. I crawled out of my sleeping bag and rubbing the sleep from my eyes I stumbled to the bank of the Tama River and began to cast. As I stood there with my fly tumbling down the river I marveled at the water flowing past me. This river had been flowing for millennia. It never stopped, it never took a break, it never grew tired, it was always yearning and straining to break free of the land and enter the ocean. Much like a heart, it just kept going even when darkness settled upon the land the river kept flowing. I began to wonder <i>Where was this river born? Where did she begin her journey to the ocean? </i></p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Headwaters+of+the+Tama+River/Otsunakidani-River_Film-Shooters-Collective.jpg" alt="Early spring on the Tama river" />
