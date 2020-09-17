@@ -58,10 +58,12 @@ const logos = [
   return (
     <div class="flex flex-col">
       <Navigation />
-      <header class="w-2/3 mb-2 ml-2">{header}</header>
+      <header class="w-2/3">{header}</header>
       <Slider />
-      <p class="text-3xl font-extrabold">Blog Posts</p>
-      <main>{children}</main>
+      <div class="bg-gray-200 mb-4 w-2/3 max-w-5xl mx-auto overflow-hidden rounded-lg shadow-xl">
+        <p class="text-3xl font-extrabold">Blog Posts</p>
+        <main>{children}</main>
+      </div>
       <div class="bg-red-500">
         <footer class="flex items-center justify-between text-xs md:text-base">
           <div class="ml-2">
