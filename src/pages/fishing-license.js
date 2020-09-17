@@ -11,7 +11,7 @@ const License = () => {
             <p>A hituri ken typically cost anywhere from ¥500 – ¥4,400 per person per day and often have a restriction on how many fish you can keep.</p>     
             <p>Only rivers that are stocked by Fisheries Cooperative Association require a hituri ken. If you are fishing genryu and keiryu deep in the mountains you typically do not need one.</p>
             <p>If you are supposed to have a hituri ken but do not know where to purchase one, do not despair often times you can buy them on the spot when asked by a volunteer.</p>
-            <p>Helpful sites: <a href="https://www.tsuritickets.com/manual">Tsuri Tickets</a> and <a href="https://www.satofull.jp/products/detail.php?product_id=1001064">Satofull</a></p>
+            <p>Helpful sites: <a href="https://www.tsuritickets.com/manual" target="_blank" rel="noopener noreferrer">Tsuri Tickets</a> and <a href="https://www.satofull.jp/products/detail.php?product_id=1001064" target="_blank" rel="noopener noreferrer">Satofull</a></p>
         </div>
     )
 }
