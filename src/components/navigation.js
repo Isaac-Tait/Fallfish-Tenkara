@@ -4,10 +4,20 @@ import { Link, graphql, useStaticQuery } from "gatsby";
 import {
     ProSidebar,
     Menu,
-    MenuItem,
+    MenuItem, SubMenu
   } from 'react-pro-sidebar';
 
-import { GiSharpShuriken } from "react-icons/gi"
+import { 
+    GiSharpShuriken, 
+    GiBamboo, 
+    GiRiver, 
+    GiBoatFishing, 
+    GiPoliceCar, 
+    GiBonsaiTree, 
+    GiDiplodocus, 
+    GiCampingTent, 
+    GiFishing 
+} from "react-icons/gi"
 
 const Navigation = ({ collapsed, toggled, handleToggleSidebar }) => {
 
@@ -77,42 +87,61 @@ const Navigation = ({ collapsed, toggled, handleToggleSidebar }) => {
                     </svg>
                 </button>
 
-                <div class="bg-red-500 mb-2 lg:justify-between">
+                <div class="bg-red-500 mb-2 flex flex-col">
+                    {/*https://react-icons.github.io/react-icons/icons?name=gi*/}
                 <Menu>
-                    <MenuItem icon={<GiSharpShuriken />} class="bg-white">
-                        <Link to="/learning-japanese">{linkOne}</Link>
+                    <MenuItem icon={<GiSharpShuriken />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/learning-japanese">{linkOne}</Link>
+                        </SubMenu> 
                     </MenuItem>        
 
-                    <MenuItem >
-                        <Link to="/tenkara-fishing-store">{linkTwo}</Link>
+                    <MenuItem icon={<GiBamboo />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/tenkara-fishing-store">{linkTwo}</Link>
+                        </SubMenu>
                     </MenuItem>
 
-                    <MenuItem >
-                        <Link to="/keiryu-fishing-season">{linkThree}</Link>
+                    <MenuItem icon={<GiRiver />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/keiryu-fishing-season">{linkThree}</Link>
+                        </SubMenu>
                     </MenuItem>
 
-                    <MenuItem >
-                        <Link to="/japanese-fishing-license">{linkFour}</Link>
+                    <MenuItem icon={<GiBoatFishing />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/japanese-fishing-license">{linkFour}</Link>
+                        </SubMenu>
                     </MenuItem>
 
-                    <MenuItem >
-                        <Link to="/toll-roads">{linkFive}</Link>
+                    <MenuItem icon={<GiPoliceCar />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/toll-roads">{linkFive}</Link>
+                        </SubMenu>
                     </MenuItem>
 
-                    <MenuItem >
-                        <Link to="/links">{linkSix}</Link>
+                    <MenuItem icon={<GiBonsaiTree />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/links">{linkSix}</Link>
+                        </SubMenu>
                     </MenuItem>
 
-                    <MenuItem >
-                        <Link to="/about">{linkSeven}</Link>
+                    <MenuItem icon={<GiDiplodocus />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/about">{linkSeven}</Link>
+                        </SubMenu>
                     </MenuItem>
 
-                    <MenuItem >
-                        <Link to="/tenkara-101">{linkEight}</Link>
+                    <MenuItem icon={<GiCampingTent />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/tenkara-101">{linkEight}</Link>  
+                        </SubMenu>
                     </MenuItem>
 
-                    <MenuItem >
-                        <Link to="/search">{linkNine}</Link>
+                    <MenuItem icon={<GiFishing />} class="ml-2">
+                        <SubMenu class="mt-2">
+                            <Link to="/search">{linkNine}</Link>
+                        </SubMenu>
                     </MenuItem>
                 </Menu>
 
