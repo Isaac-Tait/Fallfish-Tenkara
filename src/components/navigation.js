@@ -1,35 +1,43 @@
 import React from "react"
-
 import { Link, graphql, useStaticQuery } from "gatsby";
-import { ProSidebar, Menu, MenuItem } from "react-pro-sidebar"
 
-export default () => {
-    const data = useStaticQuery(graphql`
-    query {
-        site{
-            siteMetadata {
-                title
-                menuLinks {
-                    name
-                    link
-                }
-                linkOne
-                linkTwo
-                linkThree
-                linkFour
-                linkFive
-                linkSix
-                linkSeven
-                linkEight
-                linkNine
-                    menuLinks {
-                        link
-                        name
+import {
+    ProSidebar,
+    Menu,
+    MenuItem,
+  } from 'react-pro-sidebar';
+
+import { GiSharpShuriken } from "react-icons/gi"
+
+const Navigation = ({ collapsed, toggled, handleToggleSidebar }) => {
+
+            const data = useStaticQuery(graphql`
+            query {
+                site{
+                    siteMetadata {
+                        title
+                        menuLinks {
+                            name
+                            link
+                        }
+                        linkOne
+                        linkTwo
+                        linkThree
+                        linkFour
+                        linkFive
+                        linkSix
+                        linkSeven
+                        linkEight
+                        linkNine
+                            menuLinks {
+                                link
+                                name
+                            }
                     }
+                }
             }
-        }
-    }
-`)
+        `)
+
         const linkOne = data.site.siteMetadata.linkOne 
         const linkTwo = data.site.siteMetadata.linkTwo
         const linkThree = data.site.siteMetadata.linkThree
@@ -41,40 +49,12 @@ export default () => {
         const linkNine = data.site.siteMetadata.linkNine
 
         return (
-            <ProSidebar>
-                <div class="bg-red-500 mb-2 lg:flex lg:items-center lg:justify-between">
-                <Menu>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/learning-japanese">{linkOne}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/tenkara-fishing-store">{linkTwo}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/keiryu-fishing-season">{linkThree}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/japanese-fishing-license">{linkFour}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/toll-roads">{linkFive}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/links">{linkSix}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/about">{linkSeven}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/tenkara-101">{linkEight}</Link>
-                    </MenuItem>
-                    <MenuItem class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white">
-                        <Link to="/search">{linkNine}</Link>
-                    </MenuItem>
-                </Menu>
-                </div>
-
-                <button type="button" class="">
+            <ProSidebar
+                collapsed={collapsed}
+                toggled={toggled}
+                onToggle={handleToggleSidebar}
+            >
+                <button type="button">
                     <svg class="h-6 w-6 fill-current" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                         <path 
                             fill-rule="evenodd" 
@@ -96,6 +76,51 @@ export default () => {
                         />
                     </svg>
                 </button>
+
+                <div class="bg-red-500 mb-2 lg:justify-between">
+                <Menu>
+                    <MenuItem icon={<GiSharpShuriken />} class="bg-white">
+                        <Link to="/learning-japanese">{linkOne}</Link>
+                    </MenuItem>        
+
+                    <MenuItem >
+                        <Link to="/tenkara-fishing-store">{linkTwo}</Link>
+                    </MenuItem>
+
+                    <MenuItem >
+                        <Link to="/keiryu-fishing-season">{linkThree}</Link>
+                    </MenuItem>
+
+                    <MenuItem >
+                        <Link to="/japanese-fishing-license">{linkFour}</Link>
+                    </MenuItem>
+
+                    <MenuItem >
+                        <Link to="/toll-roads">{linkFive}</Link>
+                    </MenuItem>
+
+                    <MenuItem >
+                        <Link to="/links">{linkSix}</Link>
+                    </MenuItem>
+
+                    <MenuItem >
+                        <Link to="/about">{linkSeven}</Link>
+                    </MenuItem>
+
+                    <MenuItem >
+                        <Link to="/tenkara-101">{linkEight}</Link>
+                    </MenuItem>
+
+                    <MenuItem >
+                        <Link to="/search">{linkNine}</Link>
+                    </MenuItem>
+                </Menu>
+
+                    {/*class="mt-1 px-2 block text-white hover:text-black lg:text-lg lg:font-bold lg:text-white lg:hover:text-red-500 lg:hover:bg-white"*/}
+
+                </div>
             </ProSidebar>  
-       )
-};
+        )
+} 
+
+export default Navigation
