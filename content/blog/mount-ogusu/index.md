@@ -3,7 +3,7 @@ title: A Day on Ogusugawa
 description: In search of a trout stream near my home...
 date: "2015-01-22T12:55:37.121Z"
 ---
-<div class="w-8/12 max-w-5xl mx-auto m-8 p-8">
+<div class="text-lg m-2">
 <p class="mb-2">In the mid-Atlantic region of the United States you would be surprised what you can find exploring the little blue lines on a map. When I arrived in Yokosuka Japan I applied the same logic. After hours spent pouring over satellite images, Google Maps street view, and Google Earth I came across Mount Ogusu. Mt. Ogusu is surrounded by a relatively large blank spot on the map. Nothing but forest, a small network of trails, and a few enticing blue lines. I saw the bait and I took it.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Ogusugawa/C/Bridge_Maedagawa_Streams_Hiking_Fish.jpg" alt="Hiking Streams" />

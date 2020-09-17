@@ -3,7 +3,7 @@ title: Tenkara action on the Doshi River (道志川)
 description: Spending the day on the lovely Doshi River 
 date: "2015-04-19"
 ---
-<div class="w-8/12 max-w-5xl mx-auto m-8 p-8">
+<div class="text-lg m-2">
 <p class="mb-2">Last week the weather was pretty nasty. Tropical Storm Haishen pushed high winds, lots of rain, and even a little bit of sleet/snow towards Miura Peninsula Japan! I took advantage of the down time to tie some flies and do some work on the backend of this site. While it was a productive week I did not move to Japan to sit behind a computer. I was itching to get out into the mountains. With a week of beautiful weather in the forecast I pieced together an epic Tenkara trip that would include the Doshi River, Shikatome River, Narago River, Tama River, Otsunakidani River, Yanagisawa River, Otsunakidani River, and finally the Otaba River. It was going to be an epic three day Tenkara adventure.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Doshi/omurozasu-doshi-river-gawa-flower-blooming-spring.JPG" alt="Flowers are blooming on the Doshi River" />

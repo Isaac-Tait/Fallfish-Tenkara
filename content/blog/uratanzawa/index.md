@@ -3,7 +3,7 @@ title: Fishing Uratanzawa
 description: Exploring a new river during a cold snap
 date: "2015-01-20"
 ---
-<div class="w-8/12 max-w-5xl mx-auto m-8 p-8">
+<div class="text-lg m-2">
 <p class="mb-2">A few days before Christmas my friend Cameron and I headed to Kannongawa, a small river about 75km (45 miles) from Tokyo. It was a cold day, temps were in the low 20's but it was our first real fishing trip and we were psyched. There are several fishing farms in this area but the one on Kannongawa has a more natural feel to it. Sure there are about 15 pools dug by a tractor and dammed with large rocks but above the man-made pools is a long section of natural river with some very deep natural pools.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Uratanzawa/Gin-Clear-Water_Tenkara_Mountain-Stream_Uratanzawa.jpg" />

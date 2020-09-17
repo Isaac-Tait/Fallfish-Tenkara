@@ -3,7 +3,7 @@ title: Camping on the Tama River (多摩川)
 description: I am currently wrapped in my sleeping bag, overlooking the Tama River and waiting for the sun to crest over the hillside.
 date: "2015-04-15"
 ---
-<div class="w-8/12 max-w-5xl mx-auto m-8 p-8">
+<div class="text-lg m-2">
 <p class="mb-2">I am currently wrapped in my sleeping bag, overlooking the Tama River and waiting for the sun to crest over the hillside.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Camping+on+the+Tama+River/S/Campground-Map_Japan_Tama-River.JPG" alt="Campground on the Tama River near Tokyo Japan" />
