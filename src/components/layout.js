@@ -60,7 +60,7 @@ const logos = [
       <Navigation />
       <header class="w-2/3">{header}</header>
       <Slider />
-      <div class="bg-gray-200 mb-4 w-2/3 max-w-5xl mx-auto overflow-hidden rounded-lg shadow-xl">
+      <div class="bg-gray-200 mb-4 w-full md:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
         <main>{children}</main>
       </div>
       <div class="bg-red-500">
