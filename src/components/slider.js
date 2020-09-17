@@ -36,16 +36,16 @@ function Slider() {
 
     return (
         <div>
-            <div class="m-2 shadow-xl">
+            <div class="m-2 shadow-xl overflow-hidden rounded-lg">
                 <Image 
                     fluid={node.childImageSharp.fluid}
                     key={node.id}
                     alt="Slider Images"
                 />
             </div>
-            <div>
-                <button class="m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handlePrevious()}>Previous</button>
-                <button class="m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handleNext()}>Next</button>
+            <div class="flex w-1/2 justify-between mx-auto">
+                <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handlePrevious()}>&#11013; Image</button>
+                <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handleNext()}>Image &#10145;</button>
             </div>
         </div>
     )
