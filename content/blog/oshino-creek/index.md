@@ -1,7 +1,7 @@
 ---
 title: Discovering Oshino Creek
 description: Oshino Creek located within a Japanese National Monument offers superb fishing.
-date: March 20, 2015
+date: "March 20, 2015"
 ---
 <div class="text-lg m-2">
 <p class="mb-2">With spring quickly approaching many rivers in Japan are beginning to open for the season. Oshino (忍野村) is a quaint village a few miles from the foot of Mount Fuji. The area Oshino Hakkai (忍野八海) is a group of eight ponds that are a Japanese National Monument. However, Oshino Creek is what we were interested in as it is a famous Japanese fly-fishing mecca.</p>

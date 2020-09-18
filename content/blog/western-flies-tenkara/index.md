@@ -1,7 +1,7 @@
 ---
 title: Experimenting with flies for cold water Tenkara
 description: Since the Tenkara fishing season kicked off just over a month ago I have found that the trout pay no mind to a tasty looking traditional kebari.
-date: April 4, 2015
+date: "April 4, 2015"
 ---
 <div class="w-8/12 max-w-5xl mx-auto m-8 p-8">
 <p class="mb-2">Since the Tenkara fishing season kicked off just over a month ago I have found that the trout pay no mind to a tasty looking traditional kebari. So I switched to heavier flies to get at the trout hangin' out on the bottom of the river. Surprisingly I had the greatest luck with a lightning bug that I found on the bank of the Gunpowder in Maryland last season. Then I caught a nice tree branch with it and rather than consign myself to looking at fish instead of catching them I started tying my own. Lo' and behold they worked, quite well in fact and much to the shock and disbelief of many Japanese anglers. One very friendly angler said that the Japanese fly fish with very tiny flies, around size 26, and she couldn't believe I was catching fish with a size 12 hook!</p>

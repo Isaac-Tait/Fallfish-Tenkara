@@ -1,7 +1,7 @@
 ---
 title: A Brief Exploration of the Lower Yozukukawa
 description: What could be better than skiing and fishing in one day?
-date: January 1, 2015
+date: "January 1, 2015"
 ---
 <div class="text-lg m-2">
 <p class="mb-2">I had not been in Japan for a month when I went on my first keiryu (Japanese for "mountain stream") fishing trip. My buddy Cameron and I woke early and headed out to ski on the flank of Mount Fuji at Snow Town Yeti. There was only one run open and it was covered in man made snow. However, this is not the man-made snow I had grown accustomed to in southern Pennsylvania. It was light, fluffy, and almost powder like. We skied for a few hours but after the runs became to crowded to safely descend (I have been hit by enough out of control snow-boarders to last a life time) we bailed and headed to Lake Tanzawa Lake.</p>
