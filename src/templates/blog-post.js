@@ -64,9 +64,11 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date
         description
       }
     }
   }
 `
+//(formatString: "MMMM DD, YYYY") apparently this has to be deleted from line 67 
+// Same for index.js, search.js, and this page...

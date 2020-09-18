@@ -1,18 +1,6 @@
 import React, { useState } from "react"
 import { Link, graphql, useStaticQuery } from "gatsby";
 
-import { 
-    GiSharpShuriken, 
-    GiBamboo, 
-    GiRiver, 
-    GiBoatFishing, 
-    GiPoliceCar, 
-    GiBonsaiTree, 
-    GiDiplodocus, 
-    GiCampingTent, 
-    GiFishing 
-} from "react-icons/gi"
-
 const Navigation = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -129,43 +117,43 @@ const Navigation = () => {
                             </span>
                         </li>
 
-                        <li icon={<GiRiver />} class="ml-2">
+                        <li>
                             <span class="mt-2">
                                 <Link to="/keiryu-fishing-season">{linkThree}</Link>
                             </span>
                         </li>
 
-                        <li icon={<GiBoatFishing />} class="ml-2">
+                        <li>
                             <span class="mt-2">
                                 <Link to="/japanese-fishing-license">{linkFour}</Link>
                             </span>
                         </li>
 
-                        <li icon={<GiPoliceCar />} class="ml-2">
+                        <li>
                             <span class="mt-2">
                                 <Link to="/toll-roads">{linkFive}</Link>
                             </span>
                         </li>
 
-                        <li icon={<GiBonsaiTree />} class="ml-2">
+                        <li>
                             <span class="mt-2">
                                 <Link to="/links">{linkSix}</Link>
                             </span>
                         </li>
 
-                        <li icon={<GiDiplodocus />} class="ml-2">
+                        <li>
                             <span class="mt-2">
                                 <Link to="/about">{linkSeven}</Link>
                             </span>
                         </li>
 
-                        <li icon={<GiCampingTent />} class="ml-2">
+                        <li>
                             <span class="mt-2">
                                 <Link to="/tenkara-101">{linkEight}</Link>  
                             </span>
                         </li>
 
-                        <li icon={<GiFishing />} class="ml-2">
+                        <li>
                             <span class="mt-2">
                                 <Link to="/search">{linkNine}</Link>
                             </span>
