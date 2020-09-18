@@ -19,7 +19,7 @@ const Layout = ({ location, children }) => {
         }
       }
       mobileLogo: file(
-        absolutePath: { regex: "/FfT_Logo_Desktop.png/"}
+        absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
       ) {
         childImageSharp {
           fluid(maxWidth: 250, quality: 100) {
@@ -40,7 +40,7 @@ const logos = [
 
   if (location.pathname === rootPath) {
     header = (
-      <div class="ml-2">
+      <div class="ml-20 mr-20 mb-2">
         <Image
           fluid={logos}        
           alt="Fallfish Tenkara"
@@ -49,7 +49,7 @@ const logos = [
     )
   } else {
     header = (
-      <div class="ml-2">
+      <div class="ml-20 mr-20 mb-2">
         <Link to={`/`}>
           <Image
             fluid={logos}
@@ -63,16 +63,13 @@ const logos = [
   return (
     <div class="flex flex-col">
       <Navigation />
-      <header class="w-3/5">{header}</header>
-      
-      <div>
-        <Slider />
-      </div>
-      
+      <header class="pr-2 md:w-2/3">{header}</header>  
+        <div class="hidden md:block">
+          <Slider />
+        </div>
       <div class="bg-gray-200 mb-4 w-full md:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
         <main>{children}</main>
       </div>
-
       <div class="bg-red-500">
         <footer class="flex items-center justify-between text-xs md:text-base">
           <div class="ml-2">
