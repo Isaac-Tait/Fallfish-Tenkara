@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "gatsby-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Exploring Japan One River At A Time",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Isaac Tait <isaac@mountaintopcoding.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
