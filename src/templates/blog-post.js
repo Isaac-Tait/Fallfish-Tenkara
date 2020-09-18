@@ -17,13 +17,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <article>
-      <header class="ml-6 mt-4">
-          <p class="text-gray-800 text-3xl">{post.frontmatter.title}</p>
-          <p class="text-gray-600">{post.frontmatter.date}</p>
+        <header class="ml-6 mt-4">
+            <p class="text-gray-800 text-3xl">{post.frontmatter.title}</p>
+            <p class="text-gray-600">{post.frontmatter.date}</p>
         </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <footer class="ml-2">
-          <Bio />
+            <Bio />
         </footer>
       </article>
 
