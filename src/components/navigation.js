@@ -72,8 +72,8 @@ const Navigation = () => {
                 </svg>  
             </button>
             {isMenuOpen && (
-              <div class="absolute top-0 left-0 divide-y divide-gray-400">
-                <div class="p-5 bg-red-500 rounded shadow-xl">
+              <div class="relative top-0 left-0 divide-y divide-gray-400">
+                <div class="p-8 bg-red-500 rounded shadow-xl">
                   <div class="flex items-center justify-between mb-4">
                     <div>
                         <span class="mr-2 text-xl font-bold tracking-wide text-white uppercase">
@@ -96,58 +96,58 @@ const Navigation = () => {
                       </button>
                     </div>
                   </div>
-                  <nav>
-                    <ul class="space-y-4">
+                  <nav class="absolute">
+                    <ul class="block lg:flex">
                         <li>
-                            <span class="mt-2">
-                                <Link to="/learning-japanese">{linkOne}</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/learning-japanese">{linkOne} |&nbsp;</Link>
                             </span> 
                         </li>        
 
                         <li>
-                            <span class="mt-2">
-                                <Link to="/tenkara-fishing-stores">{linkTwo}</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/tenkara-fishing-stores">{linkTwo} |&nbsp;</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="mt-2">
-                                <Link to="/keiryu-fishing-season">{linkThree}</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/keiryu-fishing-season">{linkThree} |&nbsp;</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="mt-2">
-                                <Link to="/fishing-license">{linkFour}</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/fishing-license">{linkFour} |&nbsp;</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="mt-2">
-                                <Link to="/toll-roads">{linkFive}</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/toll-roads">{linkFive} |&nbsp;</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="mt-2">
-                                <Link to="/links">{linkSix}</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/links">{linkSix} |&nbsp;</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="mt-2">
-                                <Link to="/about">{linkSeven}</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/about">{linkSeven} |&nbsp;</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="mt-2">
-                                <Link to="/tenkara-101">{linkEight}</Link>  
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/tenkara-101">{linkEight} |&nbsp;</Link>  
                             </span>
                         </li>
 
                         <li>
-                            <span class="mt-2">
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
                                 <Link to="/search">{linkNine}</Link>
                             </span>
                         </li>
