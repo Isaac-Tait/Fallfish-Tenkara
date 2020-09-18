@@ -1,7 +1,7 @@
 ---
 title: Scouting the Headwater of the Yozukugawa
 description: Setting off on a treasure hunt to find the elusive Japanese trout
-date: "2015-03-16T12:55:37.121Z"
+date: March 16, 2015
 ---
 
 <div class="text-lg m-2">
