@@ -19,7 +19,7 @@ const Layout = ({ location, children }) => {
         }
       }
       mobileLogo: file(
-        absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
+        absolutePath: { regex: "/FfT_Logo_Desktop.png/"}
       ) {
         childImageSharp {
           fluid(maxWidth: 250, quality: 100) {
@@ -63,7 +63,7 @@ const logos = [
   return (
     <div class="flex flex-col">
       <Navigation />
-      <header class="w-2/3">{header}</header>
+      <header class="w-3/5">{header}</header>
       
       <div>
         <Slider />

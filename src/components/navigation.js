@@ -54,39 +54,38 @@ const Navigation = () => {
     const linkNine = data.site.siteMetadata.linkNine
 
     return (
-      <div class="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
-        <div class="relative flex grid items-center grid-cols-2 lg:grid-cols-3">
-          <div class="ml-auto">
+      <div class="px-4 py-5">
+        <div class="relative">
             <button
               aria-label="Open Menu"
               title="Open Menu"
-              class="p-2 -mr-1 transition duration-200 rounded focus:outline-none focus:shadow-outline hover:bg-deep-purple-50 focus:bg-deep-purple-50"
+              class="p-2 -mr-1 transition duration-200"
               onClick={() => setIsMenuOpen(true)}
             >
-                <svg class="h-6 w-6 fill-current" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                <svg class="h-6 w-6 bg-red-500 rounded-md" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path 
                         fill-rule="evenodd" 
                         clip-rule="evenodd" 
                         d="M3 5C3 4.44772 3.44772 4 4 4H16C16.5523 4 17 4.44772 17 5C17 5.55228 16.5523 6 16 6H4C3.44772 6 3 5.55228 3 5Z" 
-                        fill="#db132e"
+                        fill="#ffffff"
                     />
                     <path 
                         fill-rule="evenodd" 
                         clip-rule="evenodd" 
                         d="M3 10C3 9.44772 3.44772 9 4 9H16C16.5523 9 17 9.44772 17 10C17 10.5523 16.5523 11 16 11H4C3.44772 11 3 10.5523 3 10Z" 
-                        fill="#db132e"
+                        fill="#ffffff"
                     />
                     <path 
                         fill-rule="evenodd" 
                         clip-rule="evenodd" 
                         d="M3 15C3 14.4477 3.44772 14 4 14H16C16.5523 14 17 14.4477 17 15C17 15.5523 16.5523 16 16 16H4C3.44772 16 3 15.5523 3 15Z" 
-                        fill="#db132e"
+                        fill="#ffffff"
                     />
                 </svg>  
             </button>
             {isMenuOpen && (
-              <div class="absolute top-0 left-0 w-full">
-                <div class="p-5 bg-red-500 rounded shadow-sm">
+              <div class="absolute top-0 left-0 divide-y divide-gray-400">
+                <div class="p-5 bg-red-500 rounded shadow-xl">
                   <div class="flex items-center justify-between mb-4">
                     <div>
                       <a
@@ -95,7 +94,7 @@ const Navigation = () => {
                         title="Company"
                         class="inline-flex items-center"
                       >
-                        <span class="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">
+                        <span class="ml-2 text-xl font-bold tracking-wide text-white uppercase">
                           Information
                         </span>
                       </a>
@@ -178,8 +177,7 @@ const Navigation = () => {
             )}
           </div>
         </div>
-      </div>
-    );
+    )
   };
 
   export default Navigation
