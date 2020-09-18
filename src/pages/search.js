@@ -51,6 +51,7 @@ const Search = props => {
         <div>
             <SEO />
             <Navigation />
+            <Link to="/" class="uppercase font-bold">Home</Link>
             <p class="font-bold text-2xl">Articles</p>
             <input
                 class="bg-gray-400 text-white ml-2" 

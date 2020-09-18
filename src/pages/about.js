@@ -18,7 +18,7 @@ const About = ({ location }) => {
         }
       }
       mobileLogo: file(
-        absolutePath: { regex: "/FfT_Logo_Desktop.png/"}
+        absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
       ) {
         childImageSharp {
           fluid(maxWidth: 250, quality: 100) {
@@ -39,7 +39,7 @@ const logos = [
 
     if (location.pathname === rootPath) {
         header = (
-        <div class="">
+        <div class="ml-20 mr-20 mb-2">
             <Image
             fluid={logos}        
             alt="Fallfish Tenkara"
@@ -48,7 +48,7 @@ const logos = [
         )
     } else {
         header = (
-        <div class="">
+        <div class="ml-20 mr-20 mb-2">
             <Link to={`/`}>
             <Image
                 fluid={logos}
@@ -63,7 +63,7 @@ const logos = [
     return (
         <div>
             <Navigation />
-            <header>{header}</header>
+            <header class="pr-2 md:w-2/3">{header}</header>
 
             <p class="">I created Fallfish Tenkara to be a compilation of stories, information, and adventures inspiration for the English speaking individual planning an adventure (of any kind) to Japan.While the stories and information have a strong Tenkara orientation I have attempted to make the content appeal to all types of outdoor aficionados.</p>
             <p class="">If you haven’t given Tenkara a try I recommend that you do. Tenkara has shown me a world, and given me new friendships, that would have remained undiscovered and unexperienced. You can learn Tenkara anywhere – it is a simple, easy, effective, and inexpensive method of fly fishing. I learned Tenkara in the riparian rivers of Maryland and West Virginia, the alpine streams of the Sierra Nevada, and the warm and clear rivers flowing through the karst hill country of Texas. Now I fish the magnificent keiryu (mountain streams) of Japan.</p>

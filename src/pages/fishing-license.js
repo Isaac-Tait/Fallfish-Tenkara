@@ -1,10 +1,69 @@
 import React from "react"
+import { Link, useStaticQuery, graphql } from "gatsby"
+import Image from "gatsby-image"
+
 import Navigation from "../components/navigation"
 
-const License = () => {
+const License = ({ location }) => {
+    const rootPath = `${__PATH_PREFIX__}/`
+    let header
+
+    const data = useStaticQuery(graphql`
+    query {
+      desktopLogo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
+        childImageSharp {
+          fluid(maxWidth: 500, quality: 50) {
+            ...GatsbyImageSharpFluid_tracedSVG
+          }
+        }
+      }
+      mobileLogo: file(
+        absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
+      ) {
+        childImageSharp {
+          fluid(maxWidth: 250, quality: 100) {
+            ...GatsbyImageSharpFluid_tracedSVG
+          }
+        }
+      }
+    }
+`)
+
+const logos = [
+  data.mobileLogo.childImageSharp.fluid,
+  {
+    ...data.desktopLogo.childImageSharp.fluid,
+    media: `(min-width: 768px)`
+  }
+]
+
+    if (location.pathname === rootPath) {
+        header = (
+        <div class="ml-20 mr-20 mb-2">
+            <Image
+            fluid={logos}        
+            alt="Fallfish Tenkara"
+            />
+        </div>
+        )
+    } else {
+        header = (
+        <div class="ml-20 mr-20 mb-2">
+            <Link to={`/`}>
+            <Image
+                fluid={logos}
+                alt="Fallfish Tenkara"
+            />
+            </Link>
+        </div>
+            
+        )
+    }
     return (
         <div>
             <Navigation />
+            <header class="pr-2 md:w-2/3">{header}</header>
+            
             <p>Obtaining a fishing license (aka hituri ken – 日釣 券 ) in Japan can be easy, as long as you know how to go about acquiring one.</p>
             <p>First make sure the river is actually open for fishing. For more information seeing Keiryu Fishing Season.</p>
             <p>Next you need to find the place to acquire your hituri ken. Sometimes they are sold at convenience stores other times you buy them from a co-op volunteers home.</p>
