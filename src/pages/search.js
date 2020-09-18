@@ -2,6 +2,7 @@ import React, { useState } from "react"
 import { Link, graphql } from "gatsby"
 
 import SEO from "../components/seo.js"
+import Navigation from "../components/navigation.js"
 
 const Search = props => {
     const { data } = props
@@ -49,6 +50,7 @@ const Search = props => {
     return (
         <div>
             <SEO />
+            <Navigation />
             <p class="font-bold text-2xl">Articles</p>
             <input
                 class="bg-gray-400 text-white ml-2" 

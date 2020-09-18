@@ -1,8 +1,10 @@
 import React from "react"
+import Navigation from "../components/navigation"
 
 const Season = () => {
     return (
         <div>
+            <Navigation />
             <p class="">Most Japanese keiryu and genryu (mountain streams) are closed (aka no fishing) from October 1st until the end of February. The closure coincide with spawning season and also help to protect the fisheries while there isn’t an abundant food supply. Occasionally certain regions closure schedule varies though – for example:</p>
             <p class="">Some streams in the Tanzawa Mountains are open till October 15th.</p>
             <p class="">Oshino does not open until March 15th.</p>

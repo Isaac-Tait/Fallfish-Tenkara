@@ -1,8 +1,10 @@
 import React from "react"
+import Navigation from "../components/navigation"
 
 const Stores = () => {
     return (
         <div>
+            <Navigation />
             <p class="">Tenkara Fishing Stores</p>
             <p class="">As I visit various Tenkara Fishing Stores throughout Japan I will update this list.</p>
             <p class="">Yokosuka</p>

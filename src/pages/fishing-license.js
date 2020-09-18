@@ -1,8 +1,10 @@
 import React from "react"
+import Navigation from "../components/navigation"
 
 const License = () => {
     return (
         <div>
+            <Navigation />
             <p>Obtaining a fishing license (aka hituri ken – 日釣 券 ) in Japan can be easy, as long as you know how to go about acquiring one.</p>
             <p>First make sure the river is actually open for fishing. For more information seeing Keiryu Fishing Season.</p>
             <p>Next you need to find the place to acquire your hituri ken. Sometimes they are sold at convenience stores other times you buy them from a co-op volunteers home.</p>

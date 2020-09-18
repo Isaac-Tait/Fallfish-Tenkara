@@ -1,8 +1,10 @@
 import React from "react"
+import Navigation from "../components/navigation"
 
 const Tenkara = () => {
     return (
         <div>
+            <Navigation />
             <p class=""> What is Tenkara?</p>
             <p class="">Well I’m glad you asked!</p>
             <p class="">Tenkara is essentially fly-fishing without the reel.</p>

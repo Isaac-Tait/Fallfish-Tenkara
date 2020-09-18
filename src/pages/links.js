@@ -1,8 +1,10 @@
 import React from "react"
+import Navigation from "../components/navigation"
 
 const Links = () => {
     return (
         <div>
+            <Navigation />
             {/*target="_blank" rel="noopener noreferrer"*/}
             <p class="">A locals website with all sorts of info on fish and rivers within Japan</p>
             <p class="">Toll Calculator for Drivers in Japan (Hint: it is all in Japanese so I suggest having Google Maps open in another tab so that you can compare)</p>
