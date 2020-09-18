@@ -118,7 +118,7 @@ const Navigation = () => {
 
                         <li>
                             <span class="mt-2">
-                                <Link to="/japanese-fishing-license">{linkFour}</Link>
+                                <Link to="/fishing-license">{linkFour}</Link>
                             </span>
                         </li>
 
