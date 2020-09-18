@@ -73,8 +73,8 @@ const Navigation = () => {
             </button>
             {isMenuOpen && (
               <div class="relative top-0 left-0 divide-y divide-gray-400">
-                <div class="p-8 bg-red-500 rounded shadow-xl">
-                  <div class="flex items-center justify-between mb-4">
+                <div class="p-8 h-screen bg-red-500 rounded shadow-xl">
+                  <div class="flex items-center justify-between lg:mb-4">
                     <div>
                         <span class="mr-2 text-xl font-bold tracking-wide text-white uppercase">
                           Information
