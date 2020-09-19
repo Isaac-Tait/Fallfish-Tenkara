@@ -2,6 +2,7 @@
 title: Fishing Uratanzawa
 description: Exploring a new river during a cold snap
 date: "January 20, 2015"
+tags: [Kanagawa Prefecture]
 ---
 <div class="text-lg m-2">
 <p class="mb-2">A few days before Christmas my friend Cameron and I headed to Kannongawa, a small river about 75km (45 miles) from Tokyo. It was a cold day, temps were in the low 20's but it was our first real fishing trip and we were psyched. There are several fishing farms in this area but the one on Kannongawa has a more natural feel to it. Sure there are about 15 pools dug by a tractor and dammed with large rocks but above the man-made pools is a long section of natural river with some very deep natural pools.</p>

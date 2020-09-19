@@ -2,6 +2,7 @@
 title: Discovering the Yanagisawa River
 description: Exploring a river system right off the highway
 date: "April 23, 2015"
+tags: [Tokyo Prefecture]
 ---
 <div class="text-lg m-2">
 <p class="mb-2">If you missed <span class="underline">Day 2 Part I</span> check it out <a href="https://fallfishtenkara.com/tama-river-headwaters/" target="_blank" >here</a></p>

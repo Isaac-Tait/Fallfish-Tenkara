@@ -2,6 +2,7 @@
 title: A day hike exploring Miura Peninsula's rock formations 
 description: Before the Golden Week crowds descended en-mass I head out for some solitude and exercise
 date: "April 27, 2015"
+tags: [Kanagawa Prefecture]
 ---
 <div class=“text”-lg m-2>
 <p class="mb-2">Authors Note: I have decided to start a semi-regular segment chronicling my day to day life in Japan. Everything in Japan is so different when compared to the United States, so I thought I would share with my readers my various experiences of living in Japan. It will be a catch all category, covering everything from baseball games in Tokyo, to skiing in Hakuba, to rock climbing in Jogasaki. So without further ado I present the first installment of "Life In Japan"<strong> A Day Hike On Miura Peninsula</strong></p>

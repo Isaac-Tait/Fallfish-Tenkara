@@ -2,6 +2,7 @@
 title: Revisiting Oshino during the spring thaw
 description: Last week I headed back to Oshino Creek. I did not have a chance to fish the lower sections the first time I went.
 date: "April 5, 2015"
+tags: [Yamanashi Prefecture]
 ---
 <div class="text-lg m-2">
 <p class="mb-2">Last week I headed back to Oshino Creek. I did not have a chance to fish the lower sections the first time I went. The lower sections features more swift water than the upper section and I was eager to check it out. For the most part Oshino is a slow and deep river but the sections of "white-water" do offer some great fishing.</p>
