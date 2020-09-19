@@ -9,33 +9,33 @@ const Prefectures = ({ location }) => {
     let header
 
     const data = useStaticQuery(graphql`
-    query {
-      desktopLogo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
-        childImageSharp {
-          fluid(maxWidth: 500, quality: 50) {
-            ...GatsbyImageSharpFluid_tracedSVG
-          }
+        query {
+        desktopLogo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
+            childImageSharp {
+            fluid(maxWidth: 500, quality: 50) {
+                ...GatsbyImageSharpFluid_tracedSVG
+            }
+            }
         }
-      }
-      mobileLogo: file(
-        absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
-      ) {
-        childImageSharp {
-          fluid(maxWidth: 250, quality: 100) {
-            ...GatsbyImageSharpFluid_tracedSVG
-          }
+        mobileLogo: file(
+            absolutePath: { regex: "/FfT_Logo_Mobile.png/"}
+        ) {
+            childImageSharp {
+            fluid(maxWidth: 250, quality: 100) {
+                ...GatsbyImageSharpFluid_tracedSVG
+            }
+            }
         }
-      }
-    }
-`)
+        }
+    `)
 
-const logos = [
-  data.mobileLogo.childImageSharp.fluid,
-  {
-    ...data.desktopLogo.childImageSharp.fluid,
-    media: `(min-width: 768px)`
-  }
-]
+    const logos = [
+    data.mobileLogo.childImageSharp.fluid,
+    {
+        ...data.desktopLogo.childImageSharp.fluid,
+        media: `(min-width: 768px)`
+    }
+    ]
 
     if (location.pathname === rootPath) {
         header = (
