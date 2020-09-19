@@ -101,61 +101,61 @@ const Navigation = () => {
                   <nav class="absolute">
                     <ul class="block lg:flex">
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/learning-japanese">{linkOne} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/learning-japanese">{linkOne}</Link>
                             </span> 
                         </li>        
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/tenkara-fishing-stores">{linkTwo} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/tenkara-fishing-stores">{linkTwo}</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/keiryu-fishing-season">{linkThree} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/keiryu-fishing-season">{linkThree}</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/fishing-license">{linkFour} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/fishing-license">{linkFour}</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/toll-roads">{linkFive} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/toll-roads">{linkFive}</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/links">{linkSix} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/links">{linkSix}</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/about">{linkSeven} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/about">{linkSeven}</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/tenkara-101">{linkEight} |&nbsp;</Link>  
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/tenkara-101">{linkEight}</Link>  
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/search">{linkNine} |&nbsp;</Link>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/search">{linkNine}</Link>
                             </span>
                         </li>
 
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
                                 <Link to="/tags">{linkTen}</Link>
                             </span>
                         </li>
