@@ -30,7 +30,7 @@ const TagsPage = ({
           </li>
         ))}
       </ul>
-      <Link to="/" class="uppercase font-bold ml-2">Take me back to the Home Page</Link>
+      <Link to="/" class="uppercase font-bold ml-2 text-red-500">Take me back to the Home Page</Link>
     </div>
     <div class="bg-red-500 mt-24">
         <footer class="flex items-center justify-between text-xs md:text-base">
