@@ -22,6 +22,7 @@ const Navigation = () => {
                 linkSeven
                 linkEight
                 linkNine
+                linkTen
                     menuLinks {
                         link
                         name
@@ -40,6 +41,7 @@ const Navigation = () => {
     const linkSeven = data.site.siteMetadata.linkSeven
     const linkEight = data.site.siteMetadata.linkEight
     const linkNine = data.site.siteMetadata.linkNine
+    const linkTen = data.site.siteMetadata.linkTen
 
     return (
       <div class="px-4 py-5">
@@ -148,9 +150,16 @@ const Navigation = () => {
 
                         <li>
                             <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
-                                <Link to="/search">{linkNine}</Link>
+                                <Link to="/search">{linkNine} |&nbsp;</Link>
                             </span>
                         </li>
+
+                        <li>
+                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg">
+                                <Link to="/tags">{linkTen}</Link>
+                            </span>
+                        </li>
+
                     </ul>
                   </nav>
                 </div>

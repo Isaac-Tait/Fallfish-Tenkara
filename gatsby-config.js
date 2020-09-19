@@ -10,15 +10,16 @@ module.exports = {
     social: {
       twitter: `Isaac_Tait_83`,
     },
-    linkOne: 'Learning Japanese',
-    linkTwo: 'Tenkara Fishing Stores',
+    linkOne: 'Japanese 日本語',
+    linkTwo: 'Tenkara Shops',
     linkThree: 'Keiryu Fishing Season',
-    linkFour: 'Japanese Fishing License',
+    linkFour: 'Fishing License',
     linkFive: 'Toll Roads',
     linkSix: 'Links',
     linkSeven: 'About',
     linkEight: 'Tenkara 101',
     linkNine: 'Search',
+    linkTen: 'Prefectures',
 
       menuLinks: [
         {
@@ -26,11 +27,11 @@ module.exports = {
           link: "/"
         },
         {
-          name: "Learning Japanese",
+          name: "Japanese 日本語",
           link: "/learning-japanese",
         },
         {
-          name: "Tenkara Fishing Stores",
+          name: "Tenkara Shops",
           link: "/tenkara-fishing-stores",
         },
         {
@@ -38,7 +39,7 @@ module.exports = {
           link: "/keiryu-fishing-season",
         },
         {
-          name: "Japanese Fishing License",
+          name: "Fishing License",
           link: "/japanese-fishing-license",
         },
         {
@@ -60,6 +61,10 @@ module.exports = {
         {
           name: "Search",
           link: "/search",
+        },
+        {
+          name: "Prefectures",
+          link: "/tags",
         },
     ],
   },
