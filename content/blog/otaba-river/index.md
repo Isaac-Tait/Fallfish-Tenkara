@@ -4,7 +4,7 @@ description: As I reflect back on the three days I spent in the Kanto Mountain R
 date: “April 29, 2015”
 tags: [Tokyo Prefecture]
 ---
-<div class=“text”-lg m-2>
+<div class=“text-lg m-2">
 <p class="mb-2">As I reflect back on the three days I spent in the Kanto Mountain Range (関東山脈) the highlight for me was the last day which was spent exploring Otaba River (a special thanks to <a href="https://ridgelineimages.com" target="_blank" rel="noopener noreferrer">Ridgeline Images</a> for his fortuitous comment which put this river on my radar). After some research I realized that the Kanto Mountains trip I was planning was going to be very close to the Otaba River. Naturally I had to check it out!</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Otaba/Boulder_Otabagawa_Otaba-River_Otaba_Japan_Tenkara_Keiryu.JPG" alt="Mossy boulder & river" />
