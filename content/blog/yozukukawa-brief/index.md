@@ -1,7 +1,7 @@
 ---
 title: A Brief Exploration of the Lower Yozukukawa
 description: What could be better than skiing and fishing in one day?
-date: "January 1, 2015"
+date: 2015-01-01T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
 <div class="text-lg m-2">

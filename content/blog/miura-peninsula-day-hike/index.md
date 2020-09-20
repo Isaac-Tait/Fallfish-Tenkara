@@ -1,7 +1,7 @@
 ---
 title: A day hike exploring Miura Peninsula's rock formations 
 description: Before the Golden Week crowds descended en-mass I head out for some solitude and exercise
-date: "April 27, 2015"
+date: 2015-04-27T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
 <div class=“text-lg m-2">

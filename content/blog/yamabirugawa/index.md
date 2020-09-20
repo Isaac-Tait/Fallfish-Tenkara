@@ -1,7 +1,7 @@
 ---
 title: Yamabirugawa
 description: I have ticked off numerous things on my "to-do" list while living in Japan. For example, I have skied Japan's famous powder and I have gotten lost in Tokyo. But...
-date: “May 14, 2015”
+date: 2015-05-14T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
 <div class=“text-lg m-2”>

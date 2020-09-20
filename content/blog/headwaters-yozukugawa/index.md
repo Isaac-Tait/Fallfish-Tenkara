@@ -1,7 +1,7 @@
 ---
 title: Scouting the Headwater of the Yozukugawa
 description: Setting off on a treasure hunt to find the elusive Japanese trout
-date: "March 16, 2015"
+date: 2015-03-16T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
 

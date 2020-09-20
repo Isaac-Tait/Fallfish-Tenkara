@@ -1,7 +1,7 @@
 ---
 title: A Day on Ogusugawa
 description: In search of a trout stream near my home...
-date: "January 22, 2015"
+date: 2015-01-22T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
 <div class="text-lg m-2">

@@ -1,7 +1,7 @@
 ---
 title: A Day on the Otaba River - 大丹波川
 description: As I reflect back on the three days I spent in the Kanto Mountain Range (関東山脈) the highlight for me was the last day which was spent exploring Otaba River
-date: “April 29, 2015”
+date: 2015-04-29T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
 <div class=“text-lg m-2">

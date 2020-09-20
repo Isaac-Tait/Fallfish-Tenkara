@@ -1,7 +1,7 @@
 ---
 title: The Headwaters of the Tama River
 description: Exploring the upper reaches of the grandiose Tamagawa
-date: "April 21, 2015"
+date: 2015-04-21T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
 <div class="text-lg m-2">

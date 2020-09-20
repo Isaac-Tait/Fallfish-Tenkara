@@ -1,7 +1,7 @@
 --- 
 title: Revisiting Oshino during the spring thaw
 description: Last week I headed back to Oshino Creek. I did not have a chance to fish the lower sections the first time I went.
-date: "April 5, 2015"
+date: 2015-04-05T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---
 <div class="text-lg m-2">
