@@ -3,7 +3,7 @@ module.exports = {
     title: `Fallfish Tenkara`,
     author: {
       name: `Isaac Tait`,
-      summary: `who now lives in San Diego but dreams of returning one day to Japan.`,
+      summary: `who now lives in San Diego but dreams of returning, one day, to Japan.`,
     },
     description: `Exploring Japan One River At A Time`,
     siteUrl: process.env.DEPLOY_PRIME_URL, // From Wes Bos https://github.com/wesbos/wesbos/blob/master/gatsby-config.js
