@@ -51,15 +51,18 @@ const Search = props => {
         <div>
             <SEO />
             <Navigation />
-            <Link to="/" class="uppercase font-bold">Home</Link>
-            <p class="font-bold text-2xl">Articles</p>
-            <input
-                class="bg-gray-400 text-white ml-2" 
-                type="text"
-                aria-label="Search"
-                placeholder="Type to filter posts..."
-                onChange={handleInput}
-            />
+            <Link to="/" class="uppercase font-bold text-red-500">Take me back to the Home Page</Link>
+            <div class="flex flex-col w-full pl-24 mb-4">
+                <p class="font-bold text-2xl">Content</p>
+                <input
+                    class="border-2 border-solid pl-2 text-red-500 w-1/3 h-12" 
+                    type="text"
+                    aria-label="Search"
+                    placeholder="Enter search query..."
+                    onChange={handleInput}
+                />
+            </div>
+            
             {posts.map(({ node }) => {
                 const { excerpt } = node 
 
@@ -68,24 +71,23 @@ const Search = props => {
     
 
                 return (
-                    <article key={slug}>
-                        <header class="pl-2 text-xl">
-                            <p>
-                                <Link to={slug}>{title}</Link>
-                            </p>
-
-                            <p>{date}</p>
-                        </header>
-                        <section>
-                            <p 
-                            dangerouslySetInnerHTML={{
-                                __html: description || excerpt,
-                            }}
-                            class="pl-4 italic text-gray-700"
-                            />
-                        </section>
-                        <hr />
-                    </article>
+                    <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+                        <article key={slug}>
+                            <header>
+                                <p class="pl-2 text-xl font-bold">
+                                    <Link to={slug}>{title}</Link>
+                                </p>
+                                <p class="pl-2">{date}</p>
+                                <p 
+                                dangerouslySetInnerHTML={{
+                                    __html: description || excerpt,
+                                }}
+                                class="pl-2 italic text-gray-700"
+                                />
+                            
+                            </header>
+                        </article>
+                    </div>
                 )
             })}
             <div class="bg-red-500">
