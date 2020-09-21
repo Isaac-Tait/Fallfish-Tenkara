@@ -14,7 +14,6 @@
     "gatsby-plugin-manifest": "^2.4.30",
     "gatsby-plugin-netlify": "^2.3.15",
     "gatsby-plugin-offline": "^3.2.28",
-    "gatsby-plugin-page-creator": "^2.3.28",
     "gatsby-plugin-postcss": "^2.3.12",
     "gatsby-plugin-react-helmet": "^3.3.11",
     "gatsby-plugin-sharp": "^2.6.36",
