@@ -50,20 +50,21 @@ const Search = props => {
 
     return (
         <div>
-            <SEO />
             <Navigation />
             <Link to="/" class="uppercase font-bold text-red-500">Take me back to the Home Page</Link>
-            <div class="flex flex-col w-full pl-24 mb-4">
-                <p class="font-bold text-2xl">Content</p>
-                <input
-                    class="border-2 border-solid pl-2 text-red-500 w-1/3 h-12" 
-                    type="text"
-                    aria-label="Search"
-                    placeholder="Enter search query..."
-                    onChange={handleInput}
-                />
+        <div class="flex flex-col items-center justify-center">
+            <SEO />
+                <div class="max-w-md px-10 py-12">
+                    <p class="pl-8 font-bold text-2xl">Content</p>
+                    <input
+                        class="border-2 border-solid pl-2 text-red-500 w-full h-12" 
+                        type="text"
+                        aria-label="Search"
+                        placeholder="Enter search query..."
+                        onChange={handleInput}
+                    />
+                </div>
             </div>
-            
             {posts.map(({ node }) => {
                 const { excerpt } = node 
 
