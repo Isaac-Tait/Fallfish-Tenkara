@@ -70,5 +70,3 @@ export const pageQuery = graphql`
     }
   }
 `
-//(formatString: "MMMM DD, YYYY") apparently this has to be deleted from line 67 
-// Same for index.js, search.js, and this page...
