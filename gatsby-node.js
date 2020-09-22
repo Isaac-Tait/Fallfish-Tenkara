@@ -1,7 +1,7 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const _ = require("lodash")
-const { paginate } = require('gatsby-awesome-pagination')
+// const { paginate } = require('gatsby-awesome-pagination')
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
@@ -36,13 +36,13 @@ exports.createPages = async ({ graphql, actions }) => {
     `
   )
 
-  paginate({
-    createPage,
-    items: result.data.allMarkdownRemark.nodes,
-    itemsPerPage: 10,
-    pathPrefix: '/blog',
-    component: blogPost
-  })
+  // paginate({
+  //   createPage,
+  //   items: result.data.allMarkdownRemark.nodes,
+  //   itemsPerPage: 10,
+  //   pathPrefix: '/blog',
+  //   component: blogPost
+  // })
 
   if (result.errors) {
     throw result.errors
