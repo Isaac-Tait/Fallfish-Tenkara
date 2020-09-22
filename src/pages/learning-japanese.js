@@ -63,11 +63,43 @@ const logos = [
         <div>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
-            
-            <p class="">I launched this page in conjunction with my third article for Tenkara Angler “Conversing In Japanese” to help those on the journey of learning Japanese. I have been studying the Japanese language since the Fall of 2015.</p>
-            <p class="">Without further ado I have compiled this list of helpful resources for those learning Japanese. If you have any questions or would like to add a resource to the list please do not hesitate to contact me.</p>
-            <p class="">A list of helpful mobile phone applications can be found here (in particular I am a huge fan of Tae Kim’s Guide to Learning Japanese scroll down to David W. comments</p>
-            <p class="">The Tenkara Word Bank is an excellent resource. I have saved it to my offline Evernote notebook “Tenkara” for reference when away from cell reception/wi-fi.</p>
+            <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+              <p class="ml-2 mb-4">I launched this page in conjunction with my third article for Tenkara Angler “Conversing In Japanese” to help those on the journey of learning Japanese. I have been studying the Japanese language since the Fall of 2015.</p>
+              <p class="ml-2 mb-4">Without further ado I have compiled this list of helpful resources for those learning Japanese. If you have any questions or would like to add a resource to the list please do not hesitate to contact me.</p>
+              <p class="ml-2 mb-4">A list of helpful mobile phone applications can be found here (in particular I am a huge fan of Tae Kim’s Guide to Learning Japanese scroll down to David W. comments</p>
+              <p class="ml-2 mb-4">The Tenkara Word Bank is an excellent resource. I have saved it to my offline Evernote notebook “Tenkara” for reference when away from cell reception/wi-fi.</p>
+            </div>
+            <div class="bg-red-500">
+                <footer class="flex items-center justify-between text-xs md:text-base">
+                    <div class="ml-2">
+                        © 2014 - {new Date().getFullYear()}, Built with
+                        {` `}
+                        <a 
+                        href="https://www.gatsbyjs.org"
+                        class="hover:text-white"
+                        target="_blank"  
+                        rel="noopener noreferrer" 
+                        > Gatsby</a> and 
+                        <a 
+                        href="https://tailwindcss.com"
+                        class="hover:text-white"
+                        target="_blank"  
+                        rel="noopener noreferrer" 
+                        > TailwindCSS</a>
+                    </div>
+
+                    <div>
+                        <span class="ml-20 mr-2"> Another 
+                        <a 
+                            href="https://www.mountaintopcoding.com"
+                            class="hover:text-white"
+                            target="_blank"  
+                            rel="noopener noreferrer" 
+                        > mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project
+                        </span>
+                    </div>
+                </footer>
+            </div>
         </div>
     )
 }

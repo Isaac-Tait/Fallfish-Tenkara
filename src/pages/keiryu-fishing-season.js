@@ -63,15 +63,47 @@ const logos = [
         <div>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
+            <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+              <p class="ml-2 mb-4">Most Japanese keiryu and genryu (mountain streams) are closed (aka no fishing) from October 1st until the end of February. The closure coincide with spawning season and also help to protect the fisheries while there isn’t an abundant food supply. Occasionally certain regions closure schedule varies though – for example:</p>
+              <p class="ml-2 mb-4">Some streams in the Tanzawa Mountains are open till October 15th.</p>
+              <p class="ml-2 mb-4">Oshino does not open until March 15th.</p>
+              <p class="ml-2 mb-4">Rivers in Nagano Prefecture open on February 16th.</p>
+              <p class="ml-2 mb-4">Rivers on Izu Peninsula do not close until November 1st.</p>
+              <p class="ml-2 mb-4">If the river you want to fish is open make sure you have a Japanese Fishing License.</p>
+              <p class="ml-2 mb-4">There are a few options though if you want to fish in the off season as there are numerous “fish farms” that are open year around and stocked with hundreds if not thousands of fish (like this one). However, you typically have to pay upwards of $35 a day to fish at these places.</p>
+              <p class="ml-2 mb-4">Also warm water rivers that aren’t able to support trout due to water temperature can be fished year around. I’ve seen many anglers on the Tama River and the Sagami River during the winter months when the keiryu and genryu are closed. The fish in these types of river tend to be bass, carp, and zatsugyo.</p>
+            </div>
+            <div class="bg-red-500">
+                <footer class="flex items-center justify-between text-xs md:text-base">
+                    <div class="ml-2">
+                        © 2014 - {new Date().getFullYear()}, Built with
+                        {` `}
+                        <a 
+                        href="https://www.gatsbyjs.org"
+                        class="hover:text-white"
+                        target="_blank"  
+                        rel="noopener noreferrer" 
+                        > Gatsby</a> and 
+                        <a 
+                        href="https://tailwindcss.com"
+                        class="hover:text-white"
+                        target="_blank"  
+                        rel="noopener noreferrer" 
+                        > TailwindCSS</a>
+                    </div>
 
-            <p class="">Most Japanese keiryu and genryu (mountain streams) are closed (aka no fishing) from October 1st until the end of February. The closure coincide with spawning season and also help to protect the fisheries while there isn’t an abundant food supply. Occasionally certain regions closure schedule varies though – for example:</p>
-            <p class="">Some streams in the Tanzawa Mountains are open till October 15th.</p>
-            <p class="">Oshino does not open until March 15th.</p>
-            <p class="">Rivers in Nagano Prefecture open on February 16th.</p>
-            <p class="">Rivers on Izu Peninsula do not close until November 1st.</p>
-            <p class="">If the river you want to fish is open make sure you have a Japanese Fishing License.</p>
-            <p class="">There are a few options though if you want to fish in the off season as there are numerous “fish farms” that are open year around and stocked with hundreds if not thousands of fish (like this one). However, you typically have to pay upwards of $35 a day to fish at these places.</p>
-            <p class="">Also warm water rivers that aren’t able to support trout due to water temperature can be fished year around. I’ve seen many anglers on the Tama River and the Sagami River during the winter months when the keiryu and genryu are closed. The fish in these types of river tend to be bass, carp, and zatsugyo.</p>
+                    <div>
+                        <span class="ml-20 mr-2"> Another 
+                        <a 
+                            href="https://www.mountaintopcoding.com"
+                            class="hover:text-white"
+                            target="_blank"  
+                            rel="noopener noreferrer" 
+                        > mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project
+                        </span>
+                    </div>
+                </footer>
+            </div>
         </div>
     )
 }

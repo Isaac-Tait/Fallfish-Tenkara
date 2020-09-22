@@ -63,22 +63,54 @@ const logos = [
         <div>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
+            <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+              <p class="ml-2 mb-4"> What is Tenkara?</p>
+              <p class="ml-2 mb-4">I am glad you asked!</p>
+              <p class="ml-2 mb-4">Tenkara is essentially fly-fishing without the reel.</p>
+              <p class="ml-2 mb-4">Tenkara originated in Japan. The word ‘Tenkara’ is a Japanese word and is loosely translated “From Heaven“.</p>
+              <p class="ml-2 mb-4">As you may have gathered from the lack of a reel, Tenkara is simple.</p>
+              <p class="ml-2 mb-4">Tenkara rods lack a reel seat and line guides so they are much cheaper to manufacturer than “traditional” fly rods.</p>
+              <p class="ml-2 mb-4">Tenkara is fun and easy to learn.</p>
+              <p class="ml-2 mb-4">What are the benefits of Tenkara vs. other forms of fishing?</p>
+              <p class="ml-2 mb-4">The rods are lightweight and collapse into themselves for easy and quick transportation/setup. You can fish one handed (which is great for cold weather fishing)! You do not need bulky heavy tackle boxes and vests stuffed to the gills with gear. It is also an extremely effective method of fishing in terms of how many fish you will bring to hand.</p>
+              <p class="ml-2 mb-4">A little history ---</p>
+              <p class="ml-2 mb-4">As I mentioned early, Tenkara originated in Japan. It started as an effective method for mountain fishermen to catch fish. It became a mainstream activity when the Samurai adopted it as a leisure pass-time way back in the Japanese Edo Era. Tenkara was introduced in the United States in 2009 by Tenkara USA and has been spreading like wildfire ever since.</p>
+              <p class="ml-2 mb-4">So what is next?</p>
+              <p class="ml-2 mb-4">There are hundreds if not thousands of Tenkara rod options currently on the market. Check out My Tenkara Rods page to see what rods I use.</p>
+              <p class="ml-2 mb-4">If you have any questions about Tenkara, Tenkara in Japan, or just want to say hi feel free to contact me directly.</p>
+              <p class="ml-2 mb-4">See you on the water!</p>
+            </div>
+            <div class="bg-red-500">
+                <footer class="flex items-center justify-between text-xs md:text-base">
+                    <div class="ml-2">
+                        © 2014 - {new Date().getFullYear()}, Built with
+                        {` `}
+                        <a 
+                        href="https://www.gatsbyjs.org"
+                        class="hover:text-white"
+                        target="_blank"  
+                        rel="noopener noreferrer" 
+                        > Gatsby</a> and 
+                        <a 
+                        href="https://tailwindcss.com"
+                        class="hover:text-white"
+                        target="_blank"  
+                        rel="noopener noreferrer" 
+                        > TailwindCSS</a>
+                    </div>
 
-            <p class=""> What is Tenkara?</p>
-            <p class="">Well I’m glad you asked!</p>
-            <p class="">Tenkara is essentially fly-fishing without the reel.</p>
-            <p class="">Tenkara originated in Japan. The word ‘Tenkara’ is a Japanese word and is loosely translated “From Heaven“.</p>
-            <p class="">As you may have gathered from the lack of a reel, Tenkara is simple.</p>
-            <p class="">Tenkara rods lack a reel seat and line guides so they are much cheaper to manufacturer than “traditional” fly rods.</p>
-            <p class="">Tenkara is fun and easy to learn.</p>
-            <p class="">What are the benefits of Tenkara vs. other forms of fishing?</p>
-            <p class="">The rods are lightweight and collapse into themselves for easy and quick transportation/setup. You can fish one handed (which is great for cold weather fishing)! You don’t need bulky heavy tackle boxes and vests stuffed to the gills with gear. It is also an extremely effective method of fishing in terms of how many fish you’ll bring to hand.</p>
-            <p class="">A little history ---</p>
-            <p class="">As I mentioned early, Tenkara originated in Japan. It started as an effective method for mountain fishermen to catch fish. It became a mainstream activity when the Samurai adopted it as a leisure pass-time way back in the Japanese Edo Era. Tenkara was introduced in the United States in 2009 by Tenkara USA and has been spreading like wildfire ever since.</p>
-            <p class="">So what’s next?</p>
-            <p class="">There are hundreds if not thousands of Tenkara rod options currently on the market. Check out My Tenkara Rods page to see what rods I use.</p>
-            <p class="">If you have any questions about Tenkara, Tenkara in Japan, or just want to say hi feel free to contact me directly.</p>
-            <p class="">See you on the water!</p>
+                    <div>
+                        <span class="ml-20 mr-2"> Another 
+                        <a 
+                            href="https://www.mountaintopcoding.com"
+                            class="hover:text-white"
+                            target="_blank"  
+                            rel="noopener noreferrer" 
+                        > mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project
+                        </span>
+                    </div>
+                </footer>
+            </div>
         </div>
     )
 }
