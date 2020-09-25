@@ -3,6 +3,7 @@ import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation"
 import Slider from "../components/slider"
+import FrontPage from "../components/frontPage"
 import Image from "gatsby-image"
 
 const Layout = ({ location, children }) => {
@@ -68,7 +69,7 @@ const logos = [
           <Slider />
         </div>
       <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
-        <main>{children}</main>
+        <FrontPage />
       </div>
       <div class="bg-red-500">
         <footer class="flex items-center justify-between text-xs md:text-base">
