@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 
 import SEO from "../components/seo.js"
 import Navigation from "../components/navigation.js"
-import Pager from "../components/pager.js"
 
 const Search = props => {
     const { data } = props
