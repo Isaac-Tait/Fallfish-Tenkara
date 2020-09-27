@@ -31,20 +31,22 @@ export const pageQuery = graphql`
                 skip: $skip // This was added by the plugin
                 limit: $limit // This was added by the plugin
             ) {
-                edges {
-                    node {
-                      fields {
-                        slug
-                      }
-                      frontmatter {
-                        title
+                allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+                    edges {
+                      node {
+                        excerpt
+                        fields {
+                          slug
+                        }
+                        frontmatter {
+                          date(formatString: "MMMM DD, YYYY")
+                          title
+                          description
+                        }
                       }
                     }
                   }
                 }
-            }
-        }
-    }
-`
+              ` 
 
     export default Blog
