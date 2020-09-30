@@ -18,7 +18,7 @@ const FrontPage = () => {
                 04 April 2019
               </p>
               <a
-                href="/blog/kamoshika-backyard"
+                href="/kamoshika-backyard"
                 aria-label="Article"
                 className="inline-block mb-3 text-black transition-colors duration-200 hover:text-deep-purple-accent-700"
               >

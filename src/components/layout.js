@@ -70,6 +70,7 @@ const logos = [
         </div>
       <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
         <FrontPage />
+        <main>{children}</main>
       </div>
       <div class="bg-red-500">
         <footer class="flex items-center justify-between text-xs md:text-base">
