@@ -1,9 +1,8 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Pager from "../components/pager"
 
 const Blog = ({ data, pageContext }) => {
     const articles = data.allMarkdownRemark.node
