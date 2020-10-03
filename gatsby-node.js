@@ -36,13 +36,10 @@ exports.createPages = async ({ graphql, actions }) => {
     `
   )
 
-  // paginate({
-  //   createPage,
-  //   items: result.data.allMarkdownRemark.nodes,
-  //   itemsPerPage: 10,
-  //   pathPrefix: '/blog',
-  //   component: path.resolve(`./src/components/blog.js`)
-  // })
+// Builds pagination functionality
+async function turnBlogPostsIntoPages({ graphql, actions}) {
+
+}
 
   if (result.errors) {
     throw result.errors
