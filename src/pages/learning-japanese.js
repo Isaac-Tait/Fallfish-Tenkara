@@ -3,6 +3,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
 import Navigation from "../components/navigation"
+import Footer from "../components/footer.js"
 
 const Japanese = ({ location }) => {
     const rootPath = `${__PATH_PREFIX__}/`
@@ -69,37 +70,7 @@ const logos = [
               <p class="ml-2 mb-4">A list of helpful mobile phone applications can be found here (in particular I am a huge fan of Tae Kim’s Guide to Learning Japanese scroll down to David W. comments</p>
               <p class="ml-2 mb-4">The Tenkara Word Bank is an excellent resource. I have saved it to my offline Evernote notebook “Tenkara” for reference when away from cell reception/wi-fi.</p>
             </div>
-            <div class="bg-red-500">
-                <footer class="flex items-center justify-between text-xs md:text-base">
-                    <div class="ml-2">
-                        © 2014 - {new Date().getFullYear()}, Built with
-                        {` `}
-                        <a 
-                        href="https://www.gatsbyjs.org"
-                        class="hover:text-white"
-                        target="_blank"  
-                        rel="noopener noreferrer" 
-                        > Gatsby</a> and 
-                        <a 
-                        href="https://tailwindcss.com"
-                        class="hover:text-white"
-                        target="_blank"  
-                        rel="noopener noreferrer" 
-                        > TailwindCSS</a>
-                    </div>
-
-                    <div>
-                        <span class="ml-20 mr-2"> Another 
-                        <a 
-                            href="https://www.mountaintopcoding.com"
-                            class="hover:text-white"
-                            target="_blank"  
-                            rel="noopener noreferrer" 
-                        > mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project
-                        </span>
-                    </div>
-                </footer>
-            </div>
+            <Footer />
         </div>
     )
 }

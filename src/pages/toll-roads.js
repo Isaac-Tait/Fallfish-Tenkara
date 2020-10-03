@@ -3,6 +3,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
 import Navigation from "../components/navigation"
+import Footer from "../components/footer.js"
 
 const Tolls = ({ location }) => {
     const rootPath = `${__PATH_PREFIX__}/`
@@ -69,37 +70,7 @@ const logos = [
               <p class="ml-2 mb-4">The public transit system in Japan is amazing. However it does have some limitation. Taking a train can often get you close to the streams but you’ll have to figure out how to get from the train station to the stream. This is a good example of the limitations of the Japanese public transit – the trailhead which is only 100km from downtown Tokyo takes 6.5 hours to get to via public transit. Whereas driving would take 1.5 hours (and cost you ¥3000 in tolls the same cost as taking public transit). Sometimes it’s just easier to drive.</p>
               <p class="ml-2 mb-4">In the links section of this site I have included several helpful sites for travelling in Japan. Be sure to check it out.</p>
             </div>
-            <div class="bg-red-500">
-                <footer class="flex items-center justify-between text-xs md:text-base">
-                    <div class="ml-2">
-                        © 2014 - {new Date().getFullYear()}, Built with
-                        {` `}
-                        <a 
-                        href="https://www.gatsbyjs.org"
-                        class="hover:text-white"
-                        target="_blank"  
-                        rel="noopener noreferrer" 
-                        > Gatsby</a> and 
-                        <a 
-                        href="https://tailwindcss.com"
-                        class="hover:text-white"
-                        target="_blank"  
-                        rel="noopener noreferrer" 
-                        > TailwindCSS</a>
-                    </div>
-
-                    <div>
-                        <span class="ml-20 mr-2"> Another 
-                        <a 
-                            href="https://www.mountaintopcoding.com"
-                            class="hover:text-white"
-                            target="_blank"  
-                            rel="noopener noreferrer" 
-                        > mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project
-                        </span>
-                    </div>
-                </footer>
-            </div>
+            <Footer />
         </div>
     )
 }

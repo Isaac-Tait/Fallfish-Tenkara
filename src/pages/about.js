@@ -3,6 +3,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
 import Navigation from "../components/navigation"
+import Footer from "../components/footer.js"
 
 const About = ({ location }) => {
     const rootPath = `${__PATH_PREFIX__}/`
@@ -91,6 +92,7 @@ const logos = [
                     rel="noopener noreferrer"
                 >GitHub</a>
             </div>
+            <Footer />
         </div>
     )
 }
