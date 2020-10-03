@@ -2,11 +2,11 @@ import React from "react"
 
 import SEO from "../components/seo"
 
-const BlogPosts = (props) => {
+const BlogPosts = ({ children }) => {
     return (
         <div>
             <SEO />
-            <main>{props.children}</main>
+            <p>{children}</p>
         </div>
     )
 } 
