@@ -1,11 +1,12 @@
 import React from "react"
-
 import { Link, useStaticQuery, graphql } from "gatsby"
+
 import Navigation from "../components/navigation"
 import Slider from "../components/slider"
 import FrontPage from "../components/frontPage"
 import Image from "gatsby-image"
-import Footer from "../components/footer.js"
+import Footer from "../components/footer"
+//import Pager from "../components/pager"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -73,6 +74,7 @@ const logos = [
         <FrontPage />
         <main>{children}</main>
       </div>
+        {/*<Pager />*/}
         <Footer />
     </div>
   )
