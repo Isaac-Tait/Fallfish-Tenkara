@@ -1,9 +1,14 @@
 import React from "react"
 
-const BlogPosts = ({ children }) => {
+import SEO from "../components/seo"
+
+const BlogPosts = (props) => {
     return (
-        <main>{children}</main>
+        <div>
+            <SEO />
+            <main>{props.children}</main>
+        </div>
     )
-}
+} 
 
 export default BlogPosts
