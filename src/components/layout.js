@@ -6,7 +6,6 @@ import Slider from "../components/slider"
 import FrontPage from "../components/frontPage"
 import Image from "gatsby-image"
 import Footer from "../components/footer"
-//import Pager from "../components/pager"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -74,7 +73,6 @@ const logos = [
         <FrontPage />
         <main>{children}</main>
       </div>
-        {/*<Pager />*/}
         <Footer />
     </div>
   )

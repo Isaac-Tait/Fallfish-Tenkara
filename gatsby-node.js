@@ -36,17 +36,9 @@ exports.createPages = async ({ graphql, actions }) => {
     `
   )
 
-// Builds pagination functionality
-async function turnBlogPostsIntoPages({ graphql, actions}) {
-
-}
-
   if (result.errors) {
     throw result.errors
   }
-
-  // Create blog posts pages.
-  const posts = result.data.allMarkdownRemark.edges
 
   posts.forEach((post, index) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node
@@ -72,6 +64,23 @@ async function turnBlogPostsIntoPages({ graphql, actions}) {
       component: tagTemplate,
       context: {
         tag: tag.fieldValue,
+      },
+    })
+  })
+
+  // Create blog-list pages
+  const posts = result.data.allMarkdownRemark.edges
+  const postsPerPage = 6
+  const numPages = Math.ceil(posts.length / postsPerPage)
+  Array.from({ length: numPages }).forEach((_, i) => {
+    createPage({
+      path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+      component: path.resolve("./src/templates/blog-list-template.js"),
+      context: {
+        limit: postsPerPage,
+        skip: i * postsPerPage,
+        numPages,
+        currentPage: i + 1,
       },
     })
   })
