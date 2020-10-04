@@ -25,8 +25,9 @@ const BlogPosts = ({ children }) => {
         <div>
             <SEO />
             
-            
                     <div>
+                        
+                        
                         
                             <p>Blog Posts </p>
                         
