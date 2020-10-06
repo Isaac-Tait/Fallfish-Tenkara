@@ -8,21 +8,16 @@ const BlogPagination = ({ props }) => {
         const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
         const nextPage = (currentPage + 1).toString()
     return (
-        // {Array.from({ length: numPages }, (_, i) => (
-        //     <Link key={`pagination-number${i + 1}`} to={`/${i === 0 ? "" : i + 1}`}>
-        //       {i + 1}
-        //     </Link>
-        //   ))}
         <div>
             <nav>
                 <ul>
-                    {!props.isFirst && (
-                        <Link to={props.prevPage} rel="prev">
+                    {!isFirst && (
+                        <Link to={prevPage} rel="prev">
                             ← Previous Page
                         </Link>
                     )}
-                    {!props.isLast && (
-                        <Link to={props.nextPage} rel="next">
+                    {!isLast && (
+                        <Link to={nextPage} rel="next">
                             Next Page →
                         </Link>
                     )}

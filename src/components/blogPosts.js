@@ -1,5 +1,5 @@
 import React from "react"
-//import { useStaticQuery, Link } from "gatsby"
+import Pagination from "../templates/blog-pagination"
 
 import SEO from "../components/seo"
 
@@ -11,6 +11,7 @@ const BlogPosts = ({ children }) => {
                 <p>Blog Posts </p>
             </div>
             <p>A list of blog posts: {children}</p>
+            <Pagination />
         </div>
     )
 } 
