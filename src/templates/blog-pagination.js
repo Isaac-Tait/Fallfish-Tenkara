@@ -1,13 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const BlogPagination = () => {
-        const { currentPage, numPages } = this.props.pageContext
+const BlogPagination = ({ props }) => {
+        const { currentPage, numPages } = props.pageContext
         const isFirst = currentPage === 1
         const isLast = currentPage === numPages
         const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
         const nextPage = (currentPage + 1).toString()
-        const { currentPage, numPages } = this.props.pageContext
     return (
         // {Array.from({ length: numPages }, (_, i) => (
         //     <Link key={`pagination-number${i + 1}`} to={`/${i === 0 ? "" : i + 1}`}>
@@ -17,13 +16,13 @@ const BlogPagination = () => {
         <div>
             <nav>
                 <ul>
-                    {!isFirst && (
-                        <Link to={prevPage} rel="prev">
+                    {!props.isFirst && (
+                        <Link to={props.prevPage} rel="prev">
                             ← Previous Page
                         </Link>
                     )}
-                    {!isLast && (
-                        <Link to={nextPage} rel="next">
+                    {!props.isLast && (
+                        <Link to={props.nextPage} rel="next">
                             Next Page →
                         </Link>
                     )}
