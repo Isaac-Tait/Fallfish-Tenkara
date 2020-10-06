@@ -1,16 +1,19 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const BlogList = () => {
-    render() {
+const BlogPagination = () => {
         const { currentPage, numPages } = this.props.pageContext
         const isFirst = currentPage === 1
         const isLast = currentPage === numPages
         const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
         const nextPage = (currentPage + 1).toString()
-    }
-
+        const { currentPage, numPages } = this.props.pageContext
     return (
+        // {Array.from({ length: numPages }, (_, i) => (
+        //     <Link key={`pagination-number${i + 1}`} to={`/${i === 0 ? "" : i + 1}`}>
+        //       {i + 1}
+        //     </Link>
+        //   ))}
         <div>
             <nav>
                 <ul>
@@ -30,7 +33,7 @@ const BlogList = () => {
     )
 }
 
-export default BlogList
+export default BlogPagination
 
 export const pageQuery = graphql`
 query blogPageQuery($skip: Int!, $limit: Int!) {

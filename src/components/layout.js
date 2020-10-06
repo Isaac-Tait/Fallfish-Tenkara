@@ -6,6 +6,7 @@ import Slider from "../components/slider"
 import FrontPage from "../components/frontPage"
 import Image from "gatsby-image"
 import Footer from "../components/footer"
+import Pagination from "../templates/blog-pagination"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -72,6 +73,7 @@ const logos = [
       <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
         <FrontPage />
         <main>{children}</main>
+        <Pagination />
       </div>
         <Footer />
     </div>
