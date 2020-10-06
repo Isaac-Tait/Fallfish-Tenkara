@@ -80,3 +80,5 @@ query blogPageQuery($skip: Int!, $limit: Int!) {
     }
   }
 `
+
+//Gatsby documentation repo source https://github.com/NickyMeuleman/gatsby-paginated-blog/blob/master/src/templates/blog-list.js
