@@ -1,11 +1,10 @@
 import React from "react"
-import { Link } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 
-class BlogPagination extends React.component {
-    render() {
+const BlogPagination = () => {
         const { data } = this.props
         const siteTitle = data.site.siteMetadata.title
         const posts = data.allMarkdownRemark.edges
@@ -58,27 +57,27 @@ class BlogPagination extends React.component {
                 )}
             </Layout>            
         )
-    } 
 };
 
+export default BlogPagination
+
 export const pageQuery = graphql`
-query blogPageQuery($skip: Int!, $limit: Int!) {
-    allMarkdownRemark(
-    sort: { fields: [frontmatter___date], order: DESC }
-    limit: $limit
-    skip: $skip
-    ) {
-    edges {
-        node {
-        excerpt
-        frontmatter {
-            date(formatString: "DD MMMM, YYYY")
-            title
-             }
-          }
-       }
-    }
-  }
-`
+    query blogPageQuery($skip: Int!, $limit: Int!) {
+        allMarkdownRemark(
+        sort: { fields: [frontmatter___date], order: DESC }
+        limit: $limit
+        skip: $skip
+        ) {
+        edges {
+            node {
+            excerpt
+            frontmatter {
+                date(formatString: "DD MMMM, YYYY")
+                title
+                }
+            }
+        }
+    }    
+}`
 
 //Gatsby documentation repo source https://github.com/NickyMeuleman/gatsby-paginated-blog/blob/master/src/templates/blog-list.js
