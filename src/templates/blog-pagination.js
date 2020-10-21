@@ -4,8 +4,7 @@ import { graphql, Link } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 
-const BlogPagination = () => {
-        const { data } = this.props
+const BlogPagination = ({ data, location }) => {
         const siteTitle = data.site.siteMetadata.title
         const posts = data.allMarkdownRemark.edges
         const { currentPage, numPages } = this.props.pageContext
@@ -15,7 +14,7 @@ const BlogPagination = () => {
         const nextPage = (currentPage + 1).toString()
         
         return (
-            <Layout location={this.props.location} title={siteTitle}>
+            <Layout location={location} title={siteTitle}>
                 <SEO
                     title={siteTitle}
                     keywords={[`blog`, `tenkara`, `gatsby`]}
@@ -56,28 +55,35 @@ const BlogPagination = () => {
                     </Link>
                 )}
             </Layout>            
-        )
+    )
 };
 
 export default BlogPagination
 
 export const pageQuery = graphql`
-    query blogPageQuery($skip: Int!, $limit: Int!) {
-        allMarkdownRemark(
+  query blogPageQuery($skip: Int!, $limit: Int!) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(
         sort: { fields: [frontmatter___date], order: DESC }
         limit: $limit
         skip: $skip
         ) {
-        edges {
-            node {
-            excerpt
-            frontmatter {
-                date(formatString: "DD MMMM, YYYY")
-                title
-                }
-            }
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+          }
         }
-    }    
-}`
-
-//Gatsby documentation repo source https://github.com/NickyMeuleman/gatsby-paginated-blog/blob/master/src/templates/blog-list.js
+      }
+    }
+  }
+`

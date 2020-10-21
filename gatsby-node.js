@@ -40,6 +40,8 @@ exports.createPages = async ({ graphql, actions }) => {
     throw result.errors
   }
 
+  const posts = result.data.allMarkdownRemark.edges
+
   posts.forEach((post, index) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node
     const next = index === 0 ? null : posts[index - 1].node
@@ -69,9 +71,9 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   // Create blog-list pages
-  const posts = result.data.allMarkdownRemark.edges
   const postsPerPage = 6
   const numPages = Math.ceil(posts.length / postsPerPage)
+
   Array.from({ length: numPages }).forEach((_, i) => {
     createPage({
       path: i === 0 ? `/blog` : `/blog/${i + 1}`,
@@ -98,5 +100,3 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
-
-// Why is pagination so dadgum difficult?!

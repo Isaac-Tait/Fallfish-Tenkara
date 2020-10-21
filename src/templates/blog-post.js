@@ -8,7 +8,6 @@ import Footer from "../components/footer"
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
 
   return (
