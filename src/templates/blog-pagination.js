@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import Pager from "../components/pager"
 
 const BlogPagination = ({ data, location, pageContext }) => {
-    if (!data) { return null }
+    //if (!data) { return null }
     const posts = data.allMarkdownRemark.edges;
   
     return (
