@@ -4,6 +4,34 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Pager from "../components/pager"
 
+export const pageQuery = graphql`
+  query BlogPagination($skip: Int!, $limit: Int!) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(
+        sort: { fields: [frontmatter___date], order: DESC }
+        limit: $limit
+        skip: $skip
+        ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+          }
+        }
+      }
+    }
+  }
+`
+
 const BlogPagination = ({ data, location, pageContext }) => {
     //if (!data) { return null }
     const posts = data.allMarkdownRemark.edges;
@@ -33,31 +61,3 @@ const BlogPagination = ({ data, location, pageContext }) => {
 };
 
 export default BlogPagination;
-
-export const pageQuery = graphql`
-  query BlogPagination($skip: Int!, $limit: Int!) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        limit: $limit
-        skip: $skip
-        ) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-          }
-        }
-      }
-    }
-  }
-`
