@@ -4,9 +4,8 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Pager from "../components/pager"
 
-class BlogPagination extends React.Component {
-  render() {
-    const { data, location } = this.props
+const BlogPagination = ({ data, location, pageContext }) => {
+    if (!data) { return null }
     const posts = data.allMarkdownRemark.edges;
   
     return (
@@ -31,7 +30,6 @@ class BlogPagination extends React.Component {
         <Pager pageContext={pageContext} />
       </Layout>
     )
-  }
 };
 
 export default BlogPagination;
