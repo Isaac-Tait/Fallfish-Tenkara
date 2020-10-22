@@ -36,8 +36,8 @@ class BlogPagination extends React.Component {
 
 export default BlogPagination;
 
-export const query = graphql`
-  query ($skip: Int!, $limit: Int!) {
+export const pageQuery = graphql`
+  query BlogPagination($skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
