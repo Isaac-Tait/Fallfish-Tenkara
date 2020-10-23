@@ -1,5 +1,4 @@
 import React from "react"
-import Pagination from "../templates/blog-pagination"
 
 import SEO from "../components/seo"
 

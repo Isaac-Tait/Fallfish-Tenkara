@@ -6,7 +6,7 @@ import Slider from "../components/slider"
 import FrontPage from "../components/frontPage"
 import Image from "gatsby-image"
 import Footer from "../components/footer"
-import Pagination from "../templates/blog-pagination"
+import Pagination from "../components/blog-pagination"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
