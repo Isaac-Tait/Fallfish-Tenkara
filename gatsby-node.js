@@ -8,6 +8,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
   const tagTemplate = path.resolve("src/templates/tags.js")
+  const blogPagination = path.resolve(`./src/templates/blog-pagination.js`)
 
   const result = await graphql(
     `
@@ -76,7 +77,7 @@ exports.createPages = async ({ graphql, actions }) => {
     items: result.data.allMarkdownRemark.edges,
     itemsPerPage: 12,
     pathPrefix: '/blog',
-    component: path.resolve('src/templates/blog-pagination.js'),
+    component: blogPagination,
   })
 }
 
