@@ -38,7 +38,7 @@ class BlogIndex extends React.Component {
       </Layout>
     )
   }
-}
+};
 
 export default BlogIndex
 
