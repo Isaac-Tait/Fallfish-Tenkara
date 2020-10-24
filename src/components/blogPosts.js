@@ -1,6 +1,7 @@
 import React from "react"
 
 import SEO from "../components/seo"
+import Pagination from "../templates/blog-pagination"
 
 const BlogPosts = ({ children }) => {
     return (
