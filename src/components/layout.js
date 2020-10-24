@@ -3,7 +3,6 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 
 import Navigation from "../components/navigation"
 import Slider from "../components/slider"
-import FrontPage from "../components/frontPage"
 import Image from "gatsby-image"
 import Footer from "../components/footer"
 import Pagination from "../templates/blog-pagination"
@@ -71,7 +70,6 @@ const logos = [
           <Slider />
         </div>
       <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
-        <FrontPage />
         <main>{children}</main>
         <Pagination />
       </div>

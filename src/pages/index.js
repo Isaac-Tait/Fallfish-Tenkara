@@ -3,16 +3,21 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import FrontPage from "../components/frontPage"
 
 class BlogIndex extends React.Component {
   render() {
     const { data, location } = this.props
     const siteTitle = data.site.siteMetadata.title
-    
+
     return (
-      <Layout location={location} title={siteTitle}>
+      <div>
+        <Layout location={location} title={siteTitle}>
         <SEO title="All posts" />
-      </Layout>
+          <FrontPage />
+        </Layout>
+      </div>
+      
     )
   }
 };
