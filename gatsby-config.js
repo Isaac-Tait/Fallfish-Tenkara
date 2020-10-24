@@ -75,12 +75,12 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-page-creator`,
-    //   options: {
-    //     path: `${__dirname}/content/blog`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-page-creator`,
+      options: {
+        path: `${__dirname}/content/blog`,
+      },
+    },
     {
       resolve: `gatsby-plugin-postcss`,
         options: {
