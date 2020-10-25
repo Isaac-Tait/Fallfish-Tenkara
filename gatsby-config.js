@@ -113,6 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
+        commonmark: true,
         plugins: [
           {
             resolve: `gatsby-remark-images`,
