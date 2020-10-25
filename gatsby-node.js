@@ -75,7 +75,7 @@ exports.createPages = async ({ graphql, actions }) => {
   paginate({
     createPage,
     items: result.data.allMarkdownRemark.edges,
-    itemsPerPage: 12,
+    itemsPerPage: 10,
     pathPrefix: '/blog',
     component: blogPagination,
   })
