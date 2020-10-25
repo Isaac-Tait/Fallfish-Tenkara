@@ -32,7 +32,6 @@ tags: [Random]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Kei+Cars/kei-van-most-popular-in-japan.JPG" alt="Kei van" />
 
-
 <p class="mb-2 mt-2">Since moving to Japan I have had my eye on acquiring a Kei car. I quickly discovered though that there are many con artists looking to dupe an unsuspecting customer. <em>Be very wary of purchasing any car through an auction. Only licensed individuals are allowed to attend an auction so that means you will have to hire someone to go on your behalf. Of course you can see where this might cause some problems, especially since they often require you to pay in full before even seeing the vehicle. I was almost scammed, several of my friends were, be careful. </em></p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Kei+Cars/lifted-kei-van-off-road.JPG" alt="Off road kei van" />
