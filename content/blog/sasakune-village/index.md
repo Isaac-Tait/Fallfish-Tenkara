@@ -42,8 +42,4 @@ tags: [Yamanashi Prefecture]
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Doshi/sasakune-doshi-river-gawa-tenkara-tributary.JPG" alt="Doshi River" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Doshi/sasakune-doshi-river-gawa-tenkara-waterfall.JPG" alt="An old bamboo bridge" />
-
-[kad_youtube url="https://youtu.be/P2KLkz4pLsg" width=560 height=315 ]
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
 </div>

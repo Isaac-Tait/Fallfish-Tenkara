@@ -38,6 +38,4 @@ tags: [Kanagawa Prefecture]
 <p class="mt-2">The Yamabirugawa is very extensive creek. I am hoping to return with overnight gear and spend a few days exploring it in its entirety. Here is a video I put together of the days adventures.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo.jpg" alt="Tokyo" />
-
-[kad_youtube url="https://youtu.be/IRsniM9fUyg" width=560 height=315 ]</p>
 </div>

@@ -9,8 +9,7 @@ tags: [Yamanashi Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tenkara+Action+on+the+Doshi+River/Cherry-Blossoms_Doshi-River.jpg" alt="Cherry blossoms" />
 
-###
-Day 1
+<p class="font-bold">Day 1</p>
 
 <p class="mb-2">We got on the road early to beat the morning rush hour traffic. Our early departure was a good call and it only took us two hours to get to the small village of Omurozasu 大室指. Omurozasu is located right on the beautiful Doshi River. It is hard to believe that Tokyo, the largest city in the world, is less than 50 miles away. There was only one other angler on the river when we arrived. He was very friendly and his English was better than mine. He had spent several years in Portland learning how to fly-fish and had fished many of the same rivers as my friend Cameron, so needless to say we hit it off. He showed us around and helped us get our fishing ticket. For a day of fishing on the Doshi River it only cost us ¥1,000.00 each!</p>
 

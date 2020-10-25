@@ -42,19 +42,19 @@ tags: [Random]
 </ul>
 <p class="mb-2 mt-2 font-bold">Visiting Japan</p>
 
-<span class="underline">Accommodations</span>
+<p class="underline">Accommodations</p>
 
 <p class="mb-2 mt-2">There are many great accommodations in Japan from ryokens to pod hotels to your typical western hotel. However, in Japan living spaces are small and you often have many family members living under one roof. This makes trysts a little awkward, especially given the lack of wall insulation in Japanese construction. So there are hotels all over Japan called <span style="text-decoration: underline;">Love Hotels</span> that offer short stays in themed rooms. If you are getting a really good deal on a hotel room and it is too good to be true chances are it is a Love Hotel. These rooms are designed for one thing and are not ideal accommodations for a family vacation. Consider yourself warned.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/post+town-visiting+japan.JPG" alt="Japanese post town" />
 
-<span class="underline">Dietary Restrictions</span>
+<p class="underline">Dietary Restrictions</p>
 
 <p class="mb-2 mt-2">If you are vegetarian, vegan, or gluten free you are going to have a hard time in Japan. Gluten Free is certainly easier to get by, just avoid noodles and stick to rice and you should be fine. Herbivores on the other hand are going to have a hard time as the Japanese put meat in EVERYTHING! I bought food for my dwarf hamster the other day and it had anchovies in it! They even sprinkle fish flakes on most nut snack packs sold at the convenience stores. Even vegetable curry is often made with pork broth... If you are in Tokyo you will be ok but if you go into the outlying areas you are probably going to unknowingly (or have no choice to) eat meat.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/milk+shop-train+station-japan.JPG" alt="Milk store" />
 
-<span style="text-decoration: underline;">Customs and Courtesies</span>
+<p class="underline">Customs and Courtesies</p>
 <ul>
  	<li>When bowing make sure you do not make eye contact - this is very rude.</li>
  	<li>Never stick your chopsticks straight into your rice and leave them there. This is done during a Japanese death ceremony, doing so outside of this ceremony is considered very rude.</li>
@@ -66,7 +66,7 @@ tags: [Random]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/visiting+japan-hakuba-snow.JPG" alt="Hakuba Snow" />
 
-<span class="underline">Japanese Laws To Be Aware Of</span>
+<p class="underline">Japanese Laws To Be Aware Of</p>
 <ul>
  	<li>Having a pocket knife with a blade longer than 2" is illegal. If you are caught with one they will deport you from the country. Tazers and pepper spray are also illegal with similar consequences if you are caught with them.</li>
  	<li>Drinking and driving in Japan is a serious offense. You will be arrested for DUI if you have anything over 0.000% BAC level. Even if you only have one drink <span style="text-decoration: underline;">DO NOT</span> drive</li>
@@ -78,5 +78,5 @@ tags: [Random]
 
 <p class="mb-2 mt-2">So that is a quick summary of important tips and information for those planning on visiting Japan. Be sure to check out my <a href="http://fallfishtenkara.com/information/" target="_blank" rel="noopener noreferrer">Information Page</a> for more info. If you have any specific questions feel free to <a href="http://fallfishtenkara.com/about/" target="_blank" rel="noopener noreferrer">contact me</a> or reach out on <a href="https://www.facebook.com/fallfishtenkara" target="_blank" rel="noopener noreferrer">Facebook</a>.</p>
 
-Sayonara!</p>
+<p class="mt-2 font-bold">Sayonara!</p>
 </div>
