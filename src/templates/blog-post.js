@@ -18,6 +18,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
+      
       <article>
         <header class="pl-6 mt-4 bg-red-500">
             <p class="text-white text-3xl">{post.frontmatter.title}</p>
@@ -27,14 +28,10 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         <div class="px-2 md:w-2/3 md:mx-auto">
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
         </div>
-    
-        <footer class="ml-2">
-            <Bio />
-        </footer>
       </article>
 
-      <nav class="flex flex-wrap justify-between ml-2">
-        <ul>
+      <nav class="flex w-1/2 justify-between mx-auto">
+        <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
@@ -42,6 +39,9 @@ const BlogPostTemplate = ({ data, pageContext }) => {
               </Link>
             )}
           </li>
+        </ul>
+      
+        <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
@@ -51,6 +51,11 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           </li>
         </ul>
       </nav>
+
+      <div class="w-1/2 mx-auto">
+            <Bio />
+      </div>
+      
       <Footer />
     </div>
   )
