@@ -1,0 +1,46 @@
+---
+title: Mizusawa River
+description: 
+date: 2015-07-29T03:13:00+02:00
+tags: [Kanagawa Prefecture]
+---
+<div class=“text-lg m-2”>
+<p class="mb-2">Mizusawa River (水沢川) is a small mountain keiryu within the shadow of Mount Tanzawa (丹沢山), and a short drive from Tokyo. After pouring over maps and Google Earth I decided it was worth investigating. Having battled morning rush hour traffic I arrived at the river valley to find it socked in with fog. The rain had stopped but water was still dripping from tree branches. As I was driving down the narrow road towards the river I came around a bend and spotted a strange looking creature in the road. At first I thought maybe it was a boar but it was too long and hairy. I'm still not 100% sure what I saw, and before I could snap a photo it darted into the underbrush. However, I think it was either a Japanese Badger or a Racoon Dog. It had a long snout and was almost reddish in color, so it could have been a Japanese Weasel too. It wasn't to be the last odd creature I saw that day either.</p>
+
+
+
+<p class="mb-2 mt-2">There wasn't any cars in the parking lot when I arrived. Fishing during the week almost always ensures solitude, something that can be hard to come by in Japan - especially when you are within an hours drive of Tokyo. I donned my <a href="https://www.fallfishtenkara.com/sawanobori-stream-climbing-shoes/" target="_blank">Sawanobori gear</a> and headed up the road keeping a sharp eye out for a trail down to the river. Loggers had recently visited the area and the scent of freshly cut cedar hung thick in the humid air. There was a heavy mist over the river, it was serenely peaceful.As I rigged my trusty rod and slowly made my way towards the first pool a distant upstream weir added a dull roar to the cacophony of running water and bird calls.</p>
+
+
+
+<p class="mb-2 mt-2">I had tied on a small #18 Wooly Worm and as I made my way upstream I encountered hungry fish in almost every pool. One thing that I have come to discover with Yamame is that they are adept at getting off the hook (I prefer Tenkara with barbless hooks as 99.9% of the fish I catch I release). Sometimes they'd take the fly for a swim through the pool and when I'd attempt to set the hook they would let it go and the fly would rocket out of the water and get stuck in an overhead tree branch. It was almost as if they knew what was going on and they were ridding their home of the threat.</p>
+
+
+
+<p class="mb-2 mt-2">As I was fishing a beautiful plunge pool suddenly, from the depths, emerged the oddest creature. It lunged at my fly but got tangled in the tippet instead. I raised my rod tip, lifting this strange furry critter out of the water. I had seen these rodents swimming in the depths of the various genryu I had fished before, but they moved so quickly I could never tell what it was. Thrashing about at the end of my line was one of these small swimming varmints. I was pretty sure it had sharp teeth and I didn't want to get bit but I couldn't just leave it either. As I collapsed my rod I was determining the best way to deal with this little rodent. Thankfully he bit through the line and I watched him swim away - a little wiser and a lot more grumpy. (After a bit of sleuthing on Google and Wikipedia I determined that what I had accidentally caught was a <i>Nihon Kawanezumi or </i>Japanese River Shrew! See the video below for proof! That will go down in the books as quite possibly the strangest thing I have (or ever will) catch with my Tenkara rod).</p>
+
+
+
+<p class="mb-2 mt-2">After tying on a new fly I continued fishing, keeping a wary eye out for other <i>Nihon Kawanezumi</i>. The river was a little low but still cold and clear. Nevertheless the trout were pretty skittish. If I missed setting the hook when I sensed a bite the Yamame could not be coaxed out for a second try and I would just have to move on to the next pool. I made my way up creek in this manner for several hours. The Mizusawa River has two main tributaries, at the first one I took a detour and made my way up the Kurasawa (倉沢). After passing several smaller tributaries the Kurasawa got lower and lower and so I turned around. It was getting late and I had a long drive home so I made my way back to my car. On the way home I passed by a very inviting looking pool on the lower Mizusawa River so I pulled over for a quick swim. As I dove into the pool a <i>Nihon Kawanezumi </i>darted out from a rock and swam away. For a brief half second she paused and stared at me, then effortlessly darted out of sight into the frothing water...</p>
+
+<hr />
+
+<p class="mb-2 mt-2">Fishing this river requires a fishing ticket which can be purchased from Nakatsugawa Fishery Cooperatives</p>
+
+<p class="mb-2 mt-2">For location information (including where to find Nakatsugawa Fishery Cooperatives) please see this <a 
+href="https://www.fallfishtenkara.com/maps/rivers-of-the-tokyo-region/" 
+target="_blank"
+rel="noopener noreferrer"
+>Map</a></p>
+
+<p class="mb-2 mt-2">Have any more questions? Drop me a line <a 
+href="https://www.fallfishtenkara.com/about" 
+target="_blank"
+rel="noopener noreferrer"
+>here</a></p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+</div>
+
+target="_blank" rel="noopener noreferrer"
+
