@@ -29,5 +29,3 @@ tags: [Random]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
 </div>
-
-target="_blank" rel="noopener noreferrer"
