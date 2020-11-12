@@ -25,7 +25,7 @@ tags: [Random]
 
 
 
-<p class="mt-2 mb-2">Between our visits to Tokyo Disneyland and DisneySea we also squeezed in a trip to Kyoto (which I will write about soon), a ride on the shinkansen (Japanese bullet train), and a <a href="https://taiken.co/single/baseball-it-is" target="_blank" rel="noopener noreferrer">baseball game</a>. In total we walked over 100km in 8 days, which was great conditioning for my 3 day <a href="http://fallfishtenkara.com/backcountry-tenkara/" target="_blank" rel="noopener noreferrer">backcountry Tenkara trip</a> that I embarked on immediately after!</p>
+<p class="mt-2 mb-2">Between our visits to Tokyo Disneyland and DisneySea we also squeezed in a trip to Kyoto (which I will write about soon), a ride on the shinkansen (Japanese bullet train), and a <a href="https://taiken.co/single/baseball-it-is" target="_blank" rel="noopener noreferrer">baseball game</a>. In total we walked over 100km in 8 days, which was great conditioning for my 3 day <a href="https://www.fallfishtenkara.com/backcountry-tenkara/" target="_blank" rel="noopener noreferrer">backcountry Tenkara trip</a> that I embarked on immediately after!</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
 </div>

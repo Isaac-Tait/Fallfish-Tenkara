@@ -44,7 +44,7 @@ tags: [Random]
 
 <p class="underline">Accommodations</p>
 
-<p class="mb-2 mt-2">There are many great accommodations in Japan from ryokens to pod hotels to your typical western hotel. However, in Japan living spaces are small and you often have many family members living under one roof. This makes trysts a little awkward, especially given the lack of wall insulation in Japanese construction. So there are hotels all over Japan called <span style="text-decoration: underline;">Love Hotels</span> that offer short stays in themed rooms. If you are getting a really good deal on a hotel room and it is too good to be true chances are it is a Love Hotel. These rooms are designed for one thing and are not ideal accommodations for a family vacation. Consider yourself warned.</p>
+<p class="mb-2 mt-2">There are many great accommodations in Japan from ryokens to pod hotels to your typical western hotel. However, in Japan living spaces are small and you often have many family members living under one roof. This makes trysts a little awkward, especially given the lack of wall insulation in Japanese construction. So there are hotels all over Japan called Love Hotels that offer short stays in themed rooms. If you are getting a really good deal on a hotel room and it is too good to be true chances are it is a Love Hotel. These rooms are designed for one thing and are not ideal accommodations for a family vacation. Consider yourself warned.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/post+town-visiting+japan.JPG" alt="Japanese post town" />
 
@@ -69,14 +69,14 @@ tags: [Random]
 <p class="underline">Japanese Laws To Be Aware Of</p>
 <ul>
  	<li>Having a pocket knife with a blade longer than 2" is illegal. If you are caught with one they will deport you from the country. Tazers and pepper spray are also illegal with similar consequences if you are caught with them.</li>
- 	<li>Drinking and driving in Japan is a serious offense. You will be arrested for DUI if you have anything over 0.000% BAC level. Even if you only have one drink <span style="text-decoration: underline;">DO NOT</span> drive</li>
+ 	<li>Drinking and driving in Japan is a serious offense. You will be arrested for DUI if you have anything over 0.000% BAC level. Even if you only have one drink DO NOT drive</li>
  	<li>In Japan they have a different sense of personal space. When driving it is the norm to tailgate, cut people off, and speed excessively. Also there are no outward signs of road rage such as horns, middle fingers, and brake checks.</li>
  	<li>Scooters and motorcycles can pass on either the right or left at any time, anywhere, and in any weather conditions - ALWAYS use your turn signals before making a lane change or turning.</li>
 </ul>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/shinto+shrine-miura+peninsula.JPG" alt="Shinto Shrine" />
 
-<p class="mb-2 mt-2">So that is a quick summary of important tips and information for those planning on visiting Japan. Be sure to check out my <a href="http://fallfishtenkara.com/information/" target="_blank" rel="noopener noreferrer">Information Page</a> for more info. If you have any specific questions feel free to <a href="http://fallfishtenkara.com/about/" target="_blank" rel="noopener noreferrer">contact me</a> or reach out on <a href="https://www.facebook.com/fallfishtenkara" target="_blank" rel="noopener noreferrer">Facebook</a>.</p>
+<p class="mb-2 mt-2">So that is a quick summary of important tips and information for those planning on visiting Japan. Be sure to check out my <a href="https://www.fallfishtenkara.com/information/" target="_blank" rel="noopener noreferrer">Information Page</a> for more info. If you have any specific questions feel free to <a href="https://www.fallfishtenkara.com/about/" target="_blank" rel="noopener noreferrer">contact me</a> or reach out on <a href="https://www.facebook.com/fallfishtenkara" target="_blank" rel="noopener noreferrer">Facebook</a>.</p>
 
 <p class="mt-2 font-bold">Sayonara!</p>
 </div>

@@ -11,7 +11,7 @@ target="_blank"
 rel="noopener noreferrer">spectacular tenkara fly fishing trip</a> with my new friends Kado-san and Tetsuya. It was an amazing experience so when Kado-san suggested we do another trip, but this time to a place called Oze National Park in Gunma Prefecture, I eagerly agreed and cleared my calendar. Most of August I was absolutely swamped guiding Tenkara and Mount Fuji trips and was grateful to get away for a few days of Tenkara and hiking.</p>
 
 <p class="mb-2 mt-2">Kado-san and I met at his store, <a 
-href="https://www.fallfishtenkara.com/information/tenkara-fishing-stores/" target="_blank"
+href="https://www.fallfishtenkara.com/tenkara-fishing-stores/" target="_blank"
 rel="noopener noreferrer">Kadoya Outdoor Shop</a>, and after he closed shop for the evening we promptly hit the road. Traffic was light as we passed through Tokyo and the toll roads were empty so we made good time. After a quick stop for supplies, we arrived just before midnight, at Kado-san's small cabin in the charming mountain village of Higashiogawa (東小川). After a night cap or two we rolled out our sleeping bags and fell asleep on the straw tatami mats.</p>
 
 
@@ -44,5 +44,3 @@ rel="noopener noreferrer">karma neutralizing</a>" I certainly had neutralized a 
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
 </div>
-
-target="_blank" 

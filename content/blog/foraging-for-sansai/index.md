@@ -20,7 +20,7 @@ tags: [Niigata Prefecture]
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Sansai/mizu-sansai-tempura.JPG" alt="Mizu sansai" />
 
 
-<p class="">This past week I had the great fortune to go fishing and camping with my friend Tetsuya. We were guided by Kado-san, who is the owner of <a href="http://104.248.67.90/information/tenkara-fishing-stores/" target="_blank" rel="noopener noreferrer">Kadoya Outdoor Shop</a> in Yokosuka, and who is also a Tenkara sensei. Kado-san had agreed to take us to his favorite keiryu, hidden out of site in a narrow valley deep in the mountains of Niigata Prefecture. It was a four or five kilometer walk from the campsite to the creek. On the way up Kado-san pointed out the many types of Sansai (山菜) mountain vegetables that were growing along the path.</p>
+<p class="">This past week I had the great fortune to go fishing and camping with my friend Tetsuya. We were guided by Kado-san, who is the owner of <a href="https://www.fallfishtenkara.com/tenkara-fishing-stores/" target="_blank" rel="noopener noreferrer">Kadoya Outdoor Shop</a> in Yokosuka, and who is also a Tenkara sensei. Kado-san had agreed to take us to his favorite keiryu, hidden out of site in a narrow valley deep in the mountains of Niigata Prefecture. It was a four or five kilometer walk from the campsite to the creek. On the way up Kado-san pointed out the many types of Sansai (山菜) mountain vegetables that were growing along the path.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Sansai/preparing+tempura-mizu-sansai-camping-japan-2.JPG" alt="Camping" />
 

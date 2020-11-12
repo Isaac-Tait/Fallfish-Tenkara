@@ -21,12 +21,9 @@ tags: [Random]
 
 <p class="mb-2 mt-2">While this Tenkara season is coming to a close, now is a good time to start planning your own trip to Japan. There are currently several airfare sales, I have seen tickets as low as $650 RT from LA to Tokyo. Be sure to check out my <a href="https://www.fallfishtenkara.com/visiting-japan/" 
 target="_blank" 
-rel="noopener noreferrer">Visiting Japan</a> post as well as the <a 
-href="https://www.fallfishtenkara.com/information/" 
-target="_blank" 
-rel="noopener noreferrer">Information</a> page too.</p>
+rel="noopener noreferrer">Visiting Japan</a> post.</p>
 
-<p class="mb-2 mt-2">Sayonara.</p>
+<p class="mb-2 mt-2 font-semibold">Sayonara.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
 </div>
