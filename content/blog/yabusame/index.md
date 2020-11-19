@@ -1,0 +1,11 @@
+---
+title: Yabusame
+description: Yabusame is the traditional Japanese form of horseback archery...
+date: 2015-11-29T03:13:00+02:00
+tags: [Kanagawa Prefecture]
+---
+<div class=“text-lg m-2”>
+<p class="mb-2">Yabusame is the traditional Japanese form of horseback archery. "It was designed as a way to please and entertain the myriad of gods that watch over Japan, thus encouraging their blessings for the prosperity of the land, the people, and the <a href="https://en.wikipedia.org/wiki/Yabusame" target="_blank" rel="noopener noreferrer">harvest</a>". Last week I had the opportunity to go to a Yabusame event located on the glorious beach of Zushi, Japan. Hundreds of wind surfers, kayakers, SUP'ers, and sail boats plied the waters of Sagami Bay. The cadre of Yabusame performers dressed in traditional Japanese garb put on quite the display of athletic prowess. Hitting a target no larger than a pizza box with an arrow shot from the back of horse at full gallop was astounding.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+</div>
