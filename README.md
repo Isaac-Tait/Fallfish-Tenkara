@@ -8,3 +8,5 @@ This site has been a labor of love spanning six plus years. I am migrating from 
 <p>mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</p>
 
 Photos need to be added to blog posts starting at "Headwaters Fishing near Tokyo
+
+Need a recent press page
