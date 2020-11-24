@@ -70,6 +70,17 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Fallfish Tenkara`,
+        start_url: `/`,
+        icon: `content/assets/FfT_Logo_Thumbnail.png`
+      }
+    },
+    {
+      resolve: `gatsby-plugin-offline`,
+    },
+    {
       resolve: `gatsby-plugin-page-creator`,
       options: {
         path: `${__dirname}/src/pages`,
