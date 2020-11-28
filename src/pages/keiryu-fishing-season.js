@@ -73,6 +73,9 @@ const logos = [
               <p class="ml-2 mb-4">If the river you want to fish is open make sure you have a Japanese Fishing License.</p>
               <p class="ml-2 mb-4">There are a few options though if you want to fish in the off season as there are numerous “fish farms” that are open year around and stocked with hundreds if not thousands of fish (like this one). However, you typically have to pay upwards of $35 a day to fish at these places.</p>
               <p class="ml-2 mb-4">Also warm water rivers that aren’t able to support trout due to water temperature can be fished year around. I’ve seen many anglers on the Tama River and the Sagami River during the winter months when the keiryu and genryu are closed. The fish in these types of river tend to be bass, carp, and zatsugyo.</p>
+
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/iYZjJ1Go2yM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
             </div>
             <Footer />
         </div>
