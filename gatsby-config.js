@@ -94,11 +94,6 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-postcss`,
-        options: {
-          postCssPlugins: [
-            require('tailwindcss')
-          ]
-        }
     },
     {
       resolve: `gatsby-source-filesystem`,
