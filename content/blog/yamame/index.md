@@ -5,7 +5,7 @@ date: 2016-03-24T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
 <div class=“text-lg m-2”>
-<p class="mb-2"><h3 style="text-align: center;">Discovering Jimmy Spring Creek</h3>
+<p class="mb-2"><p class="font-semibold">Discovering Jimmy Spring Creek</p>
 I am a little surprised that I have not yet written a Yamame post. I have written about the <a href="https://www.fallfishtenkara.com/amago/" target="_blank" rel="noopener">Amago</a> and the <a href="https://www.fallfishtenkara.com/iwana/" target="_blank" rel="noopener">Iwana</a> but no Yamame article, until now. The Yamame is an absolutely beautiful fish and one that I have brought to hand numerous times during last years mountain stream fishing season in Japan. The rivers of the Tanzawa Mountains, which are 65 kilometers southwest of Tokyo, are teeming with them. If you are lucky you can find some Iwana in the higher elevation keiryu but the rivers are by and large mostly inhabited by Yamame. To kick off the 2016 Tenkara season in Japan (I am a few weeks late - opening day is March 1st) I decided to visit a stream I accidently discovered last season - <a href="https://www.fallfishtenkara.com/epidote-creek/" target="_blank" rel="noopener">Epidote Creek</a>. I was pretty sure I was not going to catch any fish, an assumption I had arrived at for two reasons:
 <p style="padding-left: 30px;"><em>1 - Last season on an <a href="https://www.fallfishtenkara.com/headwater-of-the-yozukugawa/" target="_blank" rel="noopener">opening day</a> Tenkara fishing "expedition" not only did I not catch any fish but I did not see any either. </em></p>
 <p style="padding-left: 30px;"><em>2 - Through various sources I had heard that the early season fishing in Japan is <span class="underline">very</span> challenging.</em></p>
@@ -53,5 +53,3 @@ I did not care if I did not catch any fish though, I just wanted to get outside
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
 </div>
-
-target="_blank" rel="noopener noreferrer"
