@@ -1,6 +1,6 @@
 ---
 title: Bear Creek
-description:
+description: The second part of my day begins tucked deep into a remote region of the Tanzawa Mountains close to a promising looking babbling keiryu...
 date: 2015-10-05T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
