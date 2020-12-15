@@ -9,7 +9,7 @@ tags: [Nagano Prefecture]
 
 
 <p class="mt-2 mb-2 font-semibold">Day 1 - Left Ridge of Eboshi</p>
-The Eboshi massif is the largest piece of rock in Ogawayama. Starting from the lowest point to the summit affords one ten pitches of fabulous rock climbing! Out of the ten pitches, there was maybe 10 meters of bad rock.</p>
+The Eboshi massif is the largest piece of rock in Ogawayama. Starting from the lowest point to the summit affords one ten pitches of fabulous rock climbing. Out of the ten pitches, there was maybe 10 meters of bad rock.</p>
 
 <p class="mt-2 mb-2">The view from pitch 5 or so... There is so much rock here.</p>
 
@@ -27,10 +27,10 @@ The Eboshi massif is the largest piece of rock in Ogawayama. Starting from the l
 
 <p class="mt-2 mb-2 ml-6">✦ Pitch 8 - Easy climbing through the off-width.</p>
 
-<p class="mt-2 mb-2 ml-6">✦ Pitch 9 - The money pitch. Start by traversing the 3rd class ridge line. Once at the base of the head wall step out over 200'+ of air and ascend the glorious hand crack that is over to soon.</p>
+<p class="mt-2 mb-2 ml-6">✦ Pitch 9 - The money pitch. Start by traversing the 3rd class ridge line. Once at the base of the head wall step out over 200'+ of air and ascend the glorious hand crack that is over too soon.</p>
 
 
-<p class="mt-2 mb-2">From the summit follow the climbers trail around back. There is a one pitch rappel to the climber's right of the formation from an old pine. Once you're at the bottom, follow the faint trail for about one hour to the valley floor.</p>
+<p class="mt-2 mb-2">From the summit follow the climbers trail around back. There is a one pitch rappel to the climber's right of the formation from an old pine. Once you are at the bottom, follow the faint trail for about one hour to the valley floor.</p>
 
 <hr />
 
@@ -38,7 +38,7 @@ The Eboshi massif is the largest piece of rock in Ogawayama. Starting from the l
 
 <p class="mt-2 mb-2 font-semibold">Day 2 - South Ridge Kanagawa of Roof Rock Peak #3.</p>
 
-<p class="mt-2 mb-2">In the morning of the second day a group of fly fisherman came through. I watched them for awhile but they didn't catch anything...</p>
+<p class="mt-2 mb-2">In the morning of the second day a group of fly fisherman came through. I watched them for awhile but they did not catch anything...</p>
 
 
 
@@ -50,9 +50,9 @@ The Eboshi massif is the largest piece of rock in Ogawayama. Starting from the l
 
 <p class="mt-2 mb-2 ml-6">✦ Pitch 1 - Follow the chimney/corner to the obvious ledge. Pro is good but a little tricky.</p>
 
-<p class="mt-2 mb-2 ml-6">✦ Pitch 2 - Begin by following the obvious crack then make a very exposed lay back move up the awkward yet solid crack (there's an easy to miss bolt that protects the runout).</p>
+<p class="mt-2 mb-2 ml-6">✦ Pitch 2 - Begin by following the obvious crack then make a very exposed lay back move up the awkward yet solid crack (there is an easy to miss bolt that protects the runout).</p>
 
-<p class="mt-2 mb-2 ml-6">✦ Pitch 3 - Climb the off width. It's best to dangle your pack (if you're carrying one) below you for this pitch. It's an epic squeeze.</p>
+<p class="mt-2 mb-2 ml-6">✦ Pitch 3 - Climb the off width. It is best to dangle your pack (if you are carrying one) below you for this pitch. It is an epic squeeze.</p>
 
 <hr />
 
