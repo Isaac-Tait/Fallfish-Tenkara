@@ -1,6 +1,6 @@
 ---
 title: Tenkara action on the Doshi River (道志川)
-description: Spending the day on the lovely Doshi River 
+description: Spending the day on the lovely Doshi River...
 date: 2015-04-19T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sansai Mountain Vegetables
-description: A new friend teaches me all about the bounty found throughout the Japanese mountains - wild vegetables.
+description: A new friend teaches me all about the bounty found throughout the Japanese mountains - wild vegetables...
 date: 2015-06-27T03:13:00+02:00
 tags: [Niigata Prefecture]
 ---

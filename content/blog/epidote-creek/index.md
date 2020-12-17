@@ -1,6 +1,6 @@
 ---
 title: Epidote Creek 緑簾石小川
-description: Fresh off of the plane I head into the mountains to clear my head and catch a few trout
+description: Fresh off of the plane I head into the mountains to clear my head and catch a few trout...
 date: 2015-06-23T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---

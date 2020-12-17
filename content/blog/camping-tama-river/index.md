@@ -1,6 +1,6 @@
 ---
 title: Camping on the Tama River (多摩川)
-description: I am currently wrapped in my sleeping bag, overlooking the Tama River and waiting for the sun to crest over the hillside.
+description: I am currently wrapped in my sleeping bag, overlooking the Tama River and waiting for the sun to crest over the hillside...
 date: 2015-04-15T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---

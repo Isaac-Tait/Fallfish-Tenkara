@@ -1,6 +1,6 @@
 ---
 title: Torikabuto - A Story of a Remote River Valley in Nagano Prefecture
-description:
+description: Tucked into an ultra remote mountain valley lies a village that time forgot. Coursing through this utopia are a plethora of keiryu teeming with trout...
 date: 2016-07-12T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---

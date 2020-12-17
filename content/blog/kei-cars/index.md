@@ -1,6 +1,6 @@
 ---
 title: Kei cars, trucks, and vans
-description: I on the other hand, am more attracted to another type of JDM car - a Kei car.
+description: I on the other hand, am more attracted to another type of JDM car - a Kei car...
 date: 2015-05-22T03:13:00+02:00
 tags: [Random]
 ---

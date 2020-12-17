@@ -1,6 +1,6 @@
 ---
 title: Exploring Kamoshika's Backyard
-description: I have been enchanted with Japanese trout and char since a stint teaching English in Japan some twenty years ago.
+description: I have been enchanted with Japanese trout and char since a stint teaching English in Japan some twenty years ago...
 date: 2019-04-29T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---

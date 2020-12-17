@@ -1,6 +1,6 @@
 ---
 title: Fishing Uratanzawa
-description: Exploring a new river during a cold snap
+description: Exploring a new river during a cold snap...
 date: 2015-01-20T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---

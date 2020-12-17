@@ -1,6 +1,6 @@
 ---
 title: Visiting Japan
-description: A few helpful pointers for anyone considering a trip to Japan.
+description: A few helpful pointers for anyone considering a trip to Japan...
 date: 2015-06-20T03:13:00+02:00
 tags: [Random]
 ---

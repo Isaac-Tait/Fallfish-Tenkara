@@ -1,6 +1,6 @@
 ---
 title: Discovering Oshino Creek
-description: Oshino Creek located within a Japanese National Monument offers superb fishing.
+description: Oshino Creek located within a Japanese National Monument offers superb fishing...
 date: 2015-03-20T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---

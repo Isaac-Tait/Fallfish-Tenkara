@@ -1,6 +1,6 @@
 ---
 title: Discovering the Yanagisawa River
-description: Exploring a river system right off the highway
+description: Exploring a river system right off the highway...
 date: 2015-04-23T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---

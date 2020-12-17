@@ -1,6 +1,6 @@
 ---
 title: Doshi River at the Sasakune Village
-description: The weather last week was absolutely spectacular. Low humidity, temps in the mid 70's, and lots of sunshine. It felt like a crime to not be out and about in the mountains.
+description: The weather last week was absolutely spectacular. Low humidity, temps in the mid 70's, and lots of sunshine. It felt like a crime to not be out and about in the mountains...
 date: 2015-05-11T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---

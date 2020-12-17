@@ -1,6 +1,6 @@
 ---
 title: Mizusawa River
-description: I explore the Mizusawa River, a small mountain stream near Tokyo, and find a beautiful creek teeming with small Yamame
+description: I explore the Mizusawa River, a small mountain stream near Tokyo, and find a beautiful creek teeming with small Yamame...
 date: 2015-07-29T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---

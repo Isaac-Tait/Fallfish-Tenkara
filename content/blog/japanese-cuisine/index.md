@@ -1,6 +1,6 @@
 ---
 title: Japanese food in many of its various forms
-description: From convenience store food to sushi restaurants - Japanese food is delicious
+description: From convenience store food to sushi restaurants - Japanese food is delicious...
 date: 2015-05-16T03:13:00+02:00
 tags: [Random]
 ---

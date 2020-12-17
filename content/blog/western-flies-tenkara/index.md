@@ -1,6 +1,6 @@
 ---
 title: Experimenting with flies for cold water Tenkara
-description: Since the Tenkara fishing season kicked off just over a month ago I have found that the trout pay no mind to a tasty looking traditional kebari.
+description: Since the Tenkara fishing season kicked off just over a month ago I have found that the trout pay no mind to a tasty looking traditional kebari...
 date: 2015-04-04T03:13:00+02:00
 tags: [Random]
 ---

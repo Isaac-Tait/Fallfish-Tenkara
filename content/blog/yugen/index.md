@@ -1,6 +1,6 @@
 ---
 title: Yūgen
-description: Yūgen is the sudden awareness of the universe that triggers emotional responses that are too mysterious and deep for words.
+description: Yūgen is the sudden awareness of the universe that triggers emotional responses that are too mysterious and deep for words...
 date: 2016-03-07T03:13:00+02:00
 tags: [Akita Prefecture, Iwate Prefecture]
 ---
