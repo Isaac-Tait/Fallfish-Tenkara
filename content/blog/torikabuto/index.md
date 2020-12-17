@@ -37,8 +37,6 @@ tags: [Nagano Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-foot+bridge.JPG" alt="Crossing an old rusty foot bridge" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
-
 <p class="mt-2 mb-2">My friend Hama checked us in and explained our lack of luck to the inn-keeper Yamada-san. Before we could even bring our bags inside Yamada-san promptly ushered us into his van to show us a secret locals only fishing spot! After driving down a barely one lane wide road and navigating a muddy foot path we were standing on the side of the river, where the locals fish.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-tori+kabuto+flowers.JPG" alt="Torikabuto flower" />
