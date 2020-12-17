@@ -67,7 +67,7 @@ tags: [Nagano Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-horse+hair+tenkara+line.JPG" alt="A hand tied tenkara line made from horse hair from retired race horses from Hokkaido" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-onsen.JPG" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-onsen.JPG" alt="The indoor onsen at the minshuku" />
 
 <p class="mt-2 mb-2">In the morning I was greeted by the most spectacular view of Mount Torikabuto from our bedroom window.</p>
 
@@ -99,5 +99,5 @@ tags: [Nagano Prefecture]
 
 <p class="mt-2 mb-2">Authors Note: If you are planning a visit to Japan and would like to stay at Yamada-san's minshuku the best time to visit is mid-May through mid-June. He understands English but does not speak it, so you will need a translator. The cost is ¥7500 per night which includes breakfast and dinner (and lunch too after the first night if you ask). Yamada-san has a wealth of knowledge about Tenkara and is happy to share it. There is a bus that runs every two hours up the valley from Tsunan.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-waterfall+2.JPG" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-waterfall+2.JPG" alt="An unexplored waterfall. Recognize it from the Dr. Ishigaki video?" />
 </div>
