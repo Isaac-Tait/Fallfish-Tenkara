@@ -1,6 +1,6 @@
 ---
 title: Tenkara Shop in Tokyo - Groundstore
-description:
+description: I visit a small tenkara shop in a quaint suburb of Tokyo and discover an eastern twist on western tenkara...
 date: 2016-08-03T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---

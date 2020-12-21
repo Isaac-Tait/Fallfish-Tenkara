@@ -9,7 +9,7 @@ tags: [Random]
 
 <p class="italic mt-2 mb-2">"13 weeks is a long time!"</p>
 
-<p class="mt-2 mb-2">As my drill instructor was screaming in my face with his knife hand quivering a hairs breadth (this is the PC term btw) from my nose I thanked my God that they could do anything they wanted to me <span style="text-decoration: underline;">but</span> stop the clock.
+<p class="mt-2 mb-2">As my drill instructor was screaming in my face with his knife hand quivering a hairs breadth (this is the PC term btw) from my nose I thanked my God that they could do anything they wanted to me <span class="underline;">but</span> stop the clock.
 
 <p class="mt-2 mb-2">That was 16+ years ago now. The clock never stops ticking and all good things (and bad things too) must all come to an end.</p>
 
