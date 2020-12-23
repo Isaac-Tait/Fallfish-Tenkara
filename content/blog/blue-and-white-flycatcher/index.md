@@ -12,6 +12,8 @@ tags: [Kanagawa Prefecture]
 <p class="italic text-center">Photo © <a href="https://ja.wikipedia.org/wiki/オオルリ" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Wikipedia Japan</a>.</p>
 </div>
 
+<iframe width="100%" height="300" class="mt-4" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/952598266&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fllfshtnkr" title="FallfishTenkara" target="_blank" style="color: #cccccc; text-decoration: none;">FallfishTenkara</a> · <a href="https://soundcloud.com/fllfshtnkr/the-blue-white-flycatcher" title="The Blue &amp; White Flycatcher" target="_blank" style="color: #cccccc; text-decoration: none;">The Blue &amp; White Flycatcher</a></div>
+
 <p class="mt-2 mb-2">While I have seen a lot of オオルリ Oruri flying about before I had never heard them sing. That was until last week when my friend and I went on a scouting trip to a remote upper headwater in the Tanzawa Mountains. I think their song is quite beautiful and very striking.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Blue+%26+White+Flycatcher/blue_and_white_flycatcher-japan-iwana-tenkara-fly_fishing-fall+colors.jpg" alt="Fall is on the way..." />
