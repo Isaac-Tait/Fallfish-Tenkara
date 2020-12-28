@@ -62,6 +62,8 @@ tags: [Tokyo Prefecture]
 <p class="italic text-center">The venue as seen from the "highway".</p>
 </div>
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/955221520&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fllfshtnkr" title="FallfishTenkara" target="_blank" style="color: #cccccc; text-decoration: none;">FallfishTenkara</a> · <a href="https://soundcloud.com/fllfshtnkr/dance-of-shiva-night-2" title="Dance Of Shiva - Night 2" target="_blank" style="color: #cccccc; text-decoration: none;">Dance Of Shiva - Night 2</a></div>
+
 <div class="w-8/12 mx-auto">
 <img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Hachijojima/hachijojima-izu+islands-philippine+sea-Fuji_Hakone_Izu+National+Park-dance+party.jpg" alt="The dance party" />
 <p class="italic text-center">Dance party!</p>
