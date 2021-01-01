@@ -1,6 +1,6 @@
 ---
 title: Nikko National Park
-description:
+description: Nikko National Park is a majestic park filled with volcanic mountains, waterfalls, lakes, and streams. A wonderful spot for tenkara fly fishing...
 date: 2016-09-26T03:13:00+02:00
 tags: [Tochigi Prefecture]
 ---
