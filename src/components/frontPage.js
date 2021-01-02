@@ -87,11 +87,11 @@ const FrontPage = () => {
             <Link 
               to={`/blog`}
               class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black"
-            ><span role="img" aria-label="map of japan">&#128510;</span> More articles</Link>
+            ><span role="img" aria-label="map of japan">&#128510;</span> Read more blog posts...</Link>
             <Link 
               to={`/search`}
               class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black"
-            ><span role="img" aria-label="right leaning magnifying glass">&#128270;</span> Search</Link>
+            ><span role="img" aria-label="right leaning magnifying glass">&#128270;</span> Search the archives...</Link>
         </div>
 
       </div>
