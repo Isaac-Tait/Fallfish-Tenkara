@@ -5,7 +5,7 @@ date: 2017-03-10T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
 <div class=“text-lg m-2”>
-<p class="mb-2">Every February I start getting excited, and begin eagerly making plans for the March 1st opening day of Keiryu (mountain stream) fishing season. This year I wanted to get out on opening day but due to a nasty cold my trip was pushed back about a week. The morning of my departure I got an earlier start than anticipated due to my son's 3am feeding. I hit the road well before sunrise and made it to the trailhead in record time! Along the way I passed a digital thermometer road sign that said the temperature was -4°C, and that was at the lake - the trailhead was a few hundred meters higher. It was most certainly going to be a winter Tenkara trip.</p>
+<p class="mb-2">Every February I start getting excited, and begin eagerly making plans for the March 1st opening day of Keiryu (mountain stream) fishing season. This year I wanted to get out on opening day but due to a nasty cold my trip was pushed back about a week. The morning of my departure I got an earlier start than anticipated due to my son's 3am feeding. I hit the road well before sunrise and made it to the trail-head in record time! Along the way I passed a digital thermometer road sign that said the temperature was -4°C, and that was at the lake - the trail-head was a few hundred meters higher. It was most certainly going to be a winter Tenkara trip.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Winter+Tenkara/tanzawa+mountains-winter+tenkara-tenkara-keiryu-kebari-sebata+san-sugegasa-lake+miyagase-bridge.jpg" alt="Miyagasenijinoo Bridge" />
 
