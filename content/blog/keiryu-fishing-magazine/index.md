@@ -1,5 +1,5 @@
 ---
-title: The illustrious Keiryu Magazine
+title: The Illustrious Keiryu Magazine
 description: After quite a bit of sleuthing I have tracked down and mapped a plethora of keiryu and genryu featured in the great Japanese magazine "渓流"...
 date: 2017-02-22T03:13:00+02:00
 tags: []
