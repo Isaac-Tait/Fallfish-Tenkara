@@ -30,4 +30,9 @@ tags: [Kanagawa Prefecture]
 <p class="mt-2 mb-2">Overall, it was an amazing experience made even better by the great company. You can look forward to a more in depth report from Tenkara In Focus coming soon.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
+
 </div>
