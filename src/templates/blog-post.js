@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Navigation from "../components/navigation"
 import SEO from "../components/seo"
 import Footer from "../components/footer"
+import Comments from "../components/comments"
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
@@ -29,6 +30,8 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
         </div>
       </article>
+
+     <Comments />
 
       <nav class="flex w-1/2 justify-between mx-auto">
         <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
