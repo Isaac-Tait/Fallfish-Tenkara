@@ -2,15 +2,22 @@ import React from "react";
 
 const Comments = () => {
     return (
-        <div>
-            <form method="POST" action="https://fallfish-tenkara-staticman.herokuapp.com/v2/entry/github-bot-fallfishtenkara/Fallfish-Tenkara/master/comments">
-                <input name="options[redirect]" type="hidden" value="https://www.fallfishtenkara.com" />
-                <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
-                <label><input name="fields[name]" type="text" />Name</label>
-                <label><input name="fields[email]" type="email" />E-mail</label>
-                <label><textarea name="fields[message]"></textarea>Message</label>
-
-                <button type="submit">Go!</button>
+        <div data-netlify-recaptcha="true">
+            <form name="comments" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+            <input type="hidden" name="comments-name" value="comments" />
+                <p>
+                    <label>Name: <input type="text" name="name" /></label>
+                </p>
+                <p>
+                    <label>Email: <input type="text" name="email" /></label>
+                </p>
+                <p>
+                    <label>Website: <input type="text" name="website" /></label>
+                </p>
+                <p>
+                    <label>Comment: <textarea name="comment" /></label>
+                </p>
+                <button type="submit">Send your comment (no spam I promise).</button>
             </form>
         </div>
     )
