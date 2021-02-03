@@ -1,42 +1,36 @@
-import React, { useState } from "react";
-
-const Comments = () => {
-    const [formState, setFormState] = useState({
-        name: "",
-        email: "", 
-        website: "", 
-        comments: ""
-    })
-
-    const handleChange = e => {
-        setFormState({
-            ...formState, 
-            [e.target.name]: e.target.value
-        })
-    }
+import React from "react";
 
     const encode = (data) => {
         return Object.keys(data)
             .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
             .join("&");
-      }
+    }
+    class Contact extends React.Component {
+        constructor(props) {
+          super(props);
+          this.state = { name: "", email: "", website: "", comment: "" };
+    }
 
-    const handleSubmit = e => {
+    handleSubmit = e => {
         fetch("/", {
             method: "POST",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: encode({ "form-name": "comment", ...form.state })
+            body: encode({ "form-name": "comment", ...this.state })
           })
             .then(() => alert("Success!"))
             .catch(error => alert(error));
     
           e.preventDefault();
-    }
+    };
 
-    return (
-        <div class="mt-4 border-solid border-4 border-grey-500 w-8/12 flex mx-auto">
+    handleChange = e => this.setState({ [e.target.name]: e.target.value });
+
+    render() {
+        // const { name, email, website, comment } = this.state;
+        return (
+            <div class="mt-4 border-solid border-4 border-grey-500 w-8/12 flex mx-auto">
             <form
-                onSubmit={handleSubmit}
+                onSubmit={this.handleSubmit}
                 name="comments" 
                 method="POST" 
                 data-netlify="true" 
@@ -60,9 +54,8 @@ const Comments = () => {
                             class="ml-2 mt-2 border-dashed border-2 border-red-500" 
                             type="text" 
                             name="name" 
-                            onChange={handleChange} 
-                            onSubmit={handleSubmit} 
-                            value={formState.name} 
+                            onChange={this.handleChange} 
+                            onSubmit={this.handleSubmit} 
                         />
                 </p>
 
@@ -72,9 +65,8 @@ const Comments = () => {
                         class="ml-2 mt-2 border-dashed border-2 border-red-500"
                         type="email" 
                         name="email" 
-                        onChange={handleChange} 
-                        onSubmit={handleSubmit} 
-                        value={formState.email} 
+                        onChange={this.handleChange} 
+                        onSubmit={this.handleSubmit} 
                     />
                 </p>
 
@@ -84,29 +76,26 @@ const Comments = () => {
                         class="ml-2 mt-2 border-dashed border-2 border-red-500"
                         type="text" 
                         name="website" 
-                        onChange={handleChange} 
-                        onSubmit={handleSubmit} 
-                        value={formState.website} 
+                        onChange={this.handleChange} 
+                        onSubmit={this.handleSubmit}
                     />
                 </p>
             </div>
             <div class="w-full">
                 <p>
                     <label htmlFor="comment" class="ml-4 font-semibold text-red-500">Comment:</label> 
-                        <input
+                        <textarea
                             class="ml-2 mt-2 h-20 w-3/4 border-dashed border-2 border-red-500"            
                             type="text" 
                             name="comment" 
-                            onChange={handleChange} 
-                            onSubmit={handleSubmit} 
-                            value={formState.comment} 
+                            onChange={this.handleChange} 
+                            onSubmit={this.handleSubmit}
                         />
                 </p>
                 <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Submit (no spam I promise).</button>
             </div>
             </form>
         </div>
-    )
-};
-
-export default Comments
+        )
+    }
+}
