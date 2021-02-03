@@ -19,7 +19,7 @@ const Comments = () => {
         fetch("/", {
             method: "POST",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: encode({ "form-name": "contact", ...form.state })
+            body: encode({ "form-name": "comment", ...form.state })
           })
             .then(() => alert("Success!"))
             .catch(error => alert(error));
