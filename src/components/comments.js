@@ -34,8 +34,7 @@ const Comments = () => {
                 name="comments" 
                 method="POST" 
                 data-netlify="true" 
-                data-netlify-honeypot="bot-field"
-                data-netlify-recaptcha="true"
+                netlify-honeypot="bot-field"
                 netlify
             >
             <input 
@@ -43,7 +42,11 @@ const Comments = () => {
                 name="comments-name" 
                 value="comments"
             />
-            <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
+            <p class="hidden">
+                <label>Do not fill this out if you are human: <input name="bot-field" /></label>
+            </p>
+
+            <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below:</p>
             <div class="flex mx-auto">
                 <p>
                     <label htmlFor="name" class="ml-4 font-semibold text-red-500">Name:</label>
@@ -95,7 +98,6 @@ const Comments = () => {
                 </p>
                 <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Submit (no spam I promise).</button>
             </div>
-                <div data-netlify-recaptcha="true"></div>
             </form>
         </div>
     )
