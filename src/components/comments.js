@@ -28,13 +28,14 @@ const Comments = () => {
     }
 
     return (
-        <div data-netlify-recaptcha="true" class="mt-4 border-solid border-4 border-grey-500 w-8/12 flex mx-auto">
+        <div class="mt-4 border-solid border-4 border-grey-500 w-8/12 flex mx-auto">
             <form
                 onSubmit={handleSubmit}
                 name="comments" 
-                method="post" 
+                method="POST" 
                 data-netlify="true" 
                 data-netlify-honeypot="bot-field"
+                data-netlify-recaptcha="true"
                 netlify
             >
             <input 
@@ -43,7 +44,7 @@ const Comments = () => {
                 value="comments"
             />
             <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
-            <div class="w-8/12 flex mx-auto">
+            <div class="flex mx-auto">
                 <p>
                     <label htmlFor="name" class="ml-4 font-semibold text-red-500">Name:</label>
                         <input
@@ -80,11 +81,11 @@ const Comments = () => {
                     />
                 </p>
             </div>
-            <div class="flex flex-wrap w-full justify-between">
+            <div class="w-full">
                 <p>
                     <label htmlFor="comment" class="ml-4 font-semibold text-red-500">Comment:</label> 
                         <input
-                            class="ml-2 mt-2 box-border h-16 w-1/2 border-dashed border-2 border-red-500"            
+                            class="ml-2 mt-2 h-20 w-3/4 border-dashed border-2 border-red-500"            
                             type="text" 
                             name="comment" 
                             onChange={handleChange} 
@@ -92,10 +93,9 @@ const Comments = () => {
                             value={formState.comment} 
                         />
                 </p>
+                <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Submit (no spam I promise).</button>
             </div>
-
-            <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Send your comment (no spam I promise).</button>
-
+                <div data-netlify-recaptcha="true"></div>
             </form>
         </div>
     )
