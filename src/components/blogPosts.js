@@ -2,6 +2,7 @@ import React from "react"
 
 import SEO from "../components/seo"
 import Pagination from "../templates/blog-pagination"
+import Comments from "../components/comments"
 
 const BlogPosts = () => {
     return (
@@ -30,6 +31,7 @@ const BlogPosts = () => {
                     </div>    
                 ) 
             })}
+        <Comments />
         <Pagination />
         </div>
     )
