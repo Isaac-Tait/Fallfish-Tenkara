@@ -34,7 +34,7 @@ const Comments = () => {
     }
 
     return (
-        <div class="mt-4 border-solid border-4 border-grey-500 w-8/12 flex mx-auto">
+        <div class="mt-4 border-solid border-4 border-grey-500 sm:flex sm:flex-col md:w-8/12 md:flex md:mx-auto">
             <form
                 onSubmit={handleSubmit}
                 name="comment" 
@@ -54,7 +54,7 @@ const Comments = () => {
             </p>
 
             <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
-            <div class="flex mx-auto">
+            <div class="md:flex md:mx-auto sm:flex sm:flex-col">
                 <p>
                     <label htmlFor="name" class="ml-4 font-semibold text-red-500">Name:</label>
                         <input
