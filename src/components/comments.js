@@ -5,7 +5,7 @@ const Comments = () => {
         name: "",
         email: "", 
         website: "", 
-        comments: ""
+        comment: ""
     })
 
     const encode = (data) => {
