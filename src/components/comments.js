@@ -25,7 +25,7 @@ const Comments = () => {
         fetch("/", {
             method: "POST",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: encode({ "form-name": "comment", ...formState})
+            body: encode({ "form-name": "comments-queue", ...formState})
           })
             .then(() => alert("Success!"))
             .catch(error => alert(error));
@@ -37,7 +37,7 @@ const Comments = () => {
         <div class="mt-4 border-solid border-4 border-grey-500 flex w-8/12 mx-auto">
             <form
                 onSubmit={handleSubmit}
-                name="comment" 
+                name="comments-queue" 
                 method="POST" 
                 data-netlify="true" 
                 netlify-honeypot="bot-field"
@@ -46,7 +46,7 @@ const Comments = () => {
             <input 
                 type="hidden" 
                 name="form-name" 
-                value="comment"
+                value="comments-queue"
             />
 
             <p class="hidden">
