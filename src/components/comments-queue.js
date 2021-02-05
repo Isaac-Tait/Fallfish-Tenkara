@@ -36,12 +36,12 @@ const Comments = () => {
     return (
         <div class="mt-4 border-solid border-4 border-grey-500 flex w-8/12 mx-auto">
             <form
-                onSubmit={handleSubmit}
                 name="comments-queue" 
                 method="POST" 
                 data-netlify="true" 
                 netlify-honeypot="bot-field"
-                netlify
+                data-netlify-recaptcha="true"
+                onSubmit={handleSubmit}
             >
             <input 
                 type="hidden" 
@@ -49,9 +49,7 @@ const Comments = () => {
                 value="comments-queue"
             />
 
-            <p class="hidden">
-                <label>Do not fill this out if you are human: <input name="bot-field" /></label>
-            </p>
+            <input class="hidden" name="bot-field" />
 
             <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
             <div class="flex mx-auto">
@@ -104,6 +102,8 @@ const Comments = () => {
                         />
                 </p>
             </div>
+
+            <div data-netlify-recaptcha="true"></div>
 
             <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Send your comment (no spam I promise).</button>
 
