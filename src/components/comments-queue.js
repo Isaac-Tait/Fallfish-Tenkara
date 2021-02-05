@@ -40,7 +40,6 @@ const Comments = () => {
                 method="POST" 
                 data-netlify="true" 
                 netlify-honeypot="bot-field"
-                data-netlify-recaptcha="true"
                 onSubmit={handleSubmit}
             >
             <input 
@@ -102,8 +101,6 @@ const Comments = () => {
                         />
                 </p>
             </div>
-
-            <div data-netlify-recaptcha="true"></div>
 
             <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Send your comment (no spam I promise).</button>
 
