@@ -3,3 +3,10 @@
 @tailwind components;
 
 @tailwind utilities;
+
+@layer base {
+    hr {
+        height: 2px;
+        background: black;
+      }
+}

@@ -13,10 +13,10 @@ tags: [Gear]
 
 <div class="w-8/12 mx-auto">
 <img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Zimmerbuilt+Pack/Zimmerbuilt+Tailwaters+Pack-Tenkara-Gear-backpack-keiryu-kebari-contents-tenkara+rods.JPG" alt="Gear laid out that fits inside the pack" />
-<p class="text-center italic">⦿ Simms Slick Rain Jacket, Mammut Fleece, Tenryu Furaibo TF39TA, Badger Tenkara Classic <br /> ⦿ Montbell Neoprene Booties, 10m rope, extra buff and sunglasses <br /> ⦿ Knife, Sawyer Water Purification system, bear mace, beanie, map, fishing supplies, tissue and fire kit (lighter, windproof matches, and petroleum jelly soaked cotton balls), Ohuhu wood burning stove, and SnowPeak Titanium pot. <br /><br /> Not pictured - enough food for two people for a full day (e.g. onigiri, ramen, crackers, cheese, sandwiches, etc...).</p>
+<p class="text-center italic mb-4">⦿ Simms Slick Rain Jacket, Mammut Fleece, Tenryu Furaibo TF39TA, Badger Tenkara Classic <br /> ⦿ Montbell Neoprene Booties, 10m rope, extra buff and sunglasses <br /> ⦿ Knife, Sawyer Water Purification system, bear mace, beanie, map, fishing supplies, tissue and fire kit (lighter, windproof matches, and petroleum jelly soaked cotton balls), Ohuhu wood burning stove, and SnowPeak Titanium pot. <br /><br /> Not pictured - enough food for two people for a full day (e.g. onigiri, ramen, crackers, cheese, sandwiches, etc...).</p>
 </div>
 
-<hr>
+<hr />
 
 <p class="mt-2 mb-2">The Xpac VX07 &amp; VX21 material is durable and water resistant. The material does not feel supple, rather it feels stiff. The pack is impressively light weight, coming in at a claimed 8.75 ounces. While much of the ultralight gear out there feels like it will barely survive a season this pack feels solid and well built. My impression is that it will last a very long time.</p>
 
@@ -29,6 +29,8 @@ tags: [Gear]
 <p class="mt-2 mb-2">The tenkara rod quivers on either side of the pack are genius. All of my rods, except the Tenkara USA Ito rod (which sticks up pretty far above the pack) ride comfortably along the side of my back. The rods are easily accessible and protected. The best part though is that the quiver location offers snag free exploring. My Tenryu Furaibo TF39TA does not fit in the quiver (it is too short). Honestly, I am ok with this because I would rather have the Furaibo inside my pack anyways.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Zimmerbuilt+Pack/Zimmerbuilt+Tailwaters+Pack-Tenkara-Gear-backpack-keiryu-kebari-moss.jpg" alt="kebri and moss" />
+
+<hr>
 
 <strong>Things to Note:</strong>
 
