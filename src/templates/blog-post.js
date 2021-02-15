@@ -32,9 +32,9 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         </div>
       </article>
 
-     <Comments />
+      <Approved />
 
-     <Approved />
+      <Comments /> 
 
       <nav class="flex w-1/2 justify-between mx-auto">
         <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
