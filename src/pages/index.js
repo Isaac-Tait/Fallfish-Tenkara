@@ -4,7 +4,6 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import FrontPage from "../components/frontPage"
-
 class BlogIndex extends React.Component {
   render() {
     const { data, location } = this.props

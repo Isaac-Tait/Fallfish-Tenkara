@@ -22,8 +22,10 @@ const Comments = () => {
     }
 
     const page_url = () => {
-        return window.location.href
+        window.location.href.toString()
     }
+
+    console.log(page_url);
 
     const handleSubmit = e => {
         fetch("/", {
