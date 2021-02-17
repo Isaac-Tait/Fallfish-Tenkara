@@ -6,20 +6,24 @@ const Comments = () => {
         email: "", 
         website: "", 
         comment: ""
-    })
+    });
 
     const encode = (data) => {
         return Object.keys(data)
             .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
             .join("&");
-    }
+    };
 
     const handleChange = e => {
         setFormState({
             ...formState, 
             [e.target.name]: e.target.value
         })
-    }
+    };
+
+    const page_url = () => {
+        window.location.href.toString()
+    };
 
     const handleSubmit = e => {
         fetch("/", {
@@ -31,7 +35,7 @@ const Comments = () => {
             .catch(error => alert(error));
     
           e.preventDefault();
-    }
+    };
 
     return (
         <div class="mt-4 border-solid border-4 border-grey-500 flex w-8/12 mx-auto">
@@ -50,7 +54,7 @@ const Comments = () => {
 
             <input class="hidden" name="bot-field" />
 
-            <input id="form-page-url" type="hidden" name="form-page-url" value={window.location.href.toString()}></input>
+            <input id="form-page-url" type="hidden" name="form-page-url" value={{page_url}}></input>
 
             <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
             <div class="flex mx-auto">
