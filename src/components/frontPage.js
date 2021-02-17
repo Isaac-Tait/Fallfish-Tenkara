@@ -37,7 +37,7 @@ const FrontPage = () => {
               <img
                 src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Mountain+Huts/Japan-Mountain-Huts-Tenkara-Exploring-Katanokoya-Hut.jpg"
                 class="object-cover w-full h-64 rounded"
-                alt=""
+                alt="mountain huts in Japan"
               />
             </a>
             <div class="py-5">
@@ -61,7 +61,7 @@ const FrontPage = () => {
               <img
                 src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Life/Kadosan-friend-adventurer-sensei-badass.JPG"
                 class="object-cover w-full h-64 rounded"
-                alt=""
+                alt="My tenkara sensei and good friend Kado-san and me."
               />
             </a>
             <div class="py-5">
