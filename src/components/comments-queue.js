@@ -21,6 +21,10 @@ const Comments = () => {
         })
     }
 
+    const page_url = () => {
+        return window.location.href
+    }
+
     const handleSubmit = e => {
         fetch("/", {
             method: "POST",
