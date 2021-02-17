@@ -1,6 +1,6 @@
 ---
 title: Zimmerbuilt Tailwaters Pack
-description: From the remote mountain streams, to slot-canyon climbs, & even trekking through old growth forests - the Zimmerbuilt Tailwaters Pack will not let you down.
+description: From the remote mountain streams, to slot-canyon climbs, & even trekking through old growth forests - the Zimmerbuilt Tailwaters Pack will not let you down...
 date: 2017-04-17T03:13:00+02:00
 tags: [Gear]
 ---

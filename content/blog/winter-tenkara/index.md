@@ -1,6 +1,6 @@
 ---
 title: Winter Tenkara
-description: 
+description: Wind, ice, and a little snow cannot put a damper on my enthusiasm for the mountain stream fishing season opening and I head out in search in of Yamame & Iwana...
 date: 2017-03-10T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Norikura Kogen - Mt. Kengamine
-description: Norikura Kogen sits high above the city of Matsumoto, the area is actually an old volcano and it is comprised of 20+ peaks
+description: Norikura Kogen sits high above the city of Matsumoto, the area is actually an old volcano and it is comprised of 20+ peaks...
 date: 2017-05-07T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---
