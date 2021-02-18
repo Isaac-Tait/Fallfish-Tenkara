@@ -20,6 +20,7 @@ module.exports = {
     linkEight: 'Tenkara 101',
     linkNine: 'Search',
     linkTen: 'Prefectures',
+    linkEleven: 'Thank You',
 
       menuLinks: [
         {
@@ -66,6 +67,10 @@ module.exports = {
           name: "Prefectures",
           link: "/tags",
         },
+        {
+          name: "Thank You",
+          link: "/thank-you",
+        }
     ],
   },
   plugins: [
