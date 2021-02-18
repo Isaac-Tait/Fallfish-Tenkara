@@ -31,10 +31,11 @@ const Comments = () => {
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
             body: encode({ "form-name": "comments-queue", ...formState})
           })
-            .then(() => alert("Success!"))
+            .then(() => alert("Success! Your comment has been submitted. Once approved it will appear on this page."))
             .catch(error => alert(error));
     
           e.preventDefault();
+          formState({ name: '', email: '', website: '', comment: ''});
     };
 
     return (
