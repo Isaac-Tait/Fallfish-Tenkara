@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import ReCAPTCHA from "react-google-recaptcha"
 
 const Comments = () => {
     const [formState, setFormState] = useState({
@@ -91,7 +92,7 @@ const Comments = () => {
                         />
                 </p>
             </div>
-
+            <ReCAPTCHA sitekey="process.env.GATSBY_RECAPTCHA_KEY" />
             <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Send your comment (no spam I promise).</button>
 
             </form>
