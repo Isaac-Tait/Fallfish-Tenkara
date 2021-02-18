@@ -25,19 +25,6 @@ const Comments = () => {
         window.location.href.toString()
     };
 
-    const handleSubmit = e => {
-        fetch("/", {
-            method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: encode({ "form-name": "comments-queue", ...formState})
-          })
-            .then(() => alert("Success! Your comment has been submitted. Once approved it will appear on this page."))
-            .catch(error => alert(error));
-    
-          e.preventDefault();
-          formState({ name: '', email: '', website: '', comment: ''});
-    };
-
     return (
         <div class="mt-4 border-solid border-4 border-grey-500 flex w-8/12 mx-auto">
             <form
@@ -45,7 +32,7 @@ const Comments = () => {
                 method="POST" 
                 data-netlify="true" 
                 netlify-honeypot="bot-field"
-                onSubmit={handleSubmit}
+                action="/thank-you"
             >
             <input 
                 type="hidden" 
@@ -65,8 +52,7 @@ const Comments = () => {
                             class="ml-2 mt-2 border-dashed border-2 border-red-500" 
                             type="text" 
                             name="name" 
-                            onChange={handleChange} 
-                            onSubmit={handleSubmit} 
+                            onChange={handleChange}  
                             value={formState.name} 
                         />
                 </p>
@@ -78,7 +64,6 @@ const Comments = () => {
                         type="email" 
                         name="email" 
                         onChange={handleChange} 
-                        onSubmit={handleSubmit} 
                         value={formState.email} 
                     />
                 </p>
@@ -90,7 +75,6 @@ const Comments = () => {
                         type="text" 
                         name="website" 
                         onChange={handleChange} 
-                        onSubmit={handleSubmit} 
                         value={formState.website} 
                     />
                 </p>
@@ -102,8 +86,7 @@ const Comments = () => {
                             class="ml-2 mt-2 box-border h-16 w-3/4 border-dashed border-2 border-red-500"            
                             type="text" 
                             name="comment" 
-                            onChange={handleChange} 
-                            onSubmit={handleSubmit} 
+                            onChange={handleChange}  
                             value={formState.comment} 
                         />
                 </p>
