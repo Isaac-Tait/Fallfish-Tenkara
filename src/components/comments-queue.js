@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ReCAPTCHA from "react-google-recaptcha"
+import ReCAPTCHA from "gatsby-plugin-recaptcha"
 
 const Comments = () => {
     const [formState, setFormState] = useState({
@@ -33,6 +33,7 @@ const Comments = () => {
                 method="POST" 
                 data-netlify="true" 
                 netlify-honeypot="bot-field"
+                data-netlify-recaptcha="true"
                 action="/thank-you"
             >
             <input 
@@ -92,7 +93,7 @@ const Comments = () => {
                         />
                 </p>
             </div>
-            <ReCAPTCHA sitekey="process.env.GATSBY_RECAPTCHA_KEY" />
+            <ReCAPTCHA sitekey="{process.env.GATSBY_RECAPTCHA_KEY}" />
             <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Send your comment (no spam I promise).</button>
 
             </form>
