@@ -23,7 +23,7 @@ const Comments = () => {
     };
 
     const page_url = () => {
-        window.location.href.toString()
+        window.location.href
     };
 
     return (
@@ -43,7 +43,7 @@ const Comments = () => {
 
             <input class="hidden" name="bot-field" />
 
-            <input id="form-page-url" type="hidden" name="form-page-url" value={{page_url}}></input>
+            <input id="form-page-url" type="hidden" name="form-page-url" value={page_url}></input>
 
             <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
             <div class="flex mx-auto">
