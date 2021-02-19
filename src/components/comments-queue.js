@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ReCAPTCHA from "gatsby-plugin-recaptcha"
 
 const Comments = () => {
     const [formState, setFormState] = useState({
@@ -81,11 +80,11 @@ const Comments = () => {
                     />
                 </p>
             </div>
-            <div class="w-full">
+            <div class="w-full overflow-y-auto">
                 <p>
                     <label htmlFor="comment" class="ml-4 font-semibold text-red-500">Comment:</label> 
                         <input
-                            class="ml-2 mt-2 box-border h-16 w-3/4 border-dashed border-2 border-red-500"            
+                            class="ml-2 mt-2 box-border h-16 w-3/4 border-dashed border-2 border-red-500 overflow-y-auto"            
                             type="text" 
                             name="comment" 
                             onChange={handleChange}  
@@ -93,7 +92,7 @@ const Comments = () => {
                         />
                 </p>
             </div>
-            <ReCAPTCHA sitekey="{process.env.GATSBY_RECAPTCHA_KEY}" />
+            
             <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Send your comment (no spam I promise).</button>
 
             </form>

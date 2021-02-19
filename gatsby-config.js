@@ -74,7 +74,6 @@ module.exports = {
     ],
   },
   plugins: [
-    'gatsby-plugin-recaptcha',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
