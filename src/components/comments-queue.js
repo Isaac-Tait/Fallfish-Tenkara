@@ -8,12 +8,6 @@ const Comments = () => {
         comment: ""
     });
 
-    const encode = (data) => {
-        return Object.keys(data)
-            .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
-            .join("&");
-    };
-
     const handleChange = e => {
         setFormState({
             ...formState, 
@@ -32,7 +26,6 @@ const Comments = () => {
                 method="POST" 
                 data-netlify="true" 
                 netlify-honeypot="bot-field"
-                data-netlify-recaptcha="true"
                 action="/thank-you"
             >
             <input 
@@ -50,7 +43,7 @@ const Comments = () => {
                 <p>
                     <label htmlFor="name" class="ml-4 font-semibold text-red-500">Name:</label>
                         <input
-                            class="ml-2 mt-2 border-dashed border-2 border-red-500" 
+                            class="ml-2 mt-2 pl-2 border-dashed border-2 border-red-500" 
                             type="text" 
                             name="name" 
                             onChange={handleChange}  
@@ -61,7 +54,7 @@ const Comments = () => {
                 <p>
                     <label htmlFor="email" class="ml-4 font-semibold text-red-500">Email:</label>
                     <input 
-                        class="ml-2 mt-2 border-dashed border-2 border-red-500"
+                        class="ml-2 mt-2 pl-2 border-dashed border-2 border-red-500"
                         type="email" 
                         name="email" 
                         onChange={handleChange} 
@@ -72,7 +65,7 @@ const Comments = () => {
                 <p>
                     <label htmlFor="website" class="ml-4 font-semibold text-red-500">Website:</label> 
                     <input 
-                        class="ml-2 mt-2 border-dashed border-2 border-red-500"
+                        class="ml-2 mt-2 pl-2 border-dashed border-2 border-red-500"
                         type="text" 
                         name="website" 
                         onChange={handleChange} 
@@ -84,7 +77,7 @@ const Comments = () => {
                 <p>
                     <label htmlFor="comment" class="ml-4 font-semibold text-red-500">Comment:</label> 
                         <input
-                            class="ml-2 mt-2 box-border h-16 w-3/4 border-dashed border-2 border-red-500 overflow-y-auto"            
+                            class="overflow-y-auto ml-2 mt-2 box-border h-32 w-3/4 p-2 border-dashed border-2 border-red-500"            
                             type="text" 
                             name="comment" 
                             onChange={handleChange}  
