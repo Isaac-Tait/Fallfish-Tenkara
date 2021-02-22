@@ -15,9 +15,7 @@ const Comments = () => {
         })
     };
 
-    const page_url = () => {
-        window.location.href
-    };
+    let page_url = window.location.href.toString()
 
     return (
         <div class="mt-4 border-solid border-4 border-grey-500 flex w-8/12 mx-auto">
