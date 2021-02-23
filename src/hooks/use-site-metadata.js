@@ -11,7 +11,7 @@ const useSiteMetadata = () => {
       author {
           name
       }
-      siteURL
+      siteUrl
       }
     }
     }
