@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import useSiteMetadata from '../hooks/use-site-metadata';
 
 const Comments = ({ location }) => {
     const [formState, setFormState] = useState({
