@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const Comments = ( {location} ) => {
+const Comments = ({ location }) => {
     const [formState, setFormState] = useState({
         name: "",
         email: "", 
@@ -15,7 +15,7 @@ const Comments = ( {location} ) => {
         })
     };
 
-    const url = location.href ? location.href : '';
+    const { siteUrl } = useSiteMetadata();
 
     return (
         <div class="mt-4 border-solid border-4 border-grey-500 flex w-8/12 mx-auto">
@@ -34,7 +34,7 @@ const Comments = ( {location} ) => {
 
             <input class="hidden" name="bot-field" />
 
-            <input id="form-page-url" type="hidden" name="form-page-url" value={url}></input>
+            <input id="form-page-url" type="hidden" name="form-page-url" href={`${siteURL}${location.pathname}`}></input>
 
             <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
             <div class="flex mx-auto">
