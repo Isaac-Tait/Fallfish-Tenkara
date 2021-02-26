@@ -6,7 +6,6 @@ import Navigation from "../components/navigation"
 import SEO from "../components/seo"
 import Footer from "../components/footer"
 import Comments from "../components/comments-queue"
-import Approved from "../components/comments-approved"
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark
@@ -31,8 +30,6 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
         </div>
       </article>
-
-      <Approved />
 
       <Comments /> 
 
