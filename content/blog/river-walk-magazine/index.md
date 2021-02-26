@@ -2,7 +2,7 @@
 title: River Walk Magazine
 description: A pleasant afternoon stroll around Yokohama leads to the discovery of a new Japanese mountain fishing webzine called River Walk... 
 date: 2017-07-26T03:13:00+02:00
-tags: [Random]
+tags: [Gear]
 ---
 <div class=“text-lg m-2”>
 <p class="mb-2">At the emphatic suggestion from a good friend of mine I headed up to Yokohama with my son to check out a soup curry restaurant called <a href="https://www.google.co.jp/maps/place/KIKUYA%E3%83%BBCURRY/@35.4491728,139.6220584,16z/data=!4m12!1m6!3m5!1s0x60185c8a6564cbad:0xf73a4dd61507cb69!2sHinodecho+Station!8m2!3d35.445521!4d139.6266812!3m4!1s0x0:0x99caf2855e1fdaa8!8m2!3d35.4484609!4d139.6270104?hl=en" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Kikuya ∙ Curry</a>. The restaurant is located within walking distance from both the Hinodecho Station and the Sakuragicho Station. The restaurant is small seating only 17 people, but their friendly service and absolutely delicious curry make this place worth the wait even if there is a line. I personally do not like to stand in lines with an infant in 90% humidity so I went after the lunch rush and was seated immediately. I ordered the potato chicken curry medium spicy with a large rice. It was absolutely delicious. Next time I think I will try the potato and cheese dish, which is my friends favorite.</p>
@@ -34,7 +34,7 @@ tags: [Random]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+River+Walk/River+Walk+Magazine-Yokohama-Japan-mayflies.jpg" alt="Mayflies" />
 
-<p class="mt-2 mb-2">Author's Note: I received absolutely no compensation from River Walk to write this review. I paid for the magazine and took it upon myself to review it. All Fallfish Tenkara <a href="https://www.fallfishtenkara.com/category/gear/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Gear</a> Reviews are uncompensated and unsolicited reviews of my personal gear.</p>
+<p class="mt-2 mb-2">Author's Note: I received absolutely no compensation from River Walk to write this review. I paid for the magazine and took it upon myself to review it. All Fallfish Tenkara <a href="https://www.fallfishtenkara.com/tags/gear/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Gear</a> Reviews are uncompensated and unsolicited reviews of my personal gear.</p>
 
 <p class="font-semibold">Comments:</p>
 <hr>
