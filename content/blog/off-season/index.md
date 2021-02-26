@@ -30,4 +30,6 @@ tags: [Kanagawa Prefecture]
 <p class="italic text-center">There is no better way to wrap up a great day of cold fishing then with a bowl ramen!</p>
 </div>
 
+<p class="mt-2 mb-2 italic text-center font-semibold text-gray-400">To see more photos from this day's adventures, check out this Google Photos Album <a href="https://photos.app.goo.gl/V1NBALPoQpiaTJqY9" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
+
 </div>
