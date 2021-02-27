@@ -21,10 +21,9 @@ const Search = props => {
         const { data } = props;
 
         const posts = data.allMarkdownRemark.edges || [];
-        const filteredData = posts.filter(post => {
 
+        const filteredData = posts.filter(post => {
             const { description, title, tags } = post.node.frontmatter
-      
             return (
               description.toLowerCase().includes(query.toLowerCase()) ||
               title.toLowerCase().includes(query.toLowerCase()) ||
@@ -67,7 +66,7 @@ const Search = props => {
                 const { excerpt } = node 
 
                 const { slug } = node.fields
-                const { title, date, description } = node.frontmatter
+                const { tags, title, date, description } = node.frontmatter
     
 
                 return (
@@ -77,18 +76,20 @@ const Search = props => {
                                 <p class="pl-2 text-xl font-bold">
                                     <Link to={slug}>{title}</Link>
                                 </p>
+
                                 <p class="pl-2">{date}</p>
+
+                                <p class="pl-4 text-gray-400 italic text-sm"># {tags}</p>
+
                                 <p 
                                 dangerouslySetInnerHTML={{
                                     __html: description || excerpt,
                                 }}
                                 class="pl-2 italic text-gray-700"
                                 />
-                            
                             </header>
                         </article>
                     </div>
-                
                 )
             })}
             <Footer />
@@ -103,11 +104,12 @@ export const pageQuery = graphql`
         allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date }) {
             edges {
                 node {
-                    excerpt
+                    excerpt(pruneLength: 300)
                     id
                     frontmatter {
                         title
                         description
+                        tags
                         date(formatString: "MMMM DD, YYYY")
                     }
                     fields {
