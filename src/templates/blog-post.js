@@ -7,12 +7,12 @@ import SEO from "../components/seo"
 import Footer from "../components/footer"
 import Comments from "../components/comments-queue"
 
-const BlogPostTemplate = ({ data, pageContext }) => {
+const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const { previous, next } = pageContext
 
   return (
-    <div>
+    <div location={location}>
       <Navigation />
       <Link to="/" class="uppercase font-bold text-red-500">Take me back to the Home Page</Link>
       <SEO
@@ -34,25 +34,27 @@ const BlogPostTemplate = ({ data, pageContext }) => {
       <Comments /> 
 
       <nav class="flex w-1/2 justify-between mx-auto">
-        <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
+
+      <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+                ← {previous.frontmatter.title} 
+              </Link>
+            )}
+          </li>
+        </ul>
+
+      <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
+          <li>
+            {next && (
+              <Link to={next.fields.slug} rel="next">
+               {next.frontmatter.title} →
               </Link>
             )}
           </li>
         </ul>
       
-        <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
       </nav>
 
       <div class="w-1/2 mx-auto">

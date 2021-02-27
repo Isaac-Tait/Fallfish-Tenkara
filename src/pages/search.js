@@ -6,46 +6,44 @@ import Navigation from "../components/navigation.js"
 import Footer from "../components/footer.js"
 
 const Search = props => {
-    const { data } = props
-    const allPosts = data.allMarkdownRemark.edges
+    const { data } = props;
+    const allPosts = data.allMarkdownRemark.edges;
 
-    const emptyQuery = ""
+    const emptyQuery = "";
 
     const [ state, setState ] = useState({
         filteredData: [],
         query: emptyQuery,
-    })
+    });
 
-    const handleInput = event => {
-        const query = event.target.value
-        const { data } = props
+    const handleInputChange = event => {
+        const query = event.target.value;
+        const { data } = props;
 
-        // this is how we get all of our posts   
-        const posts = data.allMarkdownRemark.edges || []
-
-        // return all filtered posts   
+        const posts = data.allMarkdownRemark.edges || [];
         const filteredData = posts.filter(post => {
-            // de-structure data from post frontmatter
-            const { title, description } = post.node.frontmatter
+
+            const { description, title, tags } = post.node.frontmatter
+      
             return (
-                // standardize data with .toLowerCase()
-                // return true if the description, title or tags
-                // contains the query string 
-                description.toLowerCase().includes(query.toLowerCase()) ||
-                title.toLowerCase().includes(query.toLowerCase()) 
+              description.toLowerCase().includes(query.toLowerCase()) ||
+              title.toLowerCase().includes(query.toLowerCase()) ||
+              (tags &&
+                tags
+                  .join("")
+                  .toLowerCase()
+                  .includes(query.toLowerCase()))
             )
-        })
-        // update state according to the latest query and results
+          })
+
         setState({
-            query, //with current query string from the 'Input' event
-            filteredData, // with filtered data from posts.filter(post => (//filteredData)) above
-        })
-    }
+            query,
+            filteredData, 
+        });
+    };
 
     const { filteredData, query } = state
-
     const hasSearchResults = filteredData && query !== emptyQuery
-
     const posts = hasSearchResults ? filteredData : allPosts
 
     return (
@@ -61,7 +59,7 @@ const Search = props => {
                         type="text"
                         aria-label="Search"
                         placeholder="Enter search query..."
-                        onChange={handleInput}
+                        onChange={handleInputChange}
                     />
                 </div>
             </div>
@@ -89,7 +87,6 @@ const Search = props => {
                             
                             </header>
                         </article>
-                        {/*<Pager /> */}
                     </div>
                 
                 )
