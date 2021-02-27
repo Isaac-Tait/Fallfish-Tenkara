@@ -14,6 +14,7 @@
     "gatsby": "^2.32.3",
     "gatsby-awesome-pagination": "^0.3.6",
     "gatsby-image": "^2.11.0",
+    "gatsby-plugin-algolia": "^0.16.3",
     "gatsby-plugin-feed": "^2.13.0",
     "gatsby-plugin-manifest": "^2.12.0",
     "gatsby-plugin-netlify": "^2.11.0",
@@ -50,15 +51,15 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "2.1.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://www.fallfishtenkara.com",
   "keywords": [
-    "gatsby"
+    "tenkara"
   ],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/Isaac-Tait/Fallfish-Tenkara"
   },
   "scripts": {
     "build": "gatsby build",
