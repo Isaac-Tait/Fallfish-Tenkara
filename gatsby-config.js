@@ -1,4 +1,36 @@
-require("dotenv").config()
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
+const BlogQuery = `
+  {
+    {
+      allMarkdownRemark {
+        nodes {
+          frontmatter {
+            description
+            tags
+            title
+          }
+          internal {
+            content
+          }
+        }
+      }
+    }
+`;
+
+const queries = [
+  {
+    query: BlogQuery,
+    transformer: ({ data }) => data.allMarkdownRemark.nodes, // optional
+    settings: {
+      // optional, any index settings
+      // Note: by supplying settings, you will overwrite all existing settings on the index
+    },
+    matchFields: ['slug', 'modified'],
+  }
+]
 
 module.exports = {
   siteMetadata: {
@@ -20,9 +52,8 @@ module.exports = {
     linkSix: 'Links',
     linkSeven: 'About',
     linkEight: 'Tenkara 101',
-    linkNine: 'Search',
-    linkTen: 'Prefectures',
-    linkEleven: 'Thank You',
+    linkNine: 'Tags',
+    linkTen: 'Thank You',
 
       menuLinks: [
         {
@@ -60,10 +91,6 @@ module.exports = {
         {
           name: "Tenkara 101",
           link: "/tenkara-101"
-        },
-        {
-          name: "Search",
-          link: "/search",
         },
         {
           name: "Prefectures",
@@ -175,17 +202,30 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: process.env.GATSBY_ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_ADMIN_KEY,
-        queries: require("./src/utils/algolia-queries")
-      },
-    },
     `gatsby-plugin-netlify`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    {
+      // This plugin must be placed last in your list of plugins to ensure that it can query all the GraphQL data
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.ALGOLIA_APP_ID,
+        // Use Admin API key without GATSBY_ prefix, so that the key isn't exposed in the application
+        // Tip: use Search API key with GATSBY_ prefix to access the service from within components
+        apiKey: process.env.ALGOLIA_API_KEY,
+        indexName: process.env.ALGOLIA_INDEX_NAME, // for all queries
+        queries,
+        chunkSize: 10000, // default: 1000
+        settings: {
+          // optional, any index settings
+          // Note: by supplying settings, you will overwrite all existing settings on the index
+        },
+        enablePartialUpdates: true, // default: false
+        matchFields: ['slug', 'modified'], // Array<String> default: ['modified']
+        concurrentQueries: false, // default: true
+        skipIndexing: false, // default: false, useful for e.g. preview deploys or local development
+      },
+    },
   ],
 }
