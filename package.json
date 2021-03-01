@@ -8,6 +8,8 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@algolia/autocomplete-js": "^1.0.0-alpha.44",
+    "@algolia/autocomplete-theme-classic": "^1.0.0-alpha.44",
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "@tailwindcss/typography": "^0.4.0",
     "autoprefixer": "^9.8.6",

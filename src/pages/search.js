@@ -1,49 +1,21 @@
 import React, { useState } from "react"
-import { Link, graphql } from "gatsby"
+
+import { autocomplete } from '@algolia/autocomplete-js';
+import '@algolia/autocomplete-theme-classic';
 
 import SEO from "../components/seo.js"
 import Navigation from "../components/navigation.js"
 import Footer from "../components/footer.js"
 
-const Search = props => {
-    const { data } = props;
-    const allPosts = data.allMarkdownRemark.edges;
+const Search = () => {
 
-    const emptyQuery = "";
-
-    const [ state, setState ] = useState({
-        filteredData: [],
-        query: emptyQuery,
-    });
-
-    const handleInputChange = event => {
-        const query = event.target.value;
-        const { data } = props;
-
-        const posts = data.allMarkdownRemark.edges || [];
-
-        const filteredData = posts.filter(post => {
-            const { description, title, tags } = post.node.frontmatter
-            return (
-              description.toLowerCase().includes(query.toLowerCase()) ||
-              title.toLowerCase().includes(query.toLowerCase()) ||
-              (tags &&
-                tags
-                  .join("")
-                  .toLowerCase()
-                  .includes(query.toLowerCase()))
-            )
-          })
-
-        setState({
-            query,
-            filteredData, 
-        });
-    };
-
-    const { filteredData, query } = state
-    const hasSearchResults = filteredData && query !== emptyQuery
-    const posts = hasSearchResults ? filteredData : allPosts
+    autocomplete({
+        container: '#autocomplete',
+        placeholder: 'Search for specific content you are interested in researching...',
+        getSources() {
+          return [];
+        },
+      });
 
     return (
         <div>
@@ -53,14 +25,8 @@ const Search = props => {
             <SEO />
                 <div class="max-w-md px-10 py-12">
                     <p class="pl-8 font-bold text-2xl">Content</p>
-                    <input
-                        class="border-2 border-solid pl-2 text-red-500 w-full h-12" 
-                        type="text"
-                        aria-label="Search"
-                        placeholder="Enter search query..."
-                        onChange={handleInputChange}
-                    />
                 </div>
+                <div id="autocomplete"></div>
             </div>
             {posts.map(({ node }) => {
                 const { excerpt } = node 
