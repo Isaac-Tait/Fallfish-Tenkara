@@ -1,3 +1,34 @@
+require('dotenv').config({
+  path: `.env.production`
+});
+
+const BlogQuery = `
+  {
+    allMarkdownRemark {
+      nodes {
+        excerpt
+        frontmatter {
+          description
+          tags
+          title
+        }
+        internal {
+          content
+        }
+        timeToRead
+      }
+    }
+  }
+`
+
+const queries = [
+  {
+    query: BlogQuery,
+    transformer: ({ data }) => data.allMarkdownRemark.nodes,
+    matchFields: ['slug', 'modified'],
+  }
+];
+
 module.exports = {
   siteMetadata: {
     title: `Fallfish Tenkara`,
@@ -169,6 +200,17 @@ module.exports = {
       },
     },
     `gatsby-plugin-netlify`,
-
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_SEARCH_KEY,
+        indexName: process.env.ALGOLIA_INDEX_NAME,
+        queries,
+        chunkSize: 1000,
+      },
+      enablePartialUpdates: true,
+      matchFields: ['slug', 'modified'],
+    },
   ],
 }
