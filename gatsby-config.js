@@ -6,6 +6,7 @@ const BlogQuery = `
   {
     allMarkdownRemark {
       nodes {
+        id
         excerpt
         frontmatter {
           description
@@ -15,7 +16,6 @@ const BlogQuery = `
         internal {
           content
         }
-        timeToRead
       }
     }
   }
