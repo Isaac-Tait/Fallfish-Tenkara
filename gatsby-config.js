@@ -15,6 +15,7 @@ const BlogQuery = `
         fields {
           slug
         }
+        id
         html
       }
     }
