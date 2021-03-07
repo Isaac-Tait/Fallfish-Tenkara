@@ -29,3 +29,4 @@ tags: [Yamanashi Prefecture]
 <p class="">At the end of the day we headed over to Rivers Edge Fishing Store. They have a wide selection of fly fishing gear including a large selection of fly tying materials. The owner was friendly offering all sorts of information and they also have a café with many tables and outdoor seating. They also sell fishing licenses and full season tickets in case you would rather go here instead of Lawsons. They open at 8am M-S.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Close-Up_Rainbow-Trout_Tenkara.JPG" />
+</div>

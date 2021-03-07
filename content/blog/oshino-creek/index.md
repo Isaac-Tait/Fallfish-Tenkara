@@ -44,3 +44,4 @@ tags: [Yamanashi Prefecture]
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rainbow-Trout_Tenkara_Oshino-Creek_Japan.JPG" />
 
 <p class="mt-2">After a few hours my rain jacket gave up (it is getting pretty old) and with the impending sunset the temps were dropping rapidly so we decided to call it a day. Once we got on the Tomei Expressway we stopped at the Ashigara rest stop and gorged ourselves on some great Japanese cuisine. It was a great day of fishing, we brought to hand nine fish and had twice that on our lines. I will certainly be headed back to experience the magic of Oshino Creek again.</p>
+</div>

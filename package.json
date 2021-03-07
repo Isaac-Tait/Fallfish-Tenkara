@@ -12,6 +12,7 @@
     "@algolia/autocomplete-theme-classic": "^1.0.0-alpha.44",
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "@tailwindcss/typography": "^0.4.0",
+    "algoliasearch": "^3.35.1",
     "autoprefixer": "^9.8.6",
     "gatsby": "^2.32.3",
     "gatsby-awesome-pagination": "^0.3.6",
@@ -38,8 +39,10 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^5.2.1",
+    "react-instantsearch-dom": "^6.10.3",
     "react-pro-sidebar": "^0.4.4",
     "react-typography": "^0.16.19",
+    "striptags": "^3.1.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
