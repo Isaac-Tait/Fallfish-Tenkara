@@ -8,15 +8,17 @@ const BlogQuery = `
   {
     allMarkdownRemark {
       nodes {
+        id
+        html
         frontmatter {
           title
           description
+          tags
         }
         fields {
           slug
         }
-        id
-        html
+        excerpt
       }
     }
   }
