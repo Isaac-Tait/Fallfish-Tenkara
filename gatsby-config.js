@@ -2,23 +2,21 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
-const striptags = require("striptags")
-
 const BlogQuery = `
   {
     allMarkdownRemark {
       nodes {
         id
-        html
+        excerpt
         frontmatter {
-          title
           description
           tags
+          title
         }
         fields {
           slug
         }
-        excerpt
+        html
       }
     }
   }
@@ -27,34 +25,7 @@ const BlogQuery = `
 const queries = [
   {
     query: BlogQuery,
-    transformer: ({ data }) => {
-      return data.allMarkdownRemark.nodes.reduce((indices, post) => {
-        const pChunks = striptags(post.html, [], "XXX_SPLIT_HERE_XXX").split(
-          "XXX_SPLIT_HERE_XXX"
-        )
-
-        const chunks = pChunks.map(chnk => ({
-          slug: post.fields.slug,
-          date: post.frontmatter.date,
-          title: post.frontmatter.title,
-          excerpt: chnk,
-        }))
-
-        if (post.frontmatter.description) {
-          chunks.push({
-            slug: post.fields.slug,
-            date: post.frontmatter.date,
-            title: post.frontmatter.title,
-            excerpt: post.frontmatter.excerpt,
-          })
-        }
-
-        const filtered = chunks.filter(chnk => !!chnk.excerpt)
-
-        return [...indices, ...filtered]
-      }, [])
-    }
-  }
+    transformer: ({ data }) => data.allMarkdownRemark.nodes, }
 ];
 
 module.exports = {
