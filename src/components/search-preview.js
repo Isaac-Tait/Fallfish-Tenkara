@@ -8,12 +8,10 @@ const SearchPreview = ({ hit }) => {
     return (
         <div>
             <Link to={hit.fields.slug}>
-                <Highlight hit={hit} attribute="title" tagName="mark" />
+                <Highlight hit={hit} attribute="frontmatter.title" tagName="mark" />
             </Link>
 
-            <p dangerouslySetInnerHTML={{__html: hit.frontmatter.title && hit.frontmatter.description || hit.excerpt,}}/>
-
-            <div class="font-semibold text-red-500">
+            <div class="">
                 <Highlight hit={hit} attribute="excerpt" tagName="mark" />
             </div>
         </div>
