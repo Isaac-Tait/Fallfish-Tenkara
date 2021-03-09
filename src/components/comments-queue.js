@@ -16,7 +16,8 @@ const Comments = () => {
     };
 
     return (
-        <div class="mt-4 border-solid border-4 border-grey-500 flex w-8/12 mx-auto">
+        <div class="mt-4 w-2/3 mx-auto flex flex-col">
+            <hr />
             <form
                 name="comments-queue" 
                 method="POST" 
@@ -29,26 +30,36 @@ const Comments = () => {
                 name="form-name" 
                 value="comments-queue"
             />
-
-            <input class="hidden" name="bot-field" />
-
-            <input id="form-page-url" type="hidden" name="form-page-url" value={`${typeof window !== 'undefined' ? window.location.href : ''}`}></input>
-
+            <input 
+                class="hidden" 
+                name="bot-field" 
+            />
+            <input 
+                id="form-page-url" 
+                type="hidden" 
+                name="form-page-url" 
+                value={`${typeof window !== 'undefined' ? window.location.href : ''}`} 
+            />
             <p>Do you have something to say or meaningful to contribute? If so, please feel free to comment using the form below.</p>
-            <div class="flex mx-auto">
+            
+            <div class="md:flex md:flex-row">
                 <p>
                     <label htmlFor="name" class="ml-4 font-semibold text-red-500">Name:</label>
-                        <input
-                            class="ml-2 mt-2 pl-2 border-dashed border-2 border-red-500" 
-                            type="text" 
-                            name="name" 
-                            onChange={handleChange}  
-                            value={formState.name} 
-                        />
+                </p>
+                <p>
+                    <input
+                        class="ml-2 mt-2 pl-2 border-dashed border-2 border-red-500" 
+                        type="text" 
+                        name="name" 
+                        onChange={handleChange}  
+                        value={formState.name} 
+                    />
                 </p>
 
                 <p>
                     <label htmlFor="email" class="ml-4 font-semibold text-red-500">Email:</label>
+                </p>
+                <p>
                     <input 
                         class="ml-2 mt-2 pl-2 border-dashed border-2 border-red-500"
                         type="email" 
@@ -60,6 +71,8 @@ const Comments = () => {
 
                 <p>
                     <label htmlFor="website" class="ml-4 font-semibold text-red-500">Website:</label> 
+                </p>
+                <p>
                     <input 
                         class="ml-2 mt-2 pl-2 border-dashed border-2 border-red-500"
                         type="text" 
@@ -69,11 +82,12 @@ const Comments = () => {
                     />
                 </p>
             </div>
-            <div class="w-full overflow-y-auto">
+
+            <div class="">
                 <p>
                     <label htmlFor="comment" class="ml-4 font-semibold text-red-500">Comment:</label> 
                         <input
-                            class="overflow-y-auto ml-2 mt-2 box-border h-32 w-3/4 p-2 border-dashed border-2 border-red-500"            
+                            class="overflow-y-auto ml-2 mt-2 box-border h-2/3 w-3/4 p-2 border-dashed border-2 border-red-500"            
                             type="text" 
                             name="comment" 
                             onChange={handleChange}  
@@ -82,8 +96,8 @@ const Comments = () => {
                 </p>
             </div>
             
-            <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">Send your comment (no spam I promise).</button>
-
+            <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black text-xs md:text-base">Send your comment (no spam I promise).</button>
+            <hr />
             </form>
         </div>
     )
