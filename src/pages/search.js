@@ -9,6 +9,7 @@ import {
 } from 'react-instantsearch-dom';
 
 import SEO from "../components/seo";
+import Layout from "../components/layout"
 import SearchPreview from "../components/search-preview";
 
 const searchClient = algoliasearch(
