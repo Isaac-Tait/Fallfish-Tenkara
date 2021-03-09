@@ -150,8 +150,8 @@ const Navigation = () => {
                             </span>
                         </li>
                         <li>
-                            <span class="text-white mx-auto tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
-                                <Link to="/search">{linkEleven}</Link>
+                            <span class="text-white tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
+                                <Link to="/search">&#128270;</Link>
                             </span> 
                         </li>
                     </ul>
