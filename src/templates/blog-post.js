@@ -33,32 +33,31 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
       <Comments /> 
 
-      <nav class="flex w-1/2 justify-between mx-auto">
+      <div>
+            <p class="font-semibold flex w-1/2 justify-center mx-auto">Blog Navigation</p>
+            <nav class="text-xs md:text-base flex w-1/2 justify-between mx-auto">
 
-      <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
-          <li>
+            <p class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title} 
-              </Link>
-            )}
-          </li>
-        </ul>
+                <Link to={previous.fields.slug} rel="prev">
+                    ← {previous.frontmatter.title} 
+                </Link>
+                )}
+            </p>
 
-      <ul class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
-          <li>
+            <p class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
             {next && (
-              <Link to={next.fields.slug} rel="next">
-               {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
+                <Link to={next.fields.slug} rel="next">
+                    {next.frontmatter.title} →
+                </Link>
+                )}
+            </p>
       
-      </nav>
+            </nav>
+        </div>
 
       <div class="w-1/2 mx-auto">
-            <Bio />
+          <Bio />
       </div>
       
       <Footer />
