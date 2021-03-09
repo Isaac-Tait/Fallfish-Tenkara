@@ -16,7 +16,7 @@ const Comments = () => {
     };
 
     return (
-        <div class="mt-4 w-2/3 mx-auto flex flex-col">
+        <div class="my-4 mx-4 md:w-2/3 md:mx-auto flex flex-col">
             <hr />
             <form
                 name="comments-queue" 
@@ -97,7 +97,7 @@ const Comments = () => {
             </div>
             
             <button type="submit" class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black text-xs md:text-base">Send your comment (no spam I promise).</button>
-            <hr />
+            
             </form>
         </div>
     )
