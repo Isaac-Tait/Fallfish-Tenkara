@@ -13,7 +13,7 @@ const Season = ({ location }) => {
     query {
       desktopLogo: file(absolutePath: { regex: "/FfT_Logo_Desktop.png/"}) {
         childImageSharp {
-          fluid(maxWidth: 500, quality: 50) {
+          fluid(maxWidth: 500, quality: 100) {
             ...GatsbyImageSharpFluid_tracedSVG
           }
         }
