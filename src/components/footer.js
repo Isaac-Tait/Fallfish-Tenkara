@@ -2,8 +2,8 @@ import React from "react"
 
 const Footer = () => {
     return (
-        <div class="bg-red-500 flex mx-auto">
-            <footer class="text-tiny md:text-base">
+        <div class="bg-red-500">
+            <footer class="text-tiny md:text-base flex items-center justify-between">
                 <div class="ml-2">
                     <p>© 2014 - {new Date().getFullYear()}, Built with&nbsp;
                         <a href="https://www.gatsbyjs.org" class="hover:text-white" target="_blank" rel="noopener noreferrer">Gatsby</a> &&nbsp;
