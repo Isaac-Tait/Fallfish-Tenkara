@@ -5,7 +5,7 @@ date: 2015-04-23T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
 <div class="text-lg m-2">
-<p class="mb-2">If you missed <span class="underline">Day 2 Part I</span> check it out <a href="https://www.fallfishtenkara.com/tama-river-headwaters/" target="_blank" >here</a></p>
+<p class="mb-2">If you missed Day 2 Part I check it out <a href="https://www.fallfishtenkara.com/tama-river-headwaters/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a></p>
 
 <p class="mb-2 mt-2">After a long drive up and over the Yanagisawa Pass we arrived in the town of Koshu. We found a Lawsons Convenience Store and gorged ourselves on some delicious grub. It was warm bordering on hot in Koshu and we were glad to escape back into the mountains with our food coffers replenished. On the way to Koshu we had passed the headwaters of the Yanagisawa River.</p>
 

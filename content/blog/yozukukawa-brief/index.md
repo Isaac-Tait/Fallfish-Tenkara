@@ -13,5 +13,5 @@ tags: [Kanagawa Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-md mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Yozukugawa+Brief/Lake-Tanazawa_Yozukugawa_Tenkara_Fall-Colors.jpg" alt="Mountains in their snowless winter coat" />
 
-<p class="mt-2"> Also I should mention the <a href="https://www.fallfishtenkara.com/keiryu-fishing-season" target="_blank">keiryu fishing season</a> - at the time of this trip I did not know that I was technically breaking the law. Fishing mountain streams in Japan is closed September - March. </p>
+<p class="mt-2"> Also I should mention the <a href="https://www.fallfishtenkara.com/keiryu-fishing-season" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">keiryu fishing season</a> - at the time of this trip I did not know that I was technically breaking the law. Fishing mountain streams in Japan is closed September - March. </p>
 </div>
