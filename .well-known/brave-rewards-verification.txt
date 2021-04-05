@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mountaintopcoding.com
+Token: 96802ce8f21c921791435a383c98e986ee53906da1953c81e25fe16325587c83
