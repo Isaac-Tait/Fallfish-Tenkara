@@ -5,6 +5,6 @@
 ###
 This site has been a labor of love spanning six plus years. I am migrating from a Wordpress, Cloudflare, Digital Ocean deploy into the Jamstack via Gatsby and TailwindCSS. I started this project September 2020... More to come.
 
-<p>mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</p>
+<a href="https://mountaintopcoding.com" target="_blank" rel="noopener noreferrer"><p>mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</p></a>
 
 Check out the live site at: https://www.fallfishtenkara.com
