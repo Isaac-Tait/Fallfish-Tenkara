@@ -1,6 +1,6 @@
 {
   "name": "gatsby-blog",
-  "private": true,
+  "private": false,
   "description": "Exploring Japan One River At A Time",
   "version": "0.1.0",
   "author": "Isaac Tait <isaac@mountaintopcoding.com>",
