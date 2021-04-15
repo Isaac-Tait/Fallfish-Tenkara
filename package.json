@@ -2,10 +2,10 @@
   "name": "gatsby-blog",
   "private": false,
   "description": "Exploring Japan One River At A Time",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Isaac Tait <isaac@mountaintopcoding.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/Isaac-Tait/Fallfish-Tenkara/issues"
   },
   "dependencies": {
     "@algolia/autocomplete-js": "^1.0.0-alpha.44",
