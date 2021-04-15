@@ -4,7 +4,7 @@ description: I risk it all (okay that might be a slight exaggeration) to climb t
 date: 2015-10-07T03:13:00+02:00
 tags: [Gunma Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">On the edge of Gunma and Niigata Prefecture lies an area that many in Japan refer to as "Little Alaska". While there are numerous jagged mountains scraping the heavens, the king of the area is without a doubt the majestic Mount Tanigawa (Tanigawadake). However, over the years it has become known by another name - the Mountain of Death. <a href="https://www.tanigawadake-rw.com/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tanigawadake</a> has garnered this foreboding monicker because in the last 85 years or so it has killed over 800 climbers (that is four times as many deaths as Mount Everest and K2 combined in the same time frame)!</p>
 
 <div class="w-8/12 mx-auto mt-2">

@@ -4,7 +4,7 @@ description: A popular game fish in Japan is called Haze, in English we know it 
 date: 2016-10-17T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Last month I travelled to the <a href="https://www.fallfishtenkara.com/exploring-aizu-interior-fukushima-prefecture/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Aizu Region</a> of <a href="https://www.fallfishtenkara.com/grandeco-ski-resort/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Fukushima Prefecture</a> and met up with some of the preeminent Japanese and American Tenkara ambassadors for a social gathering, in a building older than the United States. During this event I was invited by Masayuki Yamano-san to go ハゼ fishing with him the following month. Yamano-san owns a speciality rod shop in Saitama, Tokyo where he practices the ancient Japanese art form of <a href="https://www.fallfishtenkara.com/tosaku/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Kazusao (和竿)</a> or hand making bamboo fishing rods. I immediately accepted his invitation despite knowing next to nothing about ハゼ or the fishing style.</p>
 
 <div class="w-8/12 mx-auto">

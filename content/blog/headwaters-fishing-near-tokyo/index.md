@@ -4,7 +4,7 @@ description: I escape the sweltering summer heat and get knee deep in an unexplo
 date: 2015-07-18T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">With my new <a href="https://www.fallfishtenkara.com/sawanobori-stream-climbing-shoes/" target="_blank">sawanobori</a> gear fresh out of the packaging I was itching to get out and break them in. There was a little blue line on the map I had been eyeballing for awhile and decided now was a great time to go and see what she had to offer. I had a few errands to run before I could hit the road, so the hot summer sun was already high in the sky when I pulled into the small turnout on the side of the road, that qualified more as a bike path than a two lane highway. I quickly ate lunch, through on my gear, put a rock behind the tire of my <a href="https://www.fallfishtenkara.com/japanese-kei-cars/" target="_blank" rel="noopener noreferrer">Kei van</a> (which is now lovingly called "Lé Toaster") so she would not roll away, and scampered off down to the river.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Headwaters/headwaters-boulder-river-fishing-tokyo-japan.JPG" alt="Boulder" />

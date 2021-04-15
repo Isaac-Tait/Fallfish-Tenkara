@@ -4,7 +4,7 @@ description: Deep in the Tanzawa Mountains there is a mystical waterfall that ha
 date: 2015-09-26T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">There are many waterfalls deep in the Tanzawa Mountains but there is one that draws me in a way that none of the others do. What intrigues me the most with this waterfall is not its stature (it is only a scant 12 meters in height) but the relentless, voluminous, crystal clear and turquoise hue of the water that leaps from its apex. I first came across this waterfall last winter which is when, the trees and bushes have lost their green finery, you can easily see an old wooden ladder bolted to the cliff beside the waterfall. However, during the spring and summer when the greenery engulfs the countryside the ladder nearly disappears from sight and only the memory of it remains.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Silver+Week/Silver+Week-Japan-tenkara-iwana-yamame-.jpg" alt="The ladder" />

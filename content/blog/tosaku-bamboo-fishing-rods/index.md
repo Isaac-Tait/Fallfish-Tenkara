@@ -4,7 +4,7 @@ description: Tucked down a small side street in Ueno, Tokyo lies a quaint centur
 date: 2016-09-16T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Before the age of graphite, carbon fiber, and fiber glass - fishing rods were typically made out of bamboo. In Japan the bamboo fishing rod is called wazao and is considered an art form, with craftsman spending a lifetime perfecting their art. Unfortunately, this exquisite art form is becoming more and more rare in Japan. This is due in part to decrease in demand, a decline in the availability of the necessary materials, and the fact that the trade does not provide enough income to compete with modern wages. In an effort to keep the tradition alive <a href="https://tosaku.jp" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tosaku 东作</a>, which has been creating hand made fishing rods from bamboo for eight generations, has modernized their business model. Their main office is located a brisk 10 minute walk from Ueno Station in Tokyo and I highly recommend, that if you are in the area, you drop by.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tosaku/Tosaku-ueno-tokyo-japan-bamboo+fishing+rods-tamo.jpg" alt="Perusing the store" />

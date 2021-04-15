@@ -4,7 +4,7 @@ description: I ponders what it means when you are catching and releasing fish...
 date: 2015-08-13T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Daniel Galhardo, founder of Tenkara USA, recently released a Tenkara Podcast called <a href="https://soundcloud.com/tenkara" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tenkara Cast</a>. The content is interesting, well thought out, and engaging. In the 2nd episode "<span class="semibold">Excuses - Why You May Get Skunked and How To Catch Fish" he brings up a good point - how do you know that you have caught a fish? Tenkara Cast's attempt to answer that existential question is thought provoking.</span>
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218858254&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="450" frameborder="no" scrolling="no"></iframe>

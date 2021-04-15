@@ -4,7 +4,7 @@ description: Typically the hardest month adventure wise for me is November. The 
 date: 2016-11-25T03:13:00+02:00
 tags: [Chiba Prefecture, Shizuoka Prefecture, Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">November is a beautiful month in Japan - the fall colors are in full swing, the days are cool the evenings are brisk, and preparations are in full swing for snow. However, the lull between Tenkara season and ski season requires that I get creative to find things to do. Luckily, there is a plethora of outdoor activities to enjoy in Japan.</p>
 
 <hr />

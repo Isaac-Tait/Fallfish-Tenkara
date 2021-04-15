@@ -4,7 +4,7 @@ description: Snow in July!? Climbing the tallest mountain in Japan is non stop a
 date: 2015-07-09T03:13:00+02:00
 tags: [Mount Fuji]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Mount+Fuji/Lake-Yamanaka_Mikuni-Pass.JPG" alt="Mount Fuji" /> 
 <p class="mb-2">Mount Fuji (12,839' or 3,776m) is one of the most iconic mountains in the world. The summit is only 100km from the largest city in the world, Tokyo - and only 25km from the ocean! This makes Mount Fuji not only geographically prominent but culturally prominent as well. Every year over a quarter million people climb Mount Fuji and roughly a third of those people are foreigners. Do keep in mind that these numbers are only tallied during the official climbing season, which is from early July to mid-September. People climb Mount Fuji throughout the year so the actual number of people climbing to the summit is much much higher. This week I joined the "madness" and climbed Mount Fuji.</p>
 

@@ -4,7 +4,7 @@ description: Perhaps one of the best fishing shows in the world, the amount of g
 date: 2017-01-25T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">This past weekend the Japan Fishing Show was held in Yokohama at the Pacific Convention Center. A few days prior my friend Go Ishii-san messaged me and asked if I would like to attend. He said he needed some help getting footage for an upcoming episode of <a href="https://www.facebook.com/groups/TenkaraInFocus/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tenkara In Focus </a>episode. He also knew I was in the market for a new Japanese tenkara rod - what better place could one ask for to shop around for a new Tenkara rod!? Obviously I accepted his invitation.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Japan+Fishing+Show/japan+fishing+show-yokohama-pacific+convention+center.jpg" alt="Go Ishii" />

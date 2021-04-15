@@ -4,7 +4,7 @@ description: Located within the heart of the Fuji-Hakone-Izu National Park, lies
 date: 2016-06-17T03:13:00+02:00
 tags: [Shizuoka Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">West of Tokyo lies the mountain town of Hakone. Hakone is located in the heart of the Fuji-Hakone-Izu National Park and offers many attractions, both natural and manmade, that make this area a popular tourist destination. There are sulfur springs, shrines, a huge lake, a castle, black eggs that add seven years to your life when consumed, outlet malls, dozens of museums, and of course epic views of <a href="https://www.fallfishtenkara.comimbing-mount-fuji/" target="_blank" rel="noopener noreferrer">Mount Fuji</a>! Despite Hakone's close proximity to where we live I had yet to fully explore it. With my wife's family visiting from California we decided to rent a van and explore Hakone and the Fuji-Hakone-Izu National Park.</p>
 
 <p class="mt-2 mb-2">Naturally whenever I visit a new area in Japan I ravenously pour over maps looking for promising places to deploy my Tenkara rod. My visit to Hakone was no different and after a bit of research I did find a few rivers that looked promising for Tenkara but not before running into a few snags.</p>

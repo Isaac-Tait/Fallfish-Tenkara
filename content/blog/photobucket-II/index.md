@@ -4,7 +4,7 @@ description: A compilation of photos from the past year's adventures...
 date: 2015-10-15T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">It has been a hot minute since I last did a <a href="https://www.fallfishtenkara.com/japan-photobucket-i/ target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"">Photobucket</a> post (9 weeks to be exact) and now more than ever, I've got more photos than I know what to do with. Most of these photos were taken this past spring. Enjoy :)</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+2/fire+danger-bear-rabbit-forest+fires-japan.JPG" alt="Forest Fire?" />

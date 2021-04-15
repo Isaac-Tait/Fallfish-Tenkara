@@ -4,7 +4,7 @@ description: The town of Minakami is only two hours from Tokyo. However, it is a
 date: 2016-06-03T03:13:00+02:00
 tags: [Gunma Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The mountain town of Minakami (みなかみ町) is located in the northern edge of Gunma Prefecture. It is also the headwaters for the Tone River and the home of <a href="https://www.fallfishtenkara.com/tanigawadake/" target="_blank" rel="noopener noreferrer">Tanigawa-dake</a> (aka The Mountain of Death) and is also the gateway to <a href="https://www.fallfishtenkara.com/oze-national-park/" target="_blank" rel="noopener noreferrer">Oze National Park</a>. So when my friend Hama asked me to take him fishing somewhere in Japan I decided to explore the Minakami area, particularly the area around  Mount Kasa (笠ヶ岳). From the flanks of this magnificent peak (which still had some snow on it in late May) flow hundreds of tiny keiryu (mountain streams) that run cold and clear through the summer.</p>
 
 <p class="mt-2 mb-2 font-semibold">Minakami aka Water Town</p>

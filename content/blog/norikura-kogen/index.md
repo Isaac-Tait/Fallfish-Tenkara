@@ -4,7 +4,7 @@ description: Norikura Kogen sits high above the city of Matsumoto, the area is a
 date: 2017-05-07T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Norikura Kogen sits high above the city of Matsumoto in Nagano Prefecture. The Norikura (乗鞍岳) mountain group is comprised of 20+ peaks, the highest of which is Kengamine (<a href="https://ja.wikipedia.org/wiki/剣ヶ峰" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">剣ヶ峰</a>) at 3026m. The area is actually an old volcano and is located relatively close to Mount Ontake, which <a href="https://en.wikipedia.org/wiki/2014_Mount_Ontake_eruption" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">erupted</a> on September 27, 2014 killing 63 people.</p>
 
 <p class="mt-2 mb-2">For a topo map of the region click <a href="https://maps.gsi.go.jp/#15/36.106685/137.553881/&amp;base=std&amp;ls=std&amp;disp=1&amp;vs=c1j0l0u0t0z0r0f1" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>

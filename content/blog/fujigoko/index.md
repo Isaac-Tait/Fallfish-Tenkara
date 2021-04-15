@@ -4,7 +4,7 @@ description: Fujigoko also known as the Fuji Five Lakes is a region of unsurpass
 date: 2015-11-14T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Fujigoko (富士五湖), or Fuji Five Lakes in English, is a Japanese national treasure of exquisite and unbelievable beauty. My two favorite lakes are Motosu and Shōji. They are my favorite because the shorelines have not been overrun by hotels, shops, and parking lots like Kawaguchiko, Saiko, and <a href="https://www.fallfishtenkara.com/climbing-mount-fuji/" target="_blank" rel="noopener noreferrer">Yamanakako</a> lakes.</p>
 
 <img class="size-large wp-image-5261 aligncenter" src="https://www.fallfishtenkara.com/wp-content/uploads/2015/11/fall-colors-Lake-Motosu-Lake-Shōji-fuji-five-lakes-panorama-1024x376.jpg" alt="" width="1024" height="376" />

@@ -4,7 +4,7 @@ description: A few hours from Tokyo and home of the illustrious city of Hakone i
 date: 2017-05-23T03:13:00+02:00
 tags: [Shizuoka Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Since becoming a father my Tenkara adventures have tapered off a little. This does not mean that my passion for the sport has abated though. I just spend more time than before pouring over maps, reading books and blogs about Tenkara, and of course studying my growing collection of <a href="https://www.fallfishtenkara.com/keiryu-magazine/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Keiryu</a> (渓流) and Yama to Tsuri (山と釣り) magazines. While flipping through the Summer 2013 and Spring 2015 issues of the Keiryu magazine my attention was caught by two rivers - the Shirotakawa and the Nishikawa. Both of these rivers are located on <a href="https://www.fallfishtenkara.com/izu-skyline/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Izu Peninsula</a> - a landmass with a medley of mountains and oceans interspersed with epic beaches and cold mountain streams.</p>
 
 <div class="w-8/12 mx-auto">

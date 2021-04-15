@@ -4,7 +4,7 @@ description: Michi No Eki are located along national highways and provide free p
 date: 2016-04-21T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">One of the greatest Japanese inventions has to be the <a href="https://www.michi-no-eki.jp/en/" target="_blank" rel="noopener noreferrer">Michi No Eki</a> or better known as “Roadside Station”. They are literally everywhere in Japan but unlike their sibling the highway rest stop, the <a href="https://www.japantimes.co.jp/community/2012/05/26/our-lives/see-japan-by-car-well-it-does-sort-of-make-sense/#.VxYHCcjXeJJ" target="_blank" rel="noopener noreferrer">Michi No Eki</a> can only be found in areas where you do not need to pay exorbitant tolls to have the pleasure of visiting. For the traveler on a budget there is nothing greater than the network of Michi-no-eki and Rest Stops that can be found within Japan.</p>
 
 <p class="mt-2 mb-2">The Atsumi Michi-No-Eki has a seaside park. When we visited it part of it was under the ocean (due to a higher than normal high tide)</p>

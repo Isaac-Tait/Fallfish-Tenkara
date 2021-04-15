@@ -4,7 +4,7 @@ description: Tucked into an ultra remote mountain valley lies a village that tim
 date: 2016-07-12T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Ever since the release of the video <a href="https://www.fishingvision.ch/media/fishing-caf%C3%A9-%22tenkara-with-hisao-ishigaki%22/45315/feature" target="_blank" rel="noopener">Fishing Café "Tenkara with Hisao Ishigaki"</a> this April, it has become quite popular within the Tenkara community. I enjoyed the video immensely and after watching it, I wanted to experience the world of Shokuryoshi firsthand. So after a bit of sleuthing I found the minshuku (民宿) that Dr. Ishigaki-san visited; the place where Yamada-san ties the horse hair tenkara line and talks about his father - the last Shokuryoshi. The minshuku is named <a href="https://sakae-akiyamago.com/stay/324/" target="_blank" rel="noopener">雄山荘</a>and is located between <a href="https://www.fallfishtenkara.com/nozawa-onsen-fire-festival/" target="_blank" rel="noopener">Nozawa Onsen Ski Resort</a> and Naeba Ski Resort in a remote, uncrowded, and not so popular (read: good fishing) valley. Towering over the valley is the immense and foreboding Mount Torikabuto.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Torikabuto/wayama+sakai-tori+kabuto-tenkara-nagano+prefecture-shokuriyoshi-blue+skies.JPG" alt="Mountain stream with blue skies and a tree covered mountain" />

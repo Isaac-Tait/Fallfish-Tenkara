@@ -4,7 +4,7 @@ description: The mountain hut system in Japan is not only extensive but also man
 date: 2018-05-23T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">One of my favorite Japan adventure blogs is <a href="http://ridgelineimages.com" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Ridgeline Images</a>, and it is all about hiking and backpacking in Japan (mostly in the vicinity of Tokyo). I have been following the blog for several years now and have thoroughly enjoyed all the posts. A few days ago he published an article about mountain huts near <a href="http://ridgelineimages.com/musings/tokyo-hiking-mountain-huts-to-stay-for-free/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Tokyo</a> and it got me thinking about the mountain huts I visited during the three plus years I lived in Japan. I am still sifting through the many memories I have from my time in Japan and the mountain huts culture is just another example of how cool Japan is. So, I thought I would share my mountain huts experiences from Japan with you. Perhaps it will stoke the embers (or maybe ignite the flame) for you to come to Japan and experience this amazing other worldly place for yourself...</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Mountain+Huts/Japan-Mountain-Huts-Tenkara-Exploring-Katanokoya-Hut-panorama.jpg" alt="Katanokoya Hut panorama" />

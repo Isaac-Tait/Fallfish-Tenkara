@@ -4,7 +4,7 @@ description: According to Keiichi Okushi's interview on Tenkara Fisher a honryu 
 date: 2016-04-15T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">According to Keiichi Okushi's interview on <a href="https://www.tenkara-fisher.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tenkara Fisher</a> a honryu is "When two or more of the rivers are joined, the flow that forms the most fundamental". In a way I guess all rivers are honryu when viewed in this manner; but the kanji 本流, which translates directly to "mainstream" in English, helps shed some light on the significance of the word. As a Tenkara angler who spends a fair amount of time chasing the little blue lines on a topo map, it is a promising sign that the fishing is good when you see a lot of intersecting blue lines (aka honryu) on the map. It means there is a lot of water. Put it in a remote location with no nearby roads and the wheels in my brain really start churning.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Honryu/Komotsurushi-tanzawa+mountains-Yamanakako-doshi-stalking+sakana.JPG" alt="Stalking sakana" />

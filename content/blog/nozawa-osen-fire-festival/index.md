@@ -4,7 +4,7 @@ description: The Nozawa Onsen Fire Festival is one of the most famous festivals 
 date: 2016-01-18T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Nozawa Onsen Ski Resort is one of the larger ski resorts in Japan, but it has not succumbed to modernization like Naeba (another big snow resort destination in Japan). The village of Nozawa Onsen dates back to the 8th century and is famous for its natural <a href="https://www.fallfishtenkara.com/onsens/" target="_blank" rel="noopener noreferrer">onsens aka hot springs</a>, it was also the location for the 1998 Olympic Biathlon. Walking through the village feels like taking a step back in time. I first visited Nozawa Onsen last year and it was during that ski vacation that I heard about the Nozawa Onsen Fire Festival. It sounded pretty cool and so I made plans to go the following year.</p>
 
 <p class="mt-2 mb-2">Not a bad view from our ryokan!</p>

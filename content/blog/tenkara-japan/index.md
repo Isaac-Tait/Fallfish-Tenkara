@@ -4,7 +4,7 @@ description: Early Season Tenkara Adventures in Japan and Waka Poetry...
 date: 2017-07-17T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">It has been just over a month since I have wet a fly. The last trip was a <a rel="noreferrer noopener" href="https://www.fallfishtenkara.com/mount-naeba/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">doozy </a>though so I cannot be too upset. As a sort of consolation, this July I have been on numerous hikes and beach trips with my son Tadashi and his aunt and uncle who visited Japan for their summer vacation. I have even managed a few mountain bike rides; honestly the hand sized spiders and the humidity have really put a damper on my enthusiasm for local mountain activities though.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Reminiscing/tanzawa+mountains-tenkara-iwana-kebari-fishing-japan-dam.jpg" alt="Japan countryside" />

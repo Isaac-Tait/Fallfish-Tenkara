@@ -4,7 +4,7 @@ description: I visit the illustrious city of Nikko but not to fish, just site se
 date: 2016-07-25T03:13:00+02:00
 tags: [Tochigi Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 font-semibold">Exploring Nikko</p>
 
 <p class="mt-2 mb-2">Nikko has a little something for everyone; there are shrines, Japanese culture in spades, amazing food, temples, festivals, and to round it all out breathtaking natural beauty. When you tire of the crowds the mountains around Nikko offer respite with stunning waterfalls, lakes, moors, cliffs, and of course rivers.</p>

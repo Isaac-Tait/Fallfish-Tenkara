@@ -4,7 +4,7 @@ description: A stop at a locally handcrafted gift shop I stumble upon the very t
 date: 2016-08-13T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">On the way home from my <a href="https://www.fallfishtenkara.com/torikabuto/" target="_blank" rel="noopener noreferrer">recent fishing trip in Nagano</a>, my buddy and I stopped in at a locally made goods shop. I was looking for one thing in particular, a sugegasa (菅笠) - also known as a conical bamboo hat. Well lucky for me they had a bunch in stock! While the sweet obichan behind the counter was customizing the hat to fit my huge head I perused the shelves. Tucked in the back corner I came across a dusty box filled with wooden hand carved figurines. In the back of the box, I came across a hand carved and painted Iwana figurine. It was love at first site. I think they look pretty good together.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Sugegasa/tenkara-japan-tokyo-fly_fishing-exploring-mountains-kebari-.jpg" alt="My sugegasa in its natural environment" />

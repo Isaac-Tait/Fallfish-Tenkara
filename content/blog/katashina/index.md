@@ -4,7 +4,7 @@ description: Tucked into picturesque mountain valley only a few hours from Tokyo
 date: 2017-06-12T03:13:00+02:00
 tags: [Gunma Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 mt-4 font-semibold text-red-500 text-center">Katashina, Gunma Prefecture - Japan</p>
 <hr />
 

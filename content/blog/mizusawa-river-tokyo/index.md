@@ -4,7 +4,7 @@ description: I explore the Mizusawa River, a small mountain stream near Tokyo, a
 date: 2015-07-29T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Mizusawa River (水沢川) is a small mountain keiryu within the shadow of Mount Tanzawa (丹沢山), and a short drive from Tokyo. After pouring over maps and Google Earth I decided it was worth investigating. Having battled morning rush hour traffic I arrived at the river valley to find it socked in with fog. The rain had stopped but water was still dripping from tree branches. As I was driving down the narrow road towards the river I came around a bend and spotted a strange looking creature in the road. At first I thought maybe it was a boar but it was too long and hairy. I am still not 100% sure what I saw, and before I could snap a photo it darted into the underbrush. However, I think it was either a Japanese Badger or a Racoon Dog. It had a long snout and was almost reddish in color, so it could have been a Japanese Weasel too. It was not to be the last odd creature I saw that day either.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Mizusawa+River/mount%2Btanzawa-keiryu-nakatsugawa%2Bfishery%2Bcooperatives-hiking.jpg" alt="Hiking in on the forestry access road" />

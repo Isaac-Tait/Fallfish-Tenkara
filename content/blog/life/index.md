@@ -4,7 +4,7 @@ description: The old adage Good things must always come to an end rings especial
 date: 2018-04-16T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">When I was younger I had no concept of time, I thought I would be young forever. My first real realization of time came when I was 17 and I joined the US Marine Corps. Suddenly, as I was standing on those <a href="https://terminallance.com/2015/08/11/terminal-lance-394-cant-stop-time-ii/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">yellow footprints</a>, I realized:</p>
 
 <p class="italic mt-2 mb-2">"13 weeks is a long time!"</p>

@@ -4,7 +4,7 @@ description: Deep in the river valleys of Japan, away from pollution and too muc
 date: 2016-05-06T03:13:00+02:00
 tags: [Nagano Prefecture, Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 mt-2 font-semibold">Tenkara Fly Fishing, Off Piste Skiing, and Nihon Kawanezumi</p>
 
 <p class="mt-2 mb-2">This week started out with one last ski tour before the end of the '15/'16 season. I went to Norikura Kogen, which is a 3026 meter tall mountain in the Northern Japanese Alps. This week was Golden Week - the most popular holiday in Japan. Consequently, the crowds were insane at Norikura Kogen. There is nothing quite like side slipping down a steep icy slope in 50kph winds while passing a hundred or so people skinning, snowshoeing, and hiking up the same slope. Thankfully after the first run our guide traversed north and we left the crowds behind.</p>

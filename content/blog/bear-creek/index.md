@@ -4,7 +4,7 @@ description: The second part of my day begins tucked deep into a remote region o
 date: 2015-10-05T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 font-bold">Read Part I <a href="https://www.fallfishtenkara.com/tenkara-season-finale/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
 
 <p class="mt-2 mb-2">After <a href="https://www.fallfishtenkara.com/end-of-the-tenkara-season/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">discovering a beautiful</a>, yet strangely void of trout, keiryu I rallied at a local convenience store for some lunch and to pour over my trail map. As I was looking over the map I came across a little blue line that had escaped my attention before. This blue line was long, in an area I had not been to before, and it was only an 18 minute drive from where I was currently enjoying a kimchi rice bowl! Normally the longer blue lines are the best, the short ones tend to be a trickle without any trout and so it was settled, I was going to scope this place out. Well it took a little longer than 18 minutes as I got lost repeatedly in a maze of Japanese roads that would have passed as small sidewalks in the US. When I finally got on the right road I came to a small parking area with a gate across the road. There was not any other cars parked here and no fresh tire tracks in the mud either. Things were already looking up.</p>

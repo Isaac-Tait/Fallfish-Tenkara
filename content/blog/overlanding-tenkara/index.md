@@ -4,7 +4,7 @@ description: Fallfish Tenkara & Explmore team up for a great day of overlanding 
 date: 2016-04-05T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 italic"><spann class="font-semibold">O</spann>verlanding: "Self-reliant overland travel to remote destinations where the journey is the principal goal. Typically, but not exclusively, it is accomplished with mechanized off-road capable transport (from bicycles to trucks) where the principal form of lodging is camping, often lasting for extended lengths of time (months to years) and spanning international boundaries"</p> <p class="mt-2 mb-2"><a href="https://en.wikipedia.org/wiki/Overlanding" target="_blank" rel="noopener noreferrer">Wikipedia</a>.</p>
 
 

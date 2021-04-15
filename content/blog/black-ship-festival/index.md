@@ -4,7 +4,7 @@ description: Every year in Shimoda, near the tip of Izu Peninsula, hosts the Bla
 date: 2016-05-27T03:13:00+02:00
 tags: [Shizuoka Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Every year the city of Shimoda, near the tip of Izu Peninsula (and the location for my recent <a href="https://www.fallfishtenkara.com/mount-amagi/" target="_blank" rel="noopener noreferrer">Tenkara Amago adventure</a>) hosts the Black Ship Festival. The festival commemorates when U.S. Commodore Matthew Perry arrived in 1854 and signed a treaty agreement with Japan. This past weekend my wife and I headed down to Shimoda to partake in the festivities and to soak in the spectacular ocean and countryside views.</p>
 
 <p class="mt-2 mb-2">The festival kicks off on Friday but due to work responsibilities we could not leave till Saturday morning. The drive down the east coast of Izu Peninsula was spectacular. The tropical looking water, the white sand beaches, rocky sea cliffs, and the 1400+meter tall mountains all blend together to create a very unique and indescribably beautiful landscape.</p>

@@ -4,7 +4,7 @@ description: I visit a small tenkara shop in a quaint suburb of Tokyo and discov
 date: 2016-08-03T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Most Tenkara anglers planning a visit to Japan will most likely fly into Tokyo, via either Narita or Haneda Int'l Airport (the other option is Kansai Int'l Airport down near Kobe). While there are many shops in Tokyo that sell Tenkara gear (check out my page <a href="https:/www.fallfishtenkara.com/tenkara-fishing-stores/" target="_blank" rel="noopener noreferrer">Tenkara Fishing Stores</a> for more information) they tend to be bigger corporate shops that carry a lot of other types and styles of angling equipment. For a more authentic Tenkara shopping experience, it is best to visit a smaller shop where the shop owner is also a Tenkara devotee. Last year I profiled the<a href="https://www.fallfishtenkara.com/kadoya-outdoor-shop/" target="_blank" rel="noopener noreferrer"> Kadoya Outdoor Shop</a> which is owned by my Tenkara sensei. Recently though I discovered another Tenkara shop in Tokyo called <a href="https://groundstore.jp/" target="_blank" rel="noopener noreferrer">Groundstore</a>.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Groundstore/chofu-tokyo-japan-fuda_station-grounstore-tenkara_shop-tenkara_rods.jpg" alt="The tenkara rod section" />

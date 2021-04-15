@@ -4,7 +4,7 @@ description: Japanese genryu often offer a glimpse into Japans past when rivers 
 date: 2016-10-03T03:13:00+02:00
 tags: [Gunma Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2"><blockquote>“<span class="font-semibold">Genryu</span>” is the most upper part of a river, even upper part of “keiryu(mountain stream)” and here in Japan [the] image of “<span class="highlight">Genryu</span>” is always with fast flow of gin clear water running through big rocks in a beautiful valley surrounded by flourishing forests of the mountains.</blockquote></p>
 
 <p class="mt-2"><a href="https://www.tenkara-fisher.com/search?q=genryu" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tenkara Fisher</a> March 2014 <span style="text-decoration: underline;">"'Genryu Fishing' of Japan"</span> by <em>Keiichi Okushi</em>.</p>

@@ -4,7 +4,7 @@ description: The one and only Kadoya Outdoor Shop. A unique business model that 
 date: 2015-10-10T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Recently I wrote about <a href="https://www.fallfishtenkara.com/the-breakfast-club/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">The Breakfast Club</a>, which is one of my favorite bars in Yokosuka. While the Breakfast Club is a great place to go for food and a mean highball. If you are looking for a place with a little more class and an extensive selection of wine and sake then look no further than the <a href="https://www.fallfishtenkara.com/tenkara-fishing-stores/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Kadoya Outdoor Shop</a>.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Kadoya+Bar_Shop/kadoya+outdoor+shop-kadoya+bar-sake-yokosuka-honch-bar.JPG" alt="the bar" />

@@ -4,7 +4,7 @@ description: While searching for new water to explore I come across a river syst
 date: 2016-07-30T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">A month or so ago I was sitting at home pouring over maps. I was looking for new water to explore while simultaneously passing the time waiting for my server droplet to run updates. Somewhere between a MySQL and an Apache reboot I noticed a river, called the TaniTaro River 谷太郎川, in the bottom corner of the Kiyokawa Ward. Half way up the river there was a fishing co-op called <a href="https://kiyokawa-shoukou.net/yataro/" target="_blank" rel="noopener noreferrer">谷太郎川ます釣場</a>. Now I am not usually inclined to pay ¥4000+ to fish for one day for stocked fish, in man-made pools. However, after some research I realized that the ¥4000 price was for only a short 1km stretch of the river. What about the three or four kilometers above it? Since the river was just a 10 minute detour off the route I normally take to get into the mountains, I did not really have a good excuse not to drive up there and check it out.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+TaniTaro+River/tanitaro_river-kiyokawa_ward-tanzawa_mountains-yamame-iwana-keiryu-foot_bridge.jpg" alt="A quaint footbridge over the keiryu" />

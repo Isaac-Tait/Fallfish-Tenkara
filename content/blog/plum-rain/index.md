@@ -4,7 +4,7 @@ description: It may be the wettest monsoon season to strike Japan in a long time
 date: 2015-07-03T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">From early June to late July is the monsoon season in Japan. To the Japanese it is known as Tsuyu (梅雨) or Plum Rain because plums ripen during this rainy season. Having spent some time in Maryland I am accustomed to summer rain. While the rain in Maryland was unlike anything I have ever seen or experienced, Tsuyu in Japan does not disappoint either (or maybe it does - depending on your perspective). I love the rain and when I fish I tend to wet wade and swim so I am already wet anyways and so I do not really care if it is raining or not when I am fishing.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Plum+Rain/Waterfall-Plum+Rain-Flooding-Storm-Monsoon+Season-Japan.JPG" alt="Waterfall flood" />

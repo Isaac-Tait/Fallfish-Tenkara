@@ -4,7 +4,7 @@ description: The weather last week was absolutely spectacular. Low humidity, te
 date: 2015-05-11T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The weather last week was absolutely spectacular. Low humidity, temps in the mid 70's, and lots of sunshine. It felt like a crime to not be out and about in the mountains. So when my alarm woke me up at 4am on Friday, I was giddy with excitement. The sun was already coming up as I brewed up my coffee and fried up some eggs and hash browns. The drive to the river seemed to take longer than usual with a lot of drivers on the road. But finally we escaped the Tokyo traffic and made our way through the mountains towards the small village of Sasakune. The village is nestled below a waterfall and tucked into a small meadow dotted with vegetable gardens and surrounded by tall mountains shrouded in bamboo and cedar forests.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Doshi/omurozasu-doshi-river-gawa-flower-blooming-spring.JPG" alt="Flowers are blooming on the Doshi River" />

@@ -4,7 +4,7 @@ description: After quite a bit of sleuthing I have tracked down and mapped a ple
 date: 2017-02-22T03:13:00+02:00
 tags: []
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">I for one thoroughly enjoy every issue of the Japanese Keiryu (a.k.a. Mountain Stream) Magazine. Even though I cannot understand most of what is written (Google Translate only gets one so far) I am enthralled by the photography - and the maps. I am always interested to see where exactly these magical streams are that are featured in every issue. However, tracking down these genryu and keiryu can be a very daunting task. Sometimes I will spend an hour pouring over Google Maps searching for where they might be located, others pop right up on the first search.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Keiryu+Magazine/Spring+2014+Headwaters+Magazine.jpg" alt="Spring 2014 issue" />

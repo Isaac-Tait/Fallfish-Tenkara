@@ -4,7 +4,7 @@ description: Heading out into a windy wet day to test a new line concoction I re
 date: 2015-10-16T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Last week I came across an interesting article in my Twitter feed from the good folks at <a href="https://www.hatchmag.com/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Hatch Magazine</a>.
 <blockquote class="twitter-tweet tw-align-center" lang="en">
 <p dir="ltr" lang="en">Tenkara casting in the wind: <a href="https://t.co/eawpNV6xHy">https://t.co/eawpNV6xHy</a><a href="https://twitter.com/TenkaraGuide">@TenkaraGuide</a><a href="https://twitter.com/TenkaraUSA">@TenkaraUSA</a><a href="https://twitter.com/FallfishTenkara">@FallfishTenkara</a><a href="https://twitter.com/hashtag/tenkara?src=hash">#tenkara</a><a href="https://twitter.com/hashtag/flyfishing?src=hash">#flyfishing</a><a href="https://t.co/LicthCLQvP">pic.twitter.com/LicthCLQvP</a></p>

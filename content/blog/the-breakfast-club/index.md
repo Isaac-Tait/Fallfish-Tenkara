@@ -4,7 +4,7 @@ description: A wonderful izakaya a short walk from my home that I have grown qui
 date: 2015-09-04T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">I am not the party till you puke type. I also do not like loud crowded clubs. But I do like to go out for a few drinks on occasion and when I do I prefer a dive bar/hole-in-the-wall/out of the way locations with a juke box and fairly priced drinks that are not watered down. The Breakfast Club Bar in downtown Yokosuka is one of these places. There is a small sign out front marking the entrance, then you descend a narrow staircase into the basement.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+The+Breakfast+Club/breakfast+club-dive+bar-yokosuka-japan-front+door.JPG" alt="Front Door" />

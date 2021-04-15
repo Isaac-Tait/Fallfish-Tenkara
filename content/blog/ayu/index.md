@@ -4,7 +4,7 @@ description: Ayu are typically a territorial sea run fish that feeds on algae an
 date: 2016-10-24T03:13:00+02:00
 tags: [Shizuoka Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Ayu are a highly sought after game fish in Japan, some of the  rivers in Japan that they call home are highly revered. 30-40 years ago, before Japan began making dams at a breakneck speed - Ayu would swim far up the rivers into the mountains from the ocean, much like salmon or steelhead. Now a days Ayu are mostly stocked but you can still find them in rivers close to the ocean, below the impassable barriers that have sprung up in the rivers they have called home for centuries.</p>
 
 <div class="w-8/12 mx-auto">

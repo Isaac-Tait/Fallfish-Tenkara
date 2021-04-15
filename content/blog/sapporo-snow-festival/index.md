@@ -4,7 +4,7 @@ description: The Sapporo Snow Festival is a great reason to visit Hokkaido. This
 date: 2016-02-10T03:13:00+02:00
 tags: [Hokkaido Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The Sapporo Snow Festival in Hokkaido occurs every year, usually during the first two weeks of February. This past week we ventured up to Sapporo to take in the sites and squeeze in a day of skiing too.</p>
 
 <p>Day 1</p>

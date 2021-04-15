@@ -4,7 +4,7 @@ description: I head into the southern portion of the Tohoku Region of Japan for 
 date: 2015-12-11T03:13:00+02:00
 tags: [Fukushima Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 font-semibold">Yard Sale</p>
 
 <p class="mt-2 mb-2">verb</p>

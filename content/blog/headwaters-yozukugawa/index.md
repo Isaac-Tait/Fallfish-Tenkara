@@ -4,7 +4,6 @@ description: Setting off on a treasure hunt to find the elusive Japanese trout..
 date: 2015-03-16T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-
 <div class="text-lg m-2">
 <p class="mb-2">I recently had heard a rumor that there was an outdoor shop that stocked hand-made Tenkara rods in Yokosuka. The only thing I knew was that it was across the street from a taco shop in the Honch, about ten minutes from my home. Obviously I had to find this place. On a brisk and windy day my Tenkara-partner-in-crime and I wandered the streets of the Honch and quickly found the taco shop which made the outdoor shop easy to find. It is called Kadoya Outdoor Goods (see the <a href="https://www.fallfishtenkara.com/tenkara-fishing-stores/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Info Page</a> for details). Kadoya Outdoor Goods did not have any hand-made Tenkara rods. However, there were several beautiful hand crafted bamboo western style fly rods. Oh yes I should mention that the outdoor shop also has a sake bar out front! How cool is that? The owner, Kado Toshiaka, speaks very good English. Between his English and my buddies Japanese skills we had a very lengthy discussion. When we left we had some beta on a mountain stream not too far from Yokosuka which, were rumored to have great fishing. We also had an offer from Kado-san to take us Tenkara fishing in Nagano in May!</p>
 

@@ -4,7 +4,7 @@ description: Though my first week in Japan was a blur of jet lag, a slight bout 
 date: 2016-02-12T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Though my first week in Japan was a blur of jet lag, a slight bout of food poisoning, unpacking, and culture shock - one memory that stands out clearly from the blur was my first Japanese candy store. As I walked by the window of the candy store I could literally hear the glossy and colorful packaging calling my name and when I stepped inside I was greeted with a floor to ceiling display of Japanese Kit Kat candies. These were not your typical boring "<em>one flavor and that is it</em>" American version of Kit Kat, but rather a delectable cornucopia of flavors. I bought every flavor the store had for sale!</p>
 
 <p class="mt-2 mb-2">Last year my wife and I visited one of the largest <a href="https://www.fallfishtenkara.com/photobucket/" target="_blank" rel="noopener">Wasabi</a> farms in Japan. Real Wasabi (not the green dyed horseradish kind) is delicious. Adding it to a Kit Kat is nothing short of pure genius!</p>

@@ -4,7 +4,7 @@ description: The movie Connect, began my love affair w/ Japanese keiryu. In this
 date: 2017-12-01T03:13:00+02:00
 tags: [Gear]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">In 2013 when I discovered tenkara I never would have imagined where the pastime would take me. At the time I was living in Maryland and I was having a blast stalking Fallfish, Panfish, Bass, and the occasional Rainbow or Brown Trout with my fixed line fishing rod (aka a tenkara rod). Then in the spring of 2014 we got the news that my wife and I would be moving to Japan. I was simultaneously excited and apprehensive; unsure of what to expect and looking forward to the adventure of moving to another country. At the time I worked at REI where I split my time between the sales floor and the bike shop. My manager was a fly fishing nut and we went fishing together a few times. When I told him I was moving to Japan he let me borrow his copy of <a href="http://confluencefilms.com/films/connect/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Connect</a>. The movie is divided into six segments featuring rivers in the United States, Cuba, Africa, and Japan. I can still remember the evening I watched that movie curled up on the couch while the fire flies danced outside and a deer was snacking on our apple tree (G-d I loved Maryland). The Japan segment came on and in an instant I knew I was going to have a blast fishing in the land of the rising sun.</p>
 
 <div class="w-8/12 mx-auto">

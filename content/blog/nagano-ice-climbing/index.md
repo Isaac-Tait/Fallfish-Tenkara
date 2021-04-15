@@ -4,7 +4,7 @@ description: I explore a man made ice climbing outdoor training facility nestled
 date: 2016-01-14T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">I have wanted to learn how to climb ice since I was a kid but never got around to it because of one bad excuse or another... But all that changed when I was asked to help with an ice climbing trip as a belayer and gear hauler in Nagano. Before the trip though I did not want to be a total ice climbing noob so I asked my friend Tetsuya to take me out to Takatori Yama, the local quarry, to get familiar with climbing with axes and crampons. Takatori Yama is a great place to learn ice climbing, if you cannot learn on real ice that is, because the ancient compressed volcanic ash has some similarities to ice in terms of holding a pick and crampon points.</p>
 
 

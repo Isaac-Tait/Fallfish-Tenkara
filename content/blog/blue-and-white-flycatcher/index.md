@@ -4,7 +4,7 @@ description: The mountains of Japan are a natural aviary, the perfect rest stop 
 date: 2016-09-05T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The mountains of Japan are a natural aviary, the perfect rest stop for migratory birds. The <a href="https://ja.wikipedia.org/wiki/オオルリ" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">オオルリ(Oruri)</a> also known as the Blue and White Flycatcher, is one of those migratory birds that makes the mountains of Japan its summer home. Due to the harsh winter climate in Japan they fly south to the Philippines in October and return to the Land of the Rising Sun in early April.</p>
 
 <div class="w-8/12 mx-auto">

@@ -4,7 +4,7 @@ description: I head out to Izu Peninsula in search of Amago - Amago are a sub-sp
 date: 2015-10-26T03:13:00+02:00
 tags: [Shizuoka Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">To the southwest of Tokyo lies Izu Peninsula - it is a fairly small peninsula, with its widest point being roughly 35 km (~22 miles) across. It is renowned for the crystal clear ocean water and is a very popular place to scuba dive and snorkel. It is also very mountainous (<a href="https://japanhike.wordpress.com/2008/04/24/mt-amagi/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Mt. Amagi (天城山</a>) is the highest point on the peninsula coming in at 1,406m (4,612ft)). The mountains here are very rugged and many areas are quite remote. There are small fishing villages that are clawed into the most precarious yet jaw dropping locations. Tsunamis are a real threat here and some of the larger villages have tsunami towers in the town squares. It is a wild place with exquisite beauty that really cannot be described.</p>
 
 <div class="w-8/12 mx-auto">

@@ -4,7 +4,7 @@ description: I head out to the United Kingdom in search of wild Grayling and Bro
 date: 2016-03-17T03:13:00+02:00
 tags: [Britain]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Since discovering Tenkara several years ago Grayling have been high on the list of fish species that I have wanted to fish for. This past January when my brother called me to say that he was getting married in Liverpool, England and wanted me to be his Best Man. I knew this was finally the chance to realize my dream of catching a Grayling on the fly.</p>
 
 <p class="mt-2 mb-2">I had heard about this outfit <a href="https://www.facebook.com/DiscoverTenkara/" target="_blank" rel="noopener">Discover Tenkara</a>, which is based out of the Peak District, and reached out to them to schedule a guided trip. Our flight was scheduled to arrive March 13th and the last day of Grayling season was the 14th. Keeping my fingers crossed that there would not be any unforeseen travel difficulties, I booked a trip for my wife and I with John Pearson - for the last day of Grayling season.</p>

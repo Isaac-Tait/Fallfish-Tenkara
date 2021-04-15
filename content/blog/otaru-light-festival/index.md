@@ -4,7 +4,7 @@ description: The Otaru Light Festival happens during the Sapporo Snow Festival. 
 date: 2016-02-14T03:13:00+02:00
 tags: [Hokkaido Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Every year the village of Otaru puts on a light festival in conjunction with the <a href="https://www.fallfishtenkara.com/sapporo-snow-festival/" target="_blank" rel="noopener noreferrer">Sapporo Snow Festival</a>. While the Sapporo Snow Festival feels big and corporate the Otaru Light Festival feels smaller and more spiritual, which is exactly how the village residents who put on the festival every year intended for it to be.</p>
 
 <p class="mt-2 mb-2">The festival has become increasingly popular over the years with foreign visitors and the tiny event can quickly feel very crowded with just a few busloads of tourists. However, the villagers have done a bang up job of keeping the event quiet, reflective, and spiritual - despite the growing throng of camera wielding onlookers.</p>

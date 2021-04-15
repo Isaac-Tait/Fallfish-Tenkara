@@ -4,7 +4,7 @@ description: There is so much to love about Japan. The food is one of those thin
 date: 2017-09-25T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">
 
 <div class="w-8/12 mx-auto">

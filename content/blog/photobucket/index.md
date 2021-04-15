@@ -4,7 +4,7 @@ description: In no particular order, and without rhyme or reason, here is a coll
 date: 2015-08-07T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">It is sweltering hot and humid. The five minute walk from my Kei van to Starbucks left me dripping with sweat. It is a two shower day (as in how many showers I need to take so I do not reek of BO). On even hotter and more humid days it could be a three or even four shower day. But, right now I am sipping on a Japan only Starbucks treat, a <a href="https://www.starbucks.co.jp/cafe/?nid=tbn_01_pc" 
 target="_blank" 
 rel="noopener">Peach in Peach Frappucino</a>, and the heat is becoming a distant memory.</p>

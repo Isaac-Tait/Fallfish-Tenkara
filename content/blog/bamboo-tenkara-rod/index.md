@@ -4,7 +4,7 @@ description: I spend a wonderful day with my bamboo fishing rod sensei and then 
 date: 2016-12-19T03:13:00+02:00
 tags: [Random, Niigata Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">A few weeks ago I wrote a guest article for <a href="https://www.discovertenkara.co.uk" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Discover Tenkara</a> about the bamboo rod Go Ishii and I have been making under the supervision of <a href="https://saosyosaku.com" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Yamano-san</a>. If you missed the article you can check it out <a href="https://www.discovertenkara.co.uk/blog/blog-31.html" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>. Well this past week I travelled back up to Kawaguchi with Go Ishii-san, and together we put the finishing touches on our bamboo rods.</p>
 
 <div class="w-8/12 mx-auto">

@@ -4,7 +4,7 @@ description: During the hot Tokyo summers' Toshimaen Water Park is a great spot 
 date: 2016-02-03T03:13:00+02:00
 tags: [Saitama Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">During the summer Toshimaen Amusement Park is a favorite spot for Tokyo's residents to cool off. With a water park and an amusement park side by side it is kind of like Six Flags or Busch Gardens, just with not as many max adrenaline roller coaster rides. It is a family friendly place. However, during the winter when it is much too cold to attract any business, Toshimaen converts many of its water park attractions into habitat for Rainbow, Yamame, Iwana, Amago, Brown Trout, Brook Trout, and Albino Trout! The fish are grown in the waters flowing from <a href="https://www.fallfishtenkara.com/climbing-mount-fuji/" target="_blank" rel="noopener noreferrer">Mount Fuji </a>and then trucked into Tokyo where they live out the winter in the ultra unique <a href="https://www.t-fishingarea.com/" target="_blank" rel="noopener noreferrer">Toshimaen Fishing Park</a>!</p>
 
 <p class="mt-2 mb-2">When I first read about this place on <a href="https://kawasakiflyfishing.wordpress.com/2016/01/01/fishing-in-a-theme-park-in-tokyo/" target="_blank" rel="noopener noreferrer">Kawasaki Fly Fishing</a> I could not believe it and had to go see it for myself.</p>

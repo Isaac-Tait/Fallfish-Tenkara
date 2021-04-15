@@ -4,8 +4,7 @@ description: Fresh off of the plane I head into the mountains to clear my head a
 date: 2015-06-23T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
-
+<div class="text-lg mt-2">
 <p class="mb-2">Last week I wrote a post about <a href="https://fallfishtenkara.com/visiting-japan/" target="_blank" rel="noopener">visiting Japan</a>. If you are a Tenkara angler, Epidote Creek is THE reason why you need to get on a plane and fly to Japan today. If you are not a Tenkara angler, well you can enjoy the photos and compelling prose, and afterwards you will want to go out and <a href="https://fallfishtenkara.com/about/my-tenkara-rods/" target="_blank" rel="noopener">buy your own Tenkara rod</a>... and a plane ticket. Epidote Creek is that good!</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Epidote+Creek/Epidote+Creek-Japan-Tenkara-Native+Yamame-nymph.JPG" alt="Yamame" />

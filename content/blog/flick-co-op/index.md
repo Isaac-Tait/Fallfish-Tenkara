@@ -4,7 +4,7 @@ description: Typical fishing co-ops in Japan feature man made pools, can be quit
 date: 2016-04-24T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2"> <a href="https://www.moroto.co.jp/bosco/" target="_blank" rel="noopener noreferrer">Flick</a>, a fishing co-op high in a small mountain valley, which is tucked deep in the Tanzawa-Oyama Quasi-National Park, is a unique and magical place. It boasts a fairly long section of river, that besides the six weirs that fall within its boundaries, is otherwise left totally untouched. It is a catch and release only stream and is stocked, only as needed, with Yamame and Iwana. I had been wanting to visit this place for a while, but due to the plethora of other streams to explore in the area, that did not require a fishing ticket or an elementary lingual education in Japanese, I had been a little reluctant to visit. That is until last week when I went to scope it out as a possible location to take clients.</p>
 
 

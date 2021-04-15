@@ -4,7 +4,7 @@ description: Tenkara with indicators can revolutionize your fly fishing, but Ten
 date: 2016-07-02T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">For the first three years I Tenkara'd almost exclusively with 3.5 weight level line. I dabbled for a bit with other lines but always came right back to my trusty 3.5 weight level line. Then it all began to change one brisk afternoon in March on the <a href="https://www.fallfishtenkara.com/grayling/" target="_blank" rel="noopener noreferrer">River Don</a>. I had hired a guide and was borrowing all the equipment for the day. Everything about that day was new to me; I had never worn waders to go trout fishing, I had a Scottish Egg for lunch, and my line was made out of nylon with a bit of bright colored string between the line and the tippet. When I asked John, my guide from <a href="https://discovertenkara.co.uk" target="_blank" rel="noopener noreferrer">Discover Tenkara</a>, what the string was for he told me it was an indicator. I had never seen an indicator like that before. I had always imagined that fly fishing indicators acted much like a bobber and was typically made out of foam. Around the third cast I was hooked (pun intended) and saw first hand how helpful indicators could be while fishing, especially when targeting smart fish.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tenkara+Line+Indicators/tenkara-indicators-fly+fishing-kebari-keiryu-tenkara+techniques-amago.JPG" alt="Amago trout with a kebari in its mouth" />

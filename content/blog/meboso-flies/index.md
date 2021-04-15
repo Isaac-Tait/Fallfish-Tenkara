@@ -4,7 +4,7 @@ description: It has been awhile since I last put together a flies article. Here 
 date: 2015-07-23T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">It has been awhile since I last put together a flies article. Here I have compiled a few of my best flies, in terms of results, for your viewing pleasure.</p>
 
 <p class="mb-2 mt-2">99% of Tenkara anglers can get by with one Tenkara rod but only about 1% can get by with one fly. While I have one favorite rod, I own three. However, when it comes to flies I have a lot. I love collecting flies - the only thing more impressive than my fly collection is my footwear or backpack collection.</p>

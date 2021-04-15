@@ -4,7 +4,7 @@ description: I on the other hand, am more attracted to another type of JDM car
 date: 2015-05-22T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">When people drool over a JDM (Japanese Domestic Market) car they typically direct their attention towards a svelte Nissan Skyline GT-R R34 or maybe a perky Honda Civic Type R EK9. Unfortunately, these vehicles are not allowed in the US due to draconian emissions standards or frivolous safety precautions. This only serves to make them more highly coveted within the cadre of JDM enthusiasts though. I on the other hand, am more attracted to another type of JDM car - a Kei car.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Kei+Cars/utility-kei-truck.JPG" alt="Utility kei truck" />

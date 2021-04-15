@@ -4,7 +4,7 @@ description: Along with a random collage of photos from my adventures throughout
 date: 2015-12-07T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Japan Photobuckets <a href="https://www.fallfishtenkara.com/japan-photobucket-i/ target="_blank" rel="noopener noreferrer"">I</a> &amp; <a href="https://www.fallfishtenkara.com/japan-photobucket-ii/ target="_blank" rel="noopener noreferrer"" target="_blank">II</a> (random musings below)
 
 <hr />

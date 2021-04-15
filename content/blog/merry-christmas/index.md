@@ -4,7 +4,7 @@ description: Ho ho ho! Merry Christmas...
 date: 2015-12-25T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Merry Christmas from Japan!</p>
 
 <p class="mt-2 mb-2">Just a quick post to wish you all a Merry Christmas and a happy Holiday season! I promise I'll write more next month ;)

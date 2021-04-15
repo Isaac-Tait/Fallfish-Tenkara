@@ -4,7 +4,7 @@ description: I have ticked off numerous things on my "to-do" list while living 
 date: 2015-05-14T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">I have ticked off numerous things on my "to-do" list while living in Japan. For example, I have skied Japan's famous powder and I have gotten lost in Tokyo. But there are several more "to-do's" that I have not accomplished yet. Climbing Mount Fuji and skiing from the summit for example. The other day I ticked another "to-do" off the list - Tenkara fly-fish a remote headwaters in the mountains of Japan and catch and release a native Yamame. I must say that it is pretty cool to discover a remote river that sees little human encroachment and besides a few distant power lines and weirs there is no sign of man - just mountains covered in trees erupting in their spring glory!</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-a.JPG" alt="Mountains and trees" />

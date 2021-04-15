@@ -4,7 +4,7 @@ description: I fully immerse myself in tourist mode in early September ticking o
 date: 2015-09-21T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Since moving to Japan I had heard a lot about how much fun Tokyo Disneyland and DisneySea were. So a week or two back my wife and I visited both parks. The hype was well founded. We started with Tokyo Disneyland on a rainy Monday - Typhoon 19 was making its way towards Japan but thankfully the rain held off till the very end of the day. I was excited to see that Tokyo Disneyland still had the Swiss Family Robinson Tree House and The Grand Circuit Raceway, which were two of my favorite attractions when I was a kid at the Disneyland in Anaheim California.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disney+sea-journey+to+the+center+of+the+earth-volcano-mysterious+island.JPG" alt="Mysterious island" />

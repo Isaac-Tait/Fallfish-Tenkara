@@ -4,7 +4,7 @@ description: My last proper adventure in Japan before moving back Stateside was 
 date: 2018-03-24T03:13:00+02:00
 tags: [Hokkaido Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Back in February three friends and I rented an RV and spent some time touring Hokkaido on our skis. I have been super busy with an international move and ticking off items on my <em>"must do before leaving Japan"</em> list - hence the month plus delay in posting this trip report. As I write this I am sitting in Los Angeles enjoying some exquisite Mexican food, In-N-Out, and driving on highways that don't cost an arm and a leg - but I am missing my friends and this upcoming keiryu tenkara and sansai season, which is sure to be epic! If you can get to Japan this year <strong>DO IT</strong>!</p>
 
 <div class="w-8/12 mx-auto">

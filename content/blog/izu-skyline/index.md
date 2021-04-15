@@ -4,6 +4,7 @@ description: Izu Skyline is a 40km long toll road that runs along the mountainou
 date: 2016-04-28T03:13:00+02:00
 tags: [Shizuoka Prefecture]
 --- 
+<div class="text-lg mt-2">
 <p class="mt-2 mb-2 font-semibold">Day 1 - Izu Skyline</p>
 
 <p class="mt-2 mb-2">I am at the crest of bamboo covered knoll. The bamboo here grows like grass, 1-meter-tall grass, its undulations mark time with the gusts of wind blowing in from the ocean. The bamboo reminds me of the wheat fields I drove through in Kansas and Nebraska. Unlike the midWest though the dramatic topography of this landscape is anything but flat. To my right is Mount Fuji covered in snow, its summit masked by a ring clouds - like a halo. To my left the bamboo covered knoll drops precipitously 650+ meters into the unbelievably blue ocean. I am driving the Izu Skyline on Izu Peninsula, my destination is the relatively small fishing village of Ito (which is incidentally the name of the rod I fished the entire trip with). As I drove along the scenic Izu Skyline, I am forced to stop every few kilometers by yet another stunning vista. When the cell reception allowed, I pour over maps on my iPhone’s browser looking for “remote” keiryu that emanate from this mountainous spine that runs the full length of the peninsula. While there are lots of streams, finding ones that are relatively untouched by roads, homes, farms, and 7-Elevens was proving to be fairly difficult. With a shortage of flat ground on the peninsula every square foot of useable land has been overtaken by development in one form or another.</p>

@@ -4,7 +4,7 @@ description: Will an epic thunderstorm keep me from exploring a new river in the
 date: 2015-09-10T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The Tanzawa Mountains in Japan are a blessing and here is why.
 
 <p class= "mt-2 mb-2 ml-6">&#127961; - Tokyo is the largest city in the world in terms of population...</p>

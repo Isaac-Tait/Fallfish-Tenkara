@@ -4,7 +4,7 @@ description: I set off on my first multi-day backcountry off the grid tenkara tr
 date: 2015-09-18T03:13:00+02:00
 tags: [Yamagata Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">With the end of the mountain stream season fast approaching I was itching for a bigger trip. Something I have wanted to do since I discovered Tenkara was to go on a backcountry tenkara camping trip in Japan. When my friend Kado-san suggested we do just that I cleared my calendar and packed my bags. Our destination was a small stream way out in the middle of nowhere in Yamagata Prefecture.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Backcountry+Tenkara/yamagata+prefecture-kijiyama-trailhead-backpacking-tenkara-subaru.JPG" alt="Parked at the parking lot" />

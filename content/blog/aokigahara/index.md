@@ -4,7 +4,7 @@ description: Aokigahara goes by many names, some call it the Sea of Trees others
 date: 2015-11-23T03:13:00+02:00
 tags: [Yamanashi Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Aokigahara (青木ヶ原) is a relatively small forest on the northwest flank of Mount Fuji. It is more commonly known as the Suicide Forest because it is frequently used by those seeking to end their lives. Knowing this it is hard not to feel a little tingle trickle down your spine as you set off down one of the area's many trails. The primeval forest, blanketed in moss, shuts out all sound and the erie silence only adds to the macabre aura of the place. The dense volcanic rock is nearly impossible for the trees roots to penetrate so they grow on top. Surely <a href="https://www.fallfishtenkara.com/silver-week-tenkara/" target="_blank" rel="noopener noreferrer">J.R.R. Tolkien's</a> inspiration for Ents came from this forest. The trees look almost alive as they stand on manifold appendages seeking stability from the wind and nourishment from the tumultuous landscape shaped by eons of Mount Fuji eruptions. The chaos, yet striking beauty, of the forest is hard to capture with a camera - there is so much depth, shadows, tricky lighting, and color that I believe to capture it on camera would require the supernal skills of a true artist, the likes of whom only come around once or twice in a century. I am certainly not this individual, so I will not pretend for even one moment that my photos could impart one tenth of the majesty of this place. Rather I hope that they would inspire one to visit this supernatural place.</p>
 
 

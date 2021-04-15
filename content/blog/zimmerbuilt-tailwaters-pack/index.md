@@ -4,7 +4,7 @@ description: From the remote mountain streams, to slot-canyon climbs, & even tre
 date: 2017-04-17T03:13:00+02:00
 tags: [Gear]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Do not let the name fool you, the <a href="https://www.zimmerbuilt.com/store/p34/TailWater_Pack.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Zimmerbuilt Tailwaters Pack</a> is just at home in the ultra-remote drainages that I actively seek out; as it is in the more accessible waters found below hydraulic structures (as its name might imply).</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Zimmerbuilt+Pack/Zimmerbuilt+Tailwaters+Pack-Tenkara-Gear-backpack-keiryu-kebari-logo.jpg" alt="" />

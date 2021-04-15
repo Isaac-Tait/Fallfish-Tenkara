@@ -4,7 +4,7 @@ description: After a long hard summer of guiding I am in sore need of a break an
 date: 2015-08-30T03:13:00+02:00
 tags: [Gunma Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Back in June I went on a <a 
 href="https://www.badgertenkara.com/the-bt-blog/iwana-tenkara-a-guest-post-by-isaac-tait" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"
 >spectacular tenkara fly fishing trip</a> with my new friends Kado-san and Tetsuya. It was an amazing experience so when Kado-san suggested we do another trip, but this time to a place called Oze National Park in Gunma Prefecture, I eagerly agreed and cleared my calendar. Most of August I was absolutely swamped guiding Tenkara and Mount Fuji trips and was grateful to get away for a few days of Tenkara and hiking.</p>

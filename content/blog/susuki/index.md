@@ -4,7 +4,7 @@ description: Each year towards the end of August great tall sprouts of golden gr
 date: 2016-08-20T03:13:00+02:00
 tags: [Niigata Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 font-semibold">The Silver Grass Autumn Flower</p>
 
 <p class="mt-2 mb-2">Every year in late August the head high grass called susuki (すすき) blooms en-mass. The soft gold grass "flowers" are quite beautiful despite their lackluster coloring. It is always a little sad to see the susuki blooming though as it signals the rapidly approaching end to the mountain stream fishing season. With only five weeks left, I am planning some cool trips for September. This past week though I took full advantage of the pleasant summer weather and headed to Niigata Prefecture, with my Tenkara sensei Kado-san, for a four day/three night Tenkara trip.</p>

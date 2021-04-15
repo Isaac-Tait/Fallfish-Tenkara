@@ -4,7 +4,7 @@ description: A few months in the off season without wetting a fly, the itch to c
 date: 2018-03-5T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">A few months into the off season without wetting a fly, the itch to catch some fish reached a fevered pitch. My friend Go Ishii knew of a nice spot in Matsuda (松田町) tucked away deep in the <a href="https://www.fallfishtenkara.com/lake-tanzawa/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Tanzawa Mountains</a> of Kanagawa Prefecture. I had never been and so I was excited to check it out. This was going to be an extra special trip for several reasons: firstly it was to be the first time Go and I were going tenkara fishing together. We had been on several fishing trips together before but for <a href="https://www.fallfishtenkara.com/goby-fishing/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Goby</a> or <a href="https://www.fallfishtenkara.com/november/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Wakasagi</a>, not Masu. Secondly it was going to be my son Tadashi's first fishing trip! Lots of firsts, it was shaping up to be a great day.</p>
 
 <div class="w-8/12 mx-auto">

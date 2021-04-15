@@ -4,7 +4,7 @@ description: Checking in with a quick update before a big trip after a busy few 
 date: 2015-08-23T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tenkara+Summer/mount+fuji-japan-hiking-fallfish+tenkara-wildflowers.JPG" alt="Wildflowers on the flank of Fuji-san" />
 
 <p class="mb-2">Fall is in the air! The lighting is starting to shift and the leaves are starting to turn orange, red, and yellow at the higher elevations. Soon the days will get colder and the snow will begin to fall. However, there are still five weeks left in the trout fishing season here in Japan and I intend to make the most of every day.</p>

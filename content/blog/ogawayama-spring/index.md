@@ -4,7 +4,7 @@ description: I visited Ogawayama in the fall last year. The place is absolutely 
 date: 2016-05-25T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">I visited <a href="https://www.fallfishtenkara.com/ogawayama/" target="_blank" rel="noopener noreferrer">Ogawayama</a> in the fall last year. The place is absolutely massive with a lifetime of rock climbing littered throughout the alpine valley. The rock here tends to be big with numerous tall formations that afford many fun multi-pitch rock climbs. The first day we did a monster route that is 8-10 pitches long (depending on your rope length and how you link them). The second day we did a short, yet spectacular, three pitch route.</p>
 
 

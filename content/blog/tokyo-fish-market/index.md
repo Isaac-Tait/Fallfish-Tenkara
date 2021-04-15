@@ -4,7 +4,7 @@ description: The Tokyo Fish Market is a hodgepodge of pandemonium, shops, speedi
 date: 2015-10-30T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The Tokyo Fish Market is a must see destination for anyone visiting Tokyo. It is located in the special ward of Chuo, and is also known as the Tsukiji Market.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Fish+Market/tokyo+fish+market-tsukiji+market-chuo-japan-tokyo-alley-crowds.JPG" alt="Crowds" />

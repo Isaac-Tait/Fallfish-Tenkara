@@ -4,7 +4,7 @@ description: Deep in the mountains of the Tanzawa Oyama Quasi-National Park surr
 date: 2015-05-23T03:13:00+02:00
 tags: [Kanagawa Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Deep in the mountains of the Tanzawa Oyama Quasi-National Park surrounded by tall mountains shrouded in Japanese cedar, Hinoki cypress, Japanese mountain maple, and Japanese beech is a network of mountain streams. These streams terminate in the majestic Miyagase Lake, which interestingly enough is a man-made lake that took nearly three decades to build. The massive 510+ foot tall dam, that forms the lake, was completed in 2000 after being under construction for 29 years! Due to the lake water being reserved for drinking water for Tokyo and Yokohama there is no recreation allowed on or near the lake. However, you can recreate to your hearts content in the dozen or so streams that flow into this lake. One of these streams is the Fujinogawa.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Fujinogawa/fujinogawa-fishing-tenkara-tanzawa-mountains-yamabiru-yamame-stream.JPG" alt="Tanzawa Mountains" />

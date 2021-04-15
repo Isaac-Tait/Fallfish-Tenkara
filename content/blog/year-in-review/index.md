@@ -4,7 +4,7 @@ description: Looking back at a wonderful year filled with adventure, wonder, and
 date: 2017-01-20T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">2016 was a great year with big trips every month of the fishing season and some phenomenal hikes, rock climbs, mountain bike rides, and of course skiing thrown in the mix too. Here are a few of the highlights.</p>
 
 <center><iframe src="https://www.youtube.com/embed/mctJCCG3xUw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>

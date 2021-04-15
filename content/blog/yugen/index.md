@@ -4,7 +4,7 @@ description: Yūgen is the sudden awareness of the universe that triggers emotio
 date: 2016-03-07T03:13:00+02:00
 tags: [Akita Prefecture, Iwate Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The Japanese word 幽玄 (pronounced Yūgen), loosely translated means "subtle and profound" but is used in a sentence to express the sudden "awareness of the universe that triggers emotional responses that are too mysterious and deep for <a href="https://theodysseyonline.com/le-moyne/11-beautiful-untranslatable-japanese-words/221351" target="_blank" rel="noopener">words</a>." It is a beautiful word and perfectly describes the four days I spent last week skiing, travelling, and eating my way through Iwate and Akita Prefectures of northern Japan.</p>
 
 <p class="mt-2 mb-2 font-semibold">Day One</p>

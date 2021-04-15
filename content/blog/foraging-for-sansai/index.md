@@ -4,7 +4,7 @@ description: A new friend teaches me all about the bounty found throughout the J
 date: 2015-06-27T03:13:00+02:00
 tags: [Niigata Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">A few months back Tenkara Fisher published this great interview with Kazuya Shimoda. Kazuya talked a lot about headwaters Tenkara deep within the mountains of Japan. Kazuya said "it [was] necessary to have stream side lifestyle skills... such as knowledge of Sansai mountain vegetables, mushroom gathering, and fire making skills" if you want to experience remote headwater Tenkara. For the short time I have been in Japan I have sought after remote, untouched, and wild mountain streams filled with native trout.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Sansai/hydrangea-wild-japan-ajisai.JPG" alt="Ajisai/Hydrangea" />

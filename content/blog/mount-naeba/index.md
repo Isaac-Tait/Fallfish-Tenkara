@@ -4,7 +4,7 @@ description: Mount Naeba is widely known for its world class ski resort. However
 date: 2017-06-26T03:13:00+02:00
 tags: [Nagano Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 font-semibold text-center text-red-500">Akiyamago 秋山郷</p>
 <hr />
 

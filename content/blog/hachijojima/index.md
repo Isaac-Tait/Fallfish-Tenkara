@@ -4,7 +4,7 @@ description: A short flight east into the middle of the Pacific from Tokyo lies 
 date: 2016-09-14T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Back in July my friend Junpei asked me if I wanted to go to a Japanese music festival on Hachijojima, a tiny island off the coast of Japan. The music festival called Liquid Groove Drop, was a mix of Indian music, techno, and electronic dance music. The venue was the Yokotoike Ura Beach (横問ヶ浦) on the west side of the island. I was intrigued and after doing some research on the island I emphatically said "YES!"</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Hachijojima/hachijojima-izu+islands-philippine+sea-Fuji_Hakone_Izu+National+Park.jpg" alt="View of the island from the airplane" />

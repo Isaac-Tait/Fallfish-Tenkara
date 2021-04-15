@@ -4,7 +4,7 @@ description: I begin construction on a custom camper microvan aka Kei van for Te
 date: 2016-02-27T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">It has been a busy month! Before heading up to <a href="https://www.fallfishtenkara.com/rivers-of-hokkaido/" target="_blank" rel="noopener noreferrer">Hokkaido</a> for the <a href="https://www.fallfishtenkara.com/sapporo-snow-festival/" target="_blank" rel="noopener noreferrer">Sapporo Snow Festival</a> and the <a href="https://www.fallfishtenkara.com/otaru-light-festival/" target="_blank" rel="noopener noreferrer">Otaru Light Festival</a>; and between ski trips to Shiga Kogen, <a href="https://www.facebook.com/media/set/?set=a.455240918013301.1073741831.355562167981177&amp;type=1&amp;l=c000eccd9f" target="_blank" rel="noopener noreferrer">hiking around the Miura Hills</a>, and planning a ski road trip to Akita and Iwate Prefectures I have been doing some work to build my very own custom camper microvan.</p>
 
 <p class="mt-2 mb-2">Last summer I purchased a 1995 Daihatsu Atrai <a href="https://www.fallfishtenkara.com/japanese-kei-cars/" target="_blank" rel="noopener noreferrer">Kei car</a>, which for me this is a perfect vehicle. However, storing gear for Tenkara and skiing adventures quickly filled up the interior. So I began to brainstorm ideas to maximize the interior space while not detracting from the driveability and low key nature of the vehicle.</p>

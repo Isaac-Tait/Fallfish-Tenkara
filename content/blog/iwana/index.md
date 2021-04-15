@@ -4,7 +4,7 @@ description: Iwana, a beautiful and colorfully spotted char, is mostly a landloc
 date: 2015-09-01T03:13:00+02:00
 tags: [Gunma Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Iwana (pronounced Ee-wan-ah), a beautiful and colorfully spotted char, is mostly a landlocked fish due to the multitude of dams and weirs on the Japanese mountain streams. The Iwana that are not landlocked and can swim to the ocean can live for up to nine years and grow over 60cm long! They thrive best in cold and clear mountain streams and are not as easily spooked as Yamame. They are a very hardy fish living in areas that one would think would be impossible to survive in. They are also a blast to catch!</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Iwana/home+made+ramen-japan-oze+national+park-tenkara-breakfast.JPG" alt="Breakfast of champions" />

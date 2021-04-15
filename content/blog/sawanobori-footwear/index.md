@@ -4,7 +4,7 @@ description: A review of quite possibly the best tenkara fishing shoes on the pl
 date: 2015-07-15T03:13:00+02:00
 tags: [Gear Review]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2"><a href="https://www.fallfishtenkara.com/epidote-creek/" target="_blank" rel="noopener">Genryū</a> (源流) is translated as a "river source, headstream, or headwaters". It is in the genryū of Japan that I prefer to fish with my Tenkara rod. There are several reasons for this preference but my main reason is that I don't want to pay an arm and a leg to fish elbow to elbow with a hundred other anglers. As soon as I get off the beaten path and follow the little blue lines on the map I find solitude, peace, and trout; sometimes within spittin' distance of Tokyo (ok a slight exaggeration, unless you can spit 35 miles...).</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Sour+Boots/Sour+Shoes-Montbell-+Sawanobori-standing+on+a+rock.JPG" alt="Mossy rock" />

@@ -4,7 +4,7 @@ description: I had the honor to learn the ancient Japanese craft of Edo Wazao fr
 date: 2018-04-05T03:13:00+02:00
 tags: [Saitama Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2 font-semibold text-center text-red-500">A Year Learning from a Japanese Bamboo Craftsman a.k.a. Wazao Shokunin</p>
 
 <p class="mt-2 mb-2">I first met Masayuki Yamano in September of 2016 at the Bansho in Fukushima Prefecture (more details <a href="https://www.fallfishtenkara.com/exploring-aizu/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>). Little did I know then how much he would impact my life. Now that I am back in the United States I wanted to share with my readers and the tenkara community at large my experiences learning from a third generation Wazao Shokunin.</p>

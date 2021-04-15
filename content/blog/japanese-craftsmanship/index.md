@@ -4,7 +4,7 @@ description:
 date: 2016-12-09T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">The craftsmanship of Japanese artisans is extraordinary - a fact known to many but one that has become more apparent to me through first hand experience. Last month, <a href="https://www.discovertenkara.co.uk" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"
 >Discover Tenkara</a> featured my article about Yamano-san, and his <a href="https://www.discovertenkara.co.uk/blog/blog-31.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"
 >bamboo</a> fishing rod craftsmanship. Then a few weeks later Jason Klass at <a href="https://tenkaratalk.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"

@@ -4,7 +4,7 @@ description: From convenience store food to sushi restaurants - Japanese food is
 date: 2015-05-16T03:13:00+02:00
 tags: [Random]
 ---
-<div class=“text-lg m-2">
+<div class="text-lg mt-2">
 <p class="mb-2"><strong>Warning!</strong> If you are hungry, eat something before viewing this post. You have been warned!</span></p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Japanese+Cuisine/Basil-Seed-Drink_Japan.JPG" alt="Basil seed beverage" />

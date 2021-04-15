@@ -4,7 +4,7 @@ description: Far off the east coast of Japan lies a volcano crater sticking out 
 date: 2016-09-18T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
-<div class=“text-lg m-2”>
+<div class="text-lg mt-2">
 <p class="mb-2">Before I moved to Japan my wife's Grandma emailed me an article about a tiny island, way out in the ocean off the coast of Japan. She sent it to me with a quick note <em>"You should visit this island sometime - Love, Grandma"</em>. After reading up on the island and how remote it is and difficult to access I was sold on visiting. Well it just so happens that the only way to get to the island is by ferry or helicopter, both of which depart from Hachijojima. Since we were already going to be there for the music festival we made plans to tack on a visit to this island, which is known as Aogashima, to our trip.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aogoshima/Aogashima-izu-islands-tokyo-prefecture-philippine-sea-volcano-edit.jpg" alt="Photo of Aogashima from the air" />
