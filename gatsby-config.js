@@ -27,7 +27,7 @@ const queries = [
     query: BlogQuery,
     transformer: ({ data }) => data.allMarkdownRemark.nodes, }
 ];
-
+//Update:
 module.exports = {
   siteMetadata: {
     title: `Fallfish Tenkara`,
