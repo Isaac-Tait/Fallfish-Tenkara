@@ -16,7 +16,7 @@ function Slider() {
         id
         name
         childImageSharp {
-          gatsbyImageData(width: 900, height: 255, quality: 100, layout: CONSTRAINED)
+          gatsbyImageData(quality: 100, layout: FULL_WIDTH)
         }
       }
     }
