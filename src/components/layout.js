@@ -3,7 +3,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 
 import Navigation from "../components/navigation"
 import Slider from "../components/slider"
-import { GatsbyImage } from "gatsby-plugin-image";
+import { StaticImage } from "gatsby-plugin-image";
 import Footer from "../components/footer"
 import Pagination from "../templates/blog-pagination"
 
@@ -18,6 +18,7 @@ const Layout = ({ location, children }) => {
         width: 500
         quality: 50
         placeholder: TRACED_SVG
+        formats: [AUTO, WEBP, AVIF]
         layout: CONSTRAINED
       )
     }
@@ -27,7 +28,8 @@ const Layout = ({ location, children }) => {
       gatsbyImageData(
         width: 250
         quality: 100
-        placeholder: TRACED_SVG
+        placeholder: BLURRED
+        formats: [AUTO, WEBP, AVIF]
         layout: CONSTRAINED
       )
     }
@@ -46,14 +48,14 @@ const logos = [
   if (location.pathname === rootPath) {
     header = (
       <div class="ml-20 mr-20 mb-2">
-        <GatsbyImage image={logos} alt="Fallfish Tenkara" />
+        <StaticImage image={logos} alt="Fallfish Tenkara" />
       </div>
     )
   } else {
     header = (
       <div class="ml-20 mr-20 mb-2">
         <Link to={`/`}>
-          <GatsbyImage image={logos} alt="Fallfish Tenkara" />
+          <StaticImage image={logos} alt="Fallfish Tenkara" />
         </Link>
       </div>
         
