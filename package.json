@@ -13,7 +13,6 @@
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "@tailwindcss/typography": "^0.4.0",
     "algoliasearch": "^3.35.1",
-    "autoprefixer": "^9.8.6",
     "gatsby": "^2.32.3",
     "gatsby-awesome-pagination": "^0.3.6",
     "gatsby-image": "^2.11.0",
@@ -35,7 +34,6 @@
     "gatsby-source-filesystem": "^2.11.0",
     "gatsby-transformer-remark": "^2.16.0",
     "gatsby-transformer-sharp": "^2.12.0",
-    "postcss": "^7.0.35",
     "prismjs": "^1.23.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -44,18 +42,20 @@
     "react-pro-sidebar": "^0.4.4",
     "react-typography": "^0.16.19",
     "striptags": "^3.1.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "autoprefixer": "^10.2.5",
     "eslint": "^7.20.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "2.1.1"
+    "postcss": "^8.2.15",
+    "prettier": "2.1.1",
+    "tailwindcss": "^2.1.2"
   },
   "homepage": "https://www.fallfishtenkara.com",
   "keywords": [
