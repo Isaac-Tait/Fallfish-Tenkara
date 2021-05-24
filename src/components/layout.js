@@ -3,7 +3,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 
 import Navigation from "../components/navigation"
 import Slider from "../components/slider"
-import { StaticImage } from "gatsby-plugin-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 import Footer from "../components/footer"
 import Pagination from "../templates/blog-pagination"
 
@@ -48,14 +48,14 @@ const logos = [
   if (location.pathname === rootPath) {
     header = (
       <div class="ml-20 mr-20 mb-2">
-        <StaticImage image={logos} alt="Fallfish Tenkara" />
+        <GatsbyImage image={logos} alt="Fallfish Tenkara" />
       </div>
     )
   } else {
     header = (
       <div class="ml-20 mr-20 mb-2">
         <Link to={`/`}>
-          <StaticImage image={logos} alt="Fallfish Tenkara" />
+          <GatsbyImage image={logos} alt="Fallfish Tenkara" />
         </Link>
       </div>
         
