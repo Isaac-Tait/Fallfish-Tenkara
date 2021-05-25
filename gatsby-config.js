@@ -170,7 +170,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-images`,
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-awesome-pagination`,
     {
