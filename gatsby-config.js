@@ -113,9 +113,6 @@ module.exports = {
       }
     },
     {
-      resolve: `gatsby-plugin-remove-serviceworker`,
-    },
-    {
       resolve: `gatsby-plugin-page-creator`,
       options: {
         path: `${__dirname}/src/pages`,
@@ -169,22 +166,13 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
         ],
       },
     },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-image`,
+    `gatsby-plugin-images`,
     `gatsby-plugin-sharp`,
     `gatsby-awesome-pagination`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
-    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -198,12 +186,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
     `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-plugin-algolia`,
